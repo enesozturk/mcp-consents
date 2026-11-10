@@ -287,3 +287,8 @@ picture { display: contents }
   ::view-transition-group(*), ::view-transition-old(*), ::view-transition-new(*) { animation: none !important }
   .detail .hero .fav, .detail .hero h1, .detail .hero p, .detail .browser { view-transition-name: none }
 }
+
+/* GitHub link in the header */
+.top nav { align-items: center }
+.top nav .gh { display: inline-grid; place-items: center; width: 28px; height: 28px; margin: -5px -6px -5px 0; border-radius: 8px; color: var(--ink-2) }
+.top nav .gh:hover { color: var(--ink); background: var(--surface-2) }
