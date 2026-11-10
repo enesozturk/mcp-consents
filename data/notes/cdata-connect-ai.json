@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google",
+    "microsoft",
+    "linkedin"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Text captcha",
+    "Unlabelled email field",
+    "Third-party sign-in",
+    "Narrow single card"
+  ],
+  "notes": "A narrow card with the Connect AI logo says 'Welcome' and 'Log in to Connect AI to continue'. It shows an email field with no visible label, a distorted-text captcha image, a code entry field and a navy Continue button. Below an OR divider are Continue with LinkedIn, Microsoft Account and Google buttons. The captcha adds friction before the first step, and the page names no requesting app or permissions."
+}

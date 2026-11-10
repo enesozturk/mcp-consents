@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Minimal centered form",
+    "Tagline under heading",
+    "Marketplace Terms link",
+    "Unbranded to client"
+  ],
+  "notes": "A plain white page with a small purple Motion logo, 'Log in to Motion', a tagline about shipping more winning ads and a Sign up link. It offers Sign in with Google, then email and password fields (with a reveal toggle) and a black 'Sign in with email' button, plus a Forgot password link. The terms line also links Marketplace Terms. The page does not name the requesting app or list permissions."
+}

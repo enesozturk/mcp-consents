@@ -1,0 +1,13 @@
+{
+  "score": 4.1,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "warning_only",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Name and logo shown; no redirect URL but a warning; no account; permissions listed but not configurable.",
+  "by": "tester_feedback"
+}

@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Third-party IdP",
+    "Amazon Cognito hosted UI",
+    "Dark patterned backdrop",
+    "Grouped sections"
+  ],
+  "notes": "This is an Amazon Cognito hosted sign-in page, served from a cognito domain, with the Jentic logo on a white card over a dark teal geometric background. The card is split into 'With other accounts' with a Sign in with Google button and 'With existing account' with an email field and a Next button that looks disabled until input. A 'New user? Create an account' link ends the card. The page does not name the requesting app or describe the openid, email and profile scopes."
+}

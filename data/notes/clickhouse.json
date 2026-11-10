@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google",
+    "microsoft"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark background",
+    "Text captcha",
+    "Yellow Register link"
+  ],
+  "notes": "A white card on a dark grey background under the ClickHouse logo says 'Sign in' and has an email field, a distorted-text captcha image, a code entry field and a black Continue button. Google sign in and Microsoft sign in buttons sit below an OR divider, and a yellow Register link is under the card. The captcha is shown before any account step. The requesting app and permissions are not shown."
+}

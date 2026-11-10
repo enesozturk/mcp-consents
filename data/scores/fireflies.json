@@ -1,0 +1,12 @@
+{
+  "score": 2.3,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Names Fireflies MCP instead of the client and lists only identity scopes. No account, no redirect."
+}

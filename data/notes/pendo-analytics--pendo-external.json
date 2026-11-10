@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen with abstract panel",
+    "Time-based greeting",
+    "EU subscription link",
+    "Remember me checkbox"
+  ],
+  "notes": "The left half has the Pendo logo, a time-based 'Good evening!' heading repeated in the body text, an email field, a pink Sign in button, a Forgot your password link and a Remember me checkbox. Below an OR divider is a Sign in with Google button and a line for EU subscribers to sign in at a separate address. The right half is a pale panel with a large faint brush-stroke shape. The page does not name the requesting app or show permissions."
+}

@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": true,
+  "highlights": [
+    "Shows redirect URI",
+    "Advanced Details expander",
+    "Why am I seeing this link",
+    "Client and server named"
+  ],
+  "notes": "A white card with the PandaDoc logo is headed 'Application Access Request'. A blue info box says 'The application MCP Consents wants to access the MCP server PandaDoc' and asks the user to check the callback address. A yellow box shows 'Credentials will be sent to: http://localhost:33418/callback'. An Advanced Details expander, green Allow Access and grey Deny buttons follow, and a 'Why am I seeing this?' link sits bottom right. No sign-in form and no itemised permissions are shown."
+}

@@ -1,0 +1,19 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "microsoft",
+    "sso",
+    "password",
+    "magic_link",
+    "linkedin"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Cookie banner",
+    "Many sign-in routes",
+    "Email-link option"
+  ],
+  "notes": "A white header with the workable logo sits above a centered card, 'Sign in to Workable'. It stacks Sign in with Google, Microsoft and LinkedIn buttons and a text link for Single Sign-on, then an OR divider with a work email field. Two actions follow: a green 'Sign in with Password' button and an outlined 'Email me a link to sign in instantly'. A free-trial sign-up link sits below the card, and a cookie bar (Accept, Decline) runs across the bottom. LinkedIn is shown but is not in the sign_in_methods enum, so it is omitted. The requesting app and the 23 recruiting and HR scopes are not shown."
+}

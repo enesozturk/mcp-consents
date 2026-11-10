@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "toggles",
+  "names_client": false,
+  "highlights": [
+    "Split-screen",
+    "Access-level presets",
+    "Per-permission checkboxes",
+    "Sensitive Data badge"
+  ],
+  "notes": "A split consent page. The left panel, 'Select Access Level', offers radio presets (Read Only selected, Standard, Full Access, Custom), each with a short description, and refers to the requester only as 'the AI agent'. The right panel, 'Permission Details', lists permissions by group (Appointments, Banking and others) as monospace scope names such as APPOINTMENTS_READ, each with a plain-English description and a checkbox. Read scopes are pre-ticked under Read Only, and risky ones like BANK_ACCOUNTS_READ carry a red 'Sensitive Data' badge. Decline and Grant Access buttons stay pinned below the scrolling list, and no sign-in form is shown."
+}

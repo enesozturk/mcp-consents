@@ -1,0 +1,12 @@
+{
+  "score": 3.7,
+  "criteria": {
+    "account": "picker",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Shows account, switch option, organization and the full redirect in a warning. No actual permission list, just 'act on your behalf for 7 days'."
+}

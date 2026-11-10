@@ -1,0 +1,12 @@
+{
+  "score": 4.3,
+  "criteria": {
+    "account": "picker",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Account with switch link, workspace dropdown, redirect URL, unverified warning and ten grouped view/manage permissions; not configurable and a bit tall, with a duplicated workspace line."
+}

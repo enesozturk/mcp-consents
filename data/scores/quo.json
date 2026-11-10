@@ -1,0 +1,12 @@
+{
+  "score": 3.3,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "weak"
+  },
+  "reason": "Good permission list with the redirect and an unverified notice, but no account and no Quo branding on the page."
+}

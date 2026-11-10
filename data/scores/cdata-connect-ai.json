@@ -1,0 +1,13 @@
+{
+  "score": 0,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "broken",
+    "brand": "weak"
+  },
+  "reason": "No UI at all: the browser goes straight back to the client without any consent screen.",
+  "by": "tester_feedback"
+}

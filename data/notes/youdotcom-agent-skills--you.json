@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google",
+    "microsoft"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Centered card",
+    "Email-first",
+    "Shared you.com login"
+  ],
+  "notes": "A white page with a soft-shadowed card holding the you.com logo, an email field (shown grayed), a black Continue button, an 'or' divider and Sign in with Google and Sign in with Microsoft buttons. The footer says 'By continuing, I agree to the Company's Privacy Statement and Terms of Service'. The page is identical for the three you.com skill variants. The requesting app and the Tools scope are not mentioned."
+}

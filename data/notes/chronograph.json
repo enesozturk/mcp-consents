@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark UI",
+    "Minimal card",
+    "Email-first step",
+    "Material-style form"
+  ],
+  "notes": "A white card on a dark slate background says 'Please log in' and asks for the email address of the account used with Chronograph. It has one underlined email field and a greyed NEXT button, with the Chronograph name as plain text in the top-left and a lock icon in the bottom-right. There are no social buttons, no requesting app name and no permissions."
+}

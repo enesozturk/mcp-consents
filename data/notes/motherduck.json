@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "list",
+  "names_client": true,
+  "highlights": [
+    "Shows redirect URI",
+    "Redirect warning box",
+    "Neo-brutalist style",
+    "Itemised permission"
+  ],
+  "notes": "A bordered white card on a beige page shows the MotherDuck logo and a monospace 'Connect an MCP client' heading. It says MCP Consents is asking to connect to your MotherDuck account and lists what it can do in a checked box: 'Use your MotherDuck account', described as viewing data, making changes and performing actions with your permissions. A yellow warning box with an alert icon shows the redirect http://localhost:33418/callback and says to continue only if you trust it. Cancel and Continue buttons follow, with no sign-in form."
+}

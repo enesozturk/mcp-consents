@@ -1,0 +1,12 @@
+{
+  "score": 2.7,
+  "criteria": {
+    "account": "none",
+    "permissions": "summary",
+    "redirect": "none",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Asks for an instance URL and a terms checkbox, permissions are two vague lines and there is no redirect or account."
+}

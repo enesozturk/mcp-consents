@@ -1,0 +1,13 @@
+{
+  "first_screen": "bot_challenge",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Cloudflare challenge",
+    "Branded interstitial",
+    "Cloud illustration",
+    "Blocks before sign-in"
+  ],
+  "notes": "The first screen is a Cloudflare 'Verify you are human' checkbox on a white card headed 'Just a moment...', with the Gamma wordmark above it. The card sits over a pale sky gradient with cloud artwork, so the interstitial is branded rather than the default Cloudflare page. No sign-in form, requesting app name or permissions are visible until the check is passed."
+}

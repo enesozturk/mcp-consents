@@ -1,0 +1,12 @@
+{
+  "score": 2.7,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Client name, website and redirect URI are listed, but no account and no permissions; generic framework page."
+}

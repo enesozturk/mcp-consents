@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "list",
+  "names_client": true,
+  "highlights": [
+    "Shows redirect URI",
+    "Shows client ID",
+    "Unverified-name warning",
+    "Confirmation checkbox"
+  ],
+  "notes": "The headline reads 'MCP Consents wants to access your Intercom workspace', followed by 'Check who is asking and where your data will go before you continue.' A card notes the app name is supplied by the application and not verified by Intercom, then lists three permissions with green ticks: view conversations and add internal notes, view contacts and companies, and view, create and update articles. It also shows the client ID and 'Redirects to http://localhost:33418/callback'. The user must tick 'I have checked the application and the redirect address above' before using the green Allow button, with a Cancel button beside it. Footer text says the requesting application is not operated by Intercom."
+}

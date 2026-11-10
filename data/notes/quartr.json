@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "toggles",
+  "names_client": true,
+  "highlights": [
+    "Read-only access checkbox",
+    "Details table with scope",
+    "Shows redirect URI",
+    "Client and server icon pair"
+  ],
+  "notes": "A white card shows a client initial icon ('M') and the Quartr icon joined by arrows, with the heading 'MCP Consents is requesting access'. A Details table lists Name, Redirect URI (http://localhost:33418/callback) and Scope (mcp:tools), followed by a note that approving redirects you to authenticate with your Quartr account. An unchecked 'Read-only access' checkbox explains the client could then read data but not change watchlists, keywords, saved items, workspaces or search filters, so the user can narrow access before approving. Cancel and Approve buttons end the card."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 2.7,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "weak",
+    "brand": "ok"
+  },
+  "reason": "Long plain-text list of eleven broad permissions, no account, no redirect and the button falls below the fold. Pretty photo but not a good flow."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 4.5,
+  "criteria": {
+    "account": "picker",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Beautiful branded card with client and Prisma icons, signed-in email with switch account, workspace dropdown, access summary and return-to host; permissions not configurable."
+}

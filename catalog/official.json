@@ -1,0 +1,2388 @@
+[
+  {
+    "id": "activecampaign",
+    "name": "activecampaign",
+    "server_name": "activecampaign",
+    "mcp_url": "${user_config.server_url}",
+    "transport": "http",
+    "templated": true,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Marketing automation, CRM, and email marketing powered by ActiveCampaign. Manage contacts, campaigns, automations, deals, and get AI-powered marketing insights — all from Claude.",
+    "author": "ActiveCampaign",
+    "category": "productivity",
+    "homepage": "https://www.activecampaign.com",
+    "repo": "https://github.com/ActiveCampaign/activecampaign-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "adobe-for-creativity",
+    "name": "adobe-for-creativity",
+    "server_name": "Adobe",
+    "mcp_url": "https://adobe-creativity.adobe.io/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Harness Adobe's creative AI-powered tools to edit images, automate design workflows, and bring creative visions to life — from background removal to vectorization and professional retouching.",
+    "author": "Adobe",
+    "category": "design",
+    "homepage": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity",
+    "repo": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "airtable",
+    "name": "airtable",
+    "server_name": "airtable",
+    "mcp_url": "https://mcp.airtable.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Airtable is the database and operations layer for your agents — whether running product, marketing, sales, ops, HR, or a custom business app. It combines structured data with multiplayer visual surfaces (grid, kanban, calendar, gallery, timeline) humans and agents share — plus sync integrations to Jira, Salesforce, Zendesk, Google Drive, Databricks, and the rest of your stack, all backed by enterprise governance. This plugin makes Claude fluent in Airtable: creating bases and schema, working with records, and sharing UI for collaboration. Bundles the official Airtable MCP server.",
+    "author": "Airtable",
+    "category": "productivity",
+    "homepage": "https://www.airtable.com",
+    "repo": "https://github.com/Airtable/skills/tree/main/plugins/airtable",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "airwallex-agentos--airwallex-agentos",
+    "name": "airwallex-agentos",
+    "server_name": "airwallex-agentos",
+    "mcp_url": "https://mcp.airwallex.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Bring Airwallex's global financial infrastructure to Claude. Orchestrate actions across your account in plain language, e.g., set up invoices from a PO, onboard suppliers from invoices, and check current cash position across currencies. AgentOS bundles pre-built finance Skills with MCP servers. A public CLI connects your agent to Airwallex's capabilities.",
+    "author": "Airwallex",
+    "category": "productivity",
+    "homepage": "https://www.airwallex.com/docs",
+    "repo": "https://github.com/airwallex/airwallex-marketplace/tree/master/plugins/airwallex-agentos",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "airwallex-agentos--airwallex-dev",
+    "name": "airwallex-agentos",
+    "server_name": "airwallex-dev",
+    "mcp_url": "https://mcp.sandbox.airwallex.com/developer",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Bring Airwallex's global financial infrastructure to Claude. Orchestrate actions across your account in plain language, e.g., set up invoices from a PO, onboard suppliers from invoices, and check current cash position across currencies. AgentOS bundles pre-built finance Skills with MCP servers. A public CLI connects your agent to Airwallex's capabilities.",
+    "author": "Airwallex",
+    "category": "productivity",
+    "homepage": "https://www.airwallex.com/docs",
+    "repo": "https://github.com/airwallex/airwallex-marketplace/tree/master/plugins/airwallex-agentos",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "airwallex-dev",
+    "name": "airwallex-dev",
+    "server_name": "airwallex-dev",
+    "mcp_url": "https://mcp.sandbox.airwallex.com/developer",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Build Airwallex payment integrations in your own codebase. Generates the checkout, card-element, onboarding, and subscription-billing code for an Airwallex integration and wires it into your project: Hosted Payment Page, Drop-in and Split Card elements, connected-account KYC onboarding, and Billing Hosted Checkout for subscriptions and card-saving. Also plans card-on-file merchant-initiated flows for AI providers such as top-ups and auto-recharge.",
+    "author": "Airwallex",
+    "category": "development",
+    "homepage": "https://www.airwallex.com/docs",
+    "repo": "https://github.com/airwallex/airwallex-marketplace/tree/master/plugins/airwallex-dev",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "aiven",
+    "name": "aiven",
+    "server_name": "aiven",
+    "mcp_url": "https://mcp.aiven.live/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Easily deploy managed PostgreSQL (pg), Kafka, OpenSearch, Clickhouse and other databases, streaming and apps. Free tier available, up and running in minutes.",
+    "author": "Aiven",
+    "category": "database",
+    "homepage": "https://aiven.io",
+    "repo": "https://github.com/aiven/aiven-ai-plugins",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "amazon-selling-partner",
+    "name": "amazon-selling-partner",
+    "server_name": "amazon-selling-partner",
+    "mcp_url": "https://sellingpartner-ai.amazon.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Connect your Amazon Seller Central account to Claude. Ask about sales, inventory, and listing performance and get recommendations grounded in your own data, then review and approve every listing, inventory or FBA action before it runs. Bundles the Amazon Selling Partner MCP server (Seller Central OAuth on first use). Currently in beta.",
+    "author": "Amazon",
+    "category": "productivity",
+    "homepage": "https://github.com/amzn/selling-partner-agentic-toolkit",
+    "repo": "https://github.com/amzn/selling-partner-agentic-toolkit",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "amplitude",
+    "name": "amplitude",
+    "server_name": "amplitude",
+    "mcp_url": "https://mcp.amplitude.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Use Amplitude as an expert analyst — instrument Amplitude, discover product opportunities, analyze charts, create dashboards, manage experiments, and understand users and accounts.",
+    "author": null,
+    "category": "monitoring",
+    "homepage": "https://github.com/amplitude/mcp-marketplace",
+    "repo": "https://github.com/amplitude/mcp-marketplace/tree/main/plugins/amplitude",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "apollo",
+    "name": "apollo",
+    "server_name": "apollo",
+    "mcp_url": "https://mcp.apollo.io/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Prospect, enrich leads, load outreach sequences, and query sales analytics with Apollo.io — one-click MCP server integration for Claude Code and Cowork.",
+    "author": "Apollo.io",
+    "category": "productivity",
+    "homepage": "https://www.apollo.io/",
+    "repo": "https://github.com/apolloio/apollo-mcp-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "apollo-skills",
+    "name": "apollo-skills",
+    "server_name": "graphos-tools",
+    "mcp_url": "https://mcp.apollographql.com",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Apollo GraphQL agent skills for Claude Code — Apollo Client, Server, Federation, Connectors, Router, Rover CLI, iOS, Kotlin, and the Apollo MCP server. Covers schema design, query optimization, and GraphQL best practices.",
+    "author": "Apollo GraphQL",
+    "category": "development",
+    "homepage": "https://www.apollographql.com",
+    "repo": "https://github.com/apollographql/skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "appwrite",
+    "name": "appwrite",
+    "server_name": "appwrite",
+    "mcp_url": "https://mcp.appwrite.io/",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Appwrite tools for Claude Code, including SDK skills, Appwrite MCP servers, and deployment commands.",
+    "author": "Appwrite",
+    "category": "development",
+    "homepage": "https://appwrite.io",
+    "repo": "https://github.com/appwrite/claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "atlan",
+    "name": "atlan",
+    "server_name": "atlan",
+    "mcp_url": "https://mcp.atlan.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Atlan data catalog plugin for Claude Code. Search, explore, govern, and manage your data assets through natural language. Powered by the Atlan MCP server with semantic search, lineage traversal, glossary management, data quality rules, and more.",
+    "author": null,
+    "category": null,
+    "homepage": "https://docs.atlan.com/",
+    "repo": "https://github.com/atlanhq/agent-toolkit",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "atlassian",
+    "name": "atlassian",
+    "server_name": "atlassian",
+    "mcp_url": "https://mcp.atlassian.com/v2/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Connect to Atlassian products including Jira and Confluence. Search and create issues, access documentation, manage sprints, and integrate your development workflow with Atlassian's collaboration tools.",
+    "author": null,
+    "category": "productivity",
+    "homepage": "https://github.com/atlassian/atlassian-mcp-server",
+    "repo": "https://github.com/atlassian/atlassian-mcp-server",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "aws-agents",
+    "name": "aws-agents",
+    "server_name": "awsknowledge",
+    "mcp_url": "https://knowledge-mcp.global.api.aws",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Build, deploy, and operate AI agents on AWS. Skills for scaffolding agents with Amazon Bedrock AgentCore, connecting tools, memory, policies, evaluation, debugging, and production hardening.",
+    "author": "Amazon Web Services",
+    "category": "development",
+    "homepage": "https://github.com/aws/agent-toolkit-for-aws",
+    "repo": "https://github.com/aws/agent-toolkit-for-aws/tree/main/plugins/aws-agents",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "aws-agents-for-devsecops",
+    "name": "aws-agents-for-devsecops",
+    "server_name": "aws-devops-agent",
+    "mcp_url": "https://connect.aidevops.${DEVOPS_AGENT_REGION:-us-east-1}.api.aws/mcp",
+    "transport": "http",
+    "templated": true,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Investigate incidents, review code and execute UAT for release readiness, scan code for vulnerabilities, and run penetration tests with AWS DevOps Agent and AWS Security Agent.",
+    "author": "Amazon Web Services",
+    "category": "development",
+    "homepage": "https://github.com/aws/agent-toolkit-for-aws",
+    "repo": "https://github.com/aws/agent-toolkit-for-aws/tree/main/plugins/aws-agents-for-devsecops",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "bigdata-com",
+    "name": "bigdata-com",
+    "server_name": "bigdata.com",
+    "mcp_url": "https://mcp.bigdata.com",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Official Bigdata.com plugin providing financial research, analytics, and intelligence tools powered by Bigdata MCP.",
+    "author": "RavenPack",
+    "category": "database",
+    "homepage": "https://docs.bigdata.com",
+    "repo": "https://github.com/Bigdata-com/bigdata-plugins-marketplace/tree/main/plugins/bigdata-com",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "blackrock-advisor-center-plugin",
+    "name": "blackrock-advisor-center-plugin",
+    "server_name": "blackrock-advisor-center",
+    "mcp_url": "https://ac360-mcp.blackrock.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "BlackRock Advisor Center 360° skills for financial advisors: portfolio review, opportunity and fund-health checks, guided benchmark selection, guided portfolio building, wealth projections, and routing to Advisor Center web workflows. Requires the BlackRock Advisor Center connector and an Advisor Center account.",
+    "author": "BlackRock Advisor Center",
+    "category": "productivity",
+    "homepage": "https://github.com/blackrock/advisor-center-agent-skills",
+    "repo": "https://github.com/blackrock/advisor-center-agent-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "canva",
+    "name": "canva",
+    "server_name": "canva",
+    "mcp_url": "https://mcp.canva.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Create, edit, review, resize, and brand-check Canva designs with the Canva MCP server.",
+    "author": "Canva",
+    "category": "design",
+    "homepage": "https://www.canva.com",
+    "repo": "https://github.com/canva-sdks/canva-skills/tree/main/plugins/canva",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "catalyst-by-zoho",
+    "name": "catalyst-by-zoho",
+    "server_name": "catalyst-by-zoho",
+    "mcp_url": "https://catalyst.zohomcp.com/mcp/message",
+    "transport": "streamable-http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Official Claude Code plugin for Catalyst by Zoho — full-stack serverless cloud platform. With Skills that covers all services, SDKs, CLI, architecture patterns, pricing, migration guides, and Zoho MCP tool-based resource management.",
+    "author": "Catalyst by Zoho",
+    "category": "development",
+    "homepage": "https://catalyst.zoho.com/",
+    "repo": "https://github.com/catalystbyzoho/claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "circle-skills",
+    "name": "circle-skills",
+    "server_name": "circle",
+    "mcp_url": "https://api.circle.com/v1/codegen/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Ship stablecoin apps faster. Best-practice skills for USDC payments, cross-chain transfers, wallets, and smart contracts — plus Circle's MCP server for real-time SDK and documentation guidance.",
+    "author": "Circle",
+    "category": "development",
+    "homepage": "https://www.circle.com",
+    "repo": "https://github.com/circlefin/skills/tree/master/plugins/circle",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "circleback",
+    "name": "circleback",
+    "server_name": "circleback",
+    "mcp_url": "https://circleback.ai/api/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Circleback conversational context integration. Search and access meetings, emails, calendar events, and more.",
+    "author": null,
+    "category": "productivity",
+    "homepage": "https://github.com/circlebackai/claude-code-plugin.git",
+    "repo": "https://github.com/circlebackai/claude-code-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "clickhouse",
+    "name": "clickhouse",
+    "server_name": "clickhouse",
+    "mcp_url": "https://mcp.clickhouse.cloud/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Connect Claude to your ClickHouse Cloud databases. Browse organizations, services, databases, and table schemas. Run read-only SQL queries against your data and get instant analytical answers. Monitor service backups, review billing costs, and inspect ClickPipe configurations - all through natural conversation.",
+    "author": "ClickHouse",
+    "category": "database",
+    "homepage": "https://github.com/ClickHouse/clickhouse-claude-code-plugin",
+    "repo": "https://github.com/ClickHouse/clickhouse-claude-code-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "cloudflare",
+    "name": "cloudflare",
+    "server_name": "cloudflare",
+    "mcp_url": "https://mcp.cloudflare.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Skills for the Cloudflare developer platform: Workers, Durable Objects, Agents SDK, MCP servers, Wrangler CLI, and web performance.",
+    "author": null,
+    "category": "deployment",
+    "homepage": "https://github.com/cloudflare/skills",
+    "repo": "https://github.com/cloudflare/skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "cockroachdb--cockroachdb-cloud",
+    "name": "cockroachdb",
+    "server_name": "cockroachdb-cloud",
+    "mcp_url": "https://cockroachlabs.cloud/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Connect Claude Code directly to your CockroachDB clusters for hands-on database work — explore schemas, write optimized SQL, debug queries, and manage distributed database clusters. This plugin provides 14 tools across two active MCP backends (self-hosted MCP Toolbox and managed CockroachDB Cloud MCP Server), three specialized agents (DBA, Developer, Operator), 32 skills across 6 operational domains, and built-in safety hooks.",
+    "author": "Cockroach Labs",
+    "category": "database",
+    "homepage": "https://github.com/cockroachdb/claude-plugin",
+    "repo": "https://github.com/cockroachdb/claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "cockroachdb--cockroachdb-toolbox-http",
+    "name": "cockroachdb",
+    "server_name": "cockroachdb-toolbox-http",
+    "mcp_url": "http://127.0.0.1:5000/mcp",
+    "transport": "http",
+    "templated": true,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Connect Claude Code directly to your CockroachDB clusters for hands-on database work — explore schemas, write optimized SQL, debug queries, and manage distributed database clusters. This plugin provides 14 tools across two active MCP backends (self-hosted MCP Toolbox and managed CockroachDB Cloud MCP Server), three specialized agents (DBA, Developer, Operator), 32 skills across 6 operational domains, and built-in safety hooks.",
+    "author": "Cockroach Labs",
+    "category": "database",
+    "homepage": "https://github.com/cockroachdb/claude-plugin",
+    "repo": "https://github.com/cockroachdb/claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "codspeed",
+    "name": "codspeed",
+    "server_name": "CodSpeed",
+    "mcp_url": "https://mcp.codspeed.io/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "CodSpeed is the all-in-one performance testing toolkit. Dive into benchmarking results, flamegraphs, and performance comparisons — give Claude granular profiling context to pinpoint bottlenecks and autonomously iterate on performance via the CodSpeed MCP server.",
+    "author": "CodSpeed",
+    "category": "development",
+    "homepage": "https://codspeed.io",
+    "repo": "https://github.com/CodSpeedHQ/codspeed",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "confidence--confidence-docs",
+    "name": "confidence",
+    "server_name": "confidence-docs",
+    "mcp_url": "https://mcp.confidence.dev/mcp/docs",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Access Confidence feature flags, experiments, and migration tools directly from Claude Code.",
+    "author": "Spotify Confidence",
+    "category": "development",
+    "homepage": "https://confidence.spotify.com",
+    "repo": "https://github.com/spotify/confidence-ai-plugins",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "confidence--confidence-flags",
+    "name": "confidence",
+    "server_name": "confidence-flags",
+    "mcp_url": "https://mcp.confidence.dev/mcp/flags",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Access Confidence feature flags, experiments, and migration tools directly from Claude Code.",
+    "author": "Spotify Confidence",
+    "category": "development",
+    "homepage": "https://confidence.spotify.com",
+    "repo": "https://github.com/spotify/confidence-ai-plugins",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "context7",
+    "name": "context7",
+    "server_name": "context7",
+    "mcp_url": "https://mcp.context7.com/mcp?client=claude-code-plugin",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Upstash Context7 MCP server for up-to-date documentation lookup. Connects to Context7's hosted remote MCP server (https://mcp.context7.com/mcp) — no local Node.js or npx required — to pull version-specific documentation and code examples directly from source repositories into your LLM context. Works anonymously out of the box; set CONTEXT7_API_KEY for higher rate limits.",
+    "author": "Upstash",
+    "category": "development",
+    "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/external_plugins/context7",
+    "repo": "https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/context7",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "databases-on-aws",
+    "name": "databases-on-aws",
+    "server_name": "awsknowledge",
+    "mcp_url": "https://knowledge-mcp.global.api.aws",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Expert database guidance for the AWS database portfolio. Design schemas, execute queries, handle migrations, and choose the right database for your workload.",
+    "author": null,
+    "category": "database",
+    "homepage": "https://github.com/awslabs/agent-plugins",
+    "repo": "https://github.com/awslabs/agent-plugins/tree/main/plugins/databases-on-aws",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "deploy-on-aws",
+    "name": "deploy-on-aws",
+    "server_name": "awsknowledge",
+    "mcp_url": "https://knowledge-mcp.global.api.aws",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Deploy applications to AWS with architecture recommendations, cost estimates, and IaC deployment.",
+    "author": null,
+    "category": "deployment",
+    "homepage": "https://github.com/awslabs/agent-plugins",
+    "repo": "https://github.com/awslabs/agent-plugins/tree/main/plugins/deploy-on-aws",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "dropbox",
+    "name": "dropbox",
+    "server_name": "claude_app_mcp",
+    "mcp_url": "https://mcp.dropbox.com/claude_app_mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "The Dropbox plugin for Claude connects your Dropbox files directly to Claude, so you can search, organize, save generated content, and create sharing links without switching tools. It respects your existing Dropbox permissions, and Claude only works with files you already have access to.",
+    "author": "Dropbox",
+    "category": "productivity",
+    "homepage": "https://www.dropbox.com",
+    "repo": "https://github.com/dropbox/dropbox-ai-plugins/tree/main/claude",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "dynatrace",
+    "name": "dynatrace",
+    "server_name": "dynatrace",
+    "mcp_url": "${DT_ENVIRONMENT}/platform-reserved/mcp-gateway/v0.1/servers/dynatrace-mcp/mcp",
+    "transport": "http",
+    "templated": true,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Dynatrace observability skills: DQL query patterns, application and infrastructure monitoring, log analysis, problem investigation, and incident response workflows, with the Dynatrace MCP server for live platform access.",
+    "author": "Dynatrace",
+    "category": "monitoring",
+    "homepage": "https://www.dynatrace.com/hub/detail/claude-code-cli/",
+    "repo": "https://github.com/Dynatrace/dynatrace-for-ai",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "exa",
+    "name": "exa",
+    "server_name": "exa",
+    "mcp_url": "https://mcp.exa.ai/mcp?client=claude-code-plugin",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Exa AI web search, deep research, and content extraction. Provides MCP tools and research skills for comprehensive web search, people discovery, company research, academic papers, and more.",
+    "author": "Exa",
+    "category": "productivity",
+    "homepage": "https://exa.ai/docs/reference/exa-mcp",
+    "repo": "https://github.com/exa-labs/exa-mcp-server",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "expo",
+    "name": "expo",
+    "server_name": "expo",
+    "mcp_url": "https://mcp.expo.dev/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Official Expo skills for building, deploying, upgrading, and debugging React Native apps with Expo. Covers UI development with Expo Router, SwiftUI and Jetpack Compose components, Tailwind CSS setup, API routes, data fetching, CI/CD workflows, App Store and Play Store deployment, SDK upgrades, DOM components, and dev client distribution.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://github.com/expo/skills/blob/main/plugins/expo/README.md",
+    "repo": "https://github.com/expo/skills/tree/main/plugins/expo",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "figma",
+    "name": "figma",
+    "server_name": "figma",
+    "mcp_url": "https://mcp.figma.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Figma design platform integration. Access design files, extract component information, read design tokens, and translate designs into code. Bridge the gap between design and development workflows.",
+    "author": null,
+    "category": "design",
+    "homepage": "https://github.com/figma/mcp-server-guide",
+    "repo": "https://github.com/figma/mcp-server-guide",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "firecrawl",
+    "name": "firecrawl",
+    "server_name": "firecrawl",
+    "mcp_url": "https://mcp.firecrawl.dev/v2/mcp-search",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Web scraping and crawling powered by Firecrawl. Turn any website into clean, LLM-ready markdown or structured data. Scrape single pages, crawl entire sites, search the web, and extract structured information. Includes an AI agent for autonomous multi-source data gathering - just describe what you need and it finds, navigates, and extracts automatically.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://github.com/firecrawl/firecrawl-claude-plugin.git",
+    "repo": "https://github.com/firecrawl/firecrawl-claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "forge-skills--ads-mcp",
+    "name": "forge-skills",
+    "server_name": "ads-mcp",
+    "mcp_url": "https://mcp.atlassian.com/v1/ads/public/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Forge-focused skills and MCP configuration for Atlassian Forge: scaffold and deploy apps (forge create, templates, dev spaces), build Teamwork Graph connectors for Rovo Search/Rovo Chat, pre-deploy review, systematic debugging, plus Forge docs and Atlassian Design System lookups via MCP.",
+    "author": "Atlassian",
+    "category": "development",
+    "homepage": "https://developer.atlassian.com/platform/forge/",
+    "repo": "https://github.com/atlassian/forge-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "forge-skills--forge",
+    "name": "forge-skills",
+    "server_name": "forge",
+    "mcp_url": "https://mcp.atlassian.com/v1/forge/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Forge-focused skills and MCP configuration for Atlassian Forge: scaffold and deploy apps (forge create, templates, dev spaces), build Teamwork Graph connectors for Rovo Search/Rovo Chat, pre-deploy review, systematic debugging, plus Forge docs and Atlassian Design System lookups via MCP.",
+    "author": "Atlassian",
+    "category": "development",
+    "homepage": "https://developer.atlassian.com/platform/forge/",
+    "repo": "https://github.com/atlassian/forge-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "fullstory",
+    "name": "fullstory",
+    "server_name": "fullstory",
+    "mcp_url": "https://api.fullstory.com/mcp/fullstory",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Connect Claude to Fullstory to query behavioral analytics, session replays, and customer experience insights.",
+    "author": "Fullstory",
+    "category": "monitoring",
+    "homepage": "https://www.fullstory.com",
+    "repo": "https://github.com/fullstorydev/fullstory-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "gc-ai",
+    "name": "gc-ai",
+    "server_name": "gc-ai",
+    "mcp_url": "https://app.gc.ai/api/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Work in your GC AI legal knowledge base from Claude: upload documents, run review playbooks, and ask questions grounded in your own files, all as you.",
+    "author": "GC AI",
+    "category": "productivity",
+    "homepage": "https://docs.gc.ai/api-reference/mcp/overview",
+    "repo": "https://github.com/GC-AI-Inc/gc-ai-claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "github",
+    "name": "github",
+    "server_name": "github",
+    "mcp_url": "https://api.githubcopilot.com/mcp/",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Official GitHub MCP server for repository management. Create issues, manage pull requests, review code, search repositories, and interact with GitHub's full API directly from Claude Code.",
+    "author": null,
+    "category": "productivity",
+    "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/external_plugins/github",
+    "repo": "https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/github",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "gitlab",
+    "name": "gitlab",
+    "server_name": "gitlab",
+    "mcp_url": "https://gitlab.com/api/v4/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "GitLab DevOps platform integration. Manage repositories, merge requests, CI/CD pipelines, issues, and wikis. Full access to GitLab's comprehensive DevOps lifecycle tools.",
+    "author": null,
+    "category": "productivity",
+    "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/external_plugins/gitlab",
+    "repo": "https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/gitlab",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "govtribe",
+    "name": "govtribe",
+    "server_name": "govtribe",
+    "mcp_url": "https://govtribe.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Government contracting research and capture workflows in Claude: opportunity and pipeline briefs, bid/no-bid and competitor analysis, price-to-win and proposal prep, powered by the GovTribe connector.",
+    "author": "GovTribe",
+    "category": "productivity",
+    "homepage": "https://govtribe.com",
+    "repo": "https://github.com/GovTribe/claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "grafana-cloud-mcp",
+    "name": "grafana-cloud-mcp",
+    "server_name": "grafana-cloud",
+    "mcp_url": "https://mcp.grafana.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Hosted MCP server for AI-assisted Grafana Cloud observability — no local installation required.",
+    "author": "Grafana",
+    "category": "monitoring",
+    "homepage": "https://grafana.com",
+    "repo": "https://github.com/grafana/ai-marketplace/tree/main/plugins/grafana-cloud-mcp",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "greptile",
+    "name": "greptile",
+    "server_name": "greptile",
+    "mcp_url": "https://api.greptile.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "AI code review agent for GitHub and GitLab. View and resolve Greptile's PR review comments, run reviews on your working branch, and search your organization's knowledge base and coding patterns, directly from Claude Code.",
+    "author": "Greptile",
+    "category": "development",
+    "homepage": "https://www.greptile.com/docs/mcp-v2/overview",
+    "repo": "https://github.com/greptileai/skills/tree/greptile--v1.3.1/plugins/greptile",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "honeycomb",
+    "name": "honeycomb",
+    "server_name": "honeycomb",
+    "mcp_url": "https://mcp.honeycomb.io/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Skills, agents, and workflows for Honeycomb observability — query patterns, production investigations, SLOs, OpenTelemetry instrumentation, and Beeline migration. Designed to complement the Honeycomb MCP server.",
+    "author": "Honeycomb",
+    "category": "monitoring",
+    "homepage": "https://www.honeycomb.io",
+    "repo": "https://github.com/honeycombio/agent-skill/tree/main/honeycomb",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "hostinger",
+    "name": "hostinger",
+    "server_name": "hostinger",
+    "mcp_url": "https://mcp.hostinger.com",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Deploy, manage and monitor your Hostinger services directly from Claude Code. The plugin connects Claude to Hostinger's remote MCP server, so you can ship sites and apps, manage domains and DNS, run WordPress and operate VPS servers without leaving your coding environment. There's nothing to install on your machine: no Node.js, no npm, no local server. Key features include one-prompt deployments for static sites, Node.js apps (built on Hostinger), full WordPress site imports, and WordPress plugins and themes, plus static and PHP sites on the Agency Plan. Beyond deployments, Claude can search and register domains, edit DNS records and snapshots, check build logs, and manage mailboxes, online stores, email marketing contacts, subscriptions and orders. It can also control VPS firewalls, snapshots and monitoring. Sign in through your browser (OAuth) on first use, or set a `HOSTINGER_API_TOKEN` from hPanel. How to use: there are no commands to memorize. Describe what you want and Claude picks the right tool or deployment skill. Try \"deploy my static site to Hostinger\", \"deploy this Next.js app to example.com\", \"create an A record pointing example.com to 1.2.3.4\", or \"show VPS metrics for the last 24 hours.\"",
+    "author": "Hostinger",
+    "category": "deployment",
+    "homepage": "https://www.hostinger.com",
+    "repo": "https://github.com/hostinger/claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "hubspot-sales",
+    "name": "hubspot-sales",
+    "server_name": "hubspot",
+    "mcp_url": "https://mcp.hubspot.com/anthropic",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Run your HubSpot sales workflow directly from Claude. Adds skills that cover the full sales day: import contacts and deals into HubSpot, get a prioritised morning brief, prep for any call with full CRM context, draft personalised follow-ups grounded in deal history, log calls and update records by describing what happened, and review your pipeline to surface stalling deals. Everything writes back to HubSpot.",
+    "author": "HubSpot",
+    "category": "productivity",
+    "homepage": "https://www.hubspot.com",
+    "repo": "https://github.com/HubSpot/hubspot-mcp-plugins/tree/main/HubSpot-Sales",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "huggingface-skills",
+    "name": "huggingface-skills",
+    "server_name": "huggingface-skills",
+    "mcp_url": "https://huggingface.co/mcp?login",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Build, train, evaluate, and use open source AI models, datasets, and spaces.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://github.com/huggingface/skills.git",
+    "repo": "https://github.com/huggingface/skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "hunter",
+    "name": "hunter",
+    "server_name": "hunter",
+    "mcp_url": "https://mcp.hunter.io/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Find and verify professional email addresses, search contacts by domain, and enrich company data -- directly in Claude.",
+    "author": "Hunter.io",
+    "category": "productivity",
+    "homepage": "https://hunter.io",
+    "repo": "https://github.com/hunter-io/claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "incident-io",
+    "name": "incident-io",
+    "server_name": "incident_io",
+    "mcp_url": "https://mcp.incident.io/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Work with incident.io from Claude: respond to and investigate incidents, check on-call schedules and escalations, and author the runbooks, skills and architecture docs that incident.io investigations draw on. Bundles the official incident.io MCP server (OAuth on first use).",
+    "author": "incident.io",
+    "category": "monitoring",
+    "homepage": "https://incident.io",
+    "repo": "https://github.com/incident-io/skills/tree/main/plugins/incident-io",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "intercom",
+    "name": "intercom",
+    "server_name": "intercom",
+    "mcp_url": "https://mcp.intercom.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Intercom integration for Claude Code. Search conversations, analyze customer support patterns, look up contacts and companies, and install the Intercom Messenger. Connect your Intercom workspace to get real-time insights from customer data.",
+    "author": null,
+    "category": "productivity",
+    "homepage": "https://github.com/intercom/claude-plugin-external",
+    "repo": "https://github.com/intercom/claude-plugin-external",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "jfrog",
+    "name": "jfrog",
+    "server_name": "jfrog",
+    "mcp_url": "${JFROG_URL}/mcp",
+    "transport": "http",
+    "templated": true,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Use the JFrog Platform from Claude Code: Artifactory repos and artifacts, security findings and exposures, Catalog package safety and downloads, workflows across the SDLC, and platform administration.",
+    "author": "JFrog Ltd.",
+    "category": "security",
+    "homepage": "https://jfrog.com",
+    "repo": "https://github.com/jfrog/claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "leadfeeder",
+    "name": "leadfeeder",
+    "server_name": "Leadfeeder",
+    "mcp_url": "https://mcp.leadfeeder.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Turn website visitor signals into pipeline with Leadfeeder: daily visitor briefs, visitor company research, buyer and contact discovery, personalised outreach drafts, and adding companies to your Leadfeeder lists, via the Leadfeeder connector. Requires a Leadfeeder account.",
+    "author": "Leadfeeder",
+    "category": "productivity",
+    "homepage": "https://www.leadfeeder.com",
+    "repo": "https://github.com/Leadfeeder/leadfeeder-mcp-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "legalzoom",
+    "name": "legalzoom",
+    "server_name": "legalzoom",
+    "mcp_url": "https://www.legalzoom.com/mcp/claude/v1",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Attorney guidance and legal tools for business and personal needs. AI-powered document review identifies critical risks and important clauses, advises when to engage an attorney, and routes to LegalZoom's network when professional expertise is needed.",
+    "author": null,
+    "category": "productivity",
+    "homepage": "https://www.legalzoom.com/",
+    "repo": "https://github.com/legalzoom/claude-plugins/tree/main/plugins/legalzoom",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "linear",
+    "name": "linear",
+    "server_name": "linear",
+    "mcp_url": "https://mcp.linear.app/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Linear issue tracking integration. Create issues, manage projects, update statuses, search across workspaces, and streamline your software development workflow with Linear's modern issue tracker.",
+    "author": null,
+    "category": "productivity",
+    "homepage": "https://github.com/anthropics/claude-plugins-public/tree/main/external_plugins/linear",
+    "repo": "https://github.com/anthropics/claude-plugins-official/tree/main/external_plugins/linear",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "linq-alpha",
+    "name": "linq-alpha",
+    "server_name": "linqalpha",
+    "mcp_url": "https://api.linqalpha.com/v1/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "LinqAlpha financial research in Claude: guided setup for the LinqAlpha connector, capability-based source selection for fundamentals, estimates, transcripts, filings and market data, and an optional, opt-in default-source preference you can remove at any time. Requires a LinqAlpha account.",
+    "author": "LinqAlpha",
+    "category": "productivity",
+    "homepage": "https://www.linqalpha.com",
+    "repo": "https://github.com/linq-lab/linq-alpha-plugin/tree/main/plugins/linq-alpha",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "logfire",
+    "name": "logfire",
+    "server_name": "logfire",
+    "mcp_url": "${LOGFIRE_MCP_URL:-https://logfire-us.pydantic.dev/mcp}",
+    "transport": "http",
+    "templated": true,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Add Logfire observability to Python applications with auto-instrumentation for FastAPI, httpx, asyncpg, SQLAlchemy, and more",
+    "author": "Pydantic",
+    "category": "monitoring",
+    "homepage": "https://github.com/pydantic/skills/tree/main/plugins/logfire",
+    "repo": "https://github.com/pydantic/skills/tree/main/plugins/logfire",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "logrocket",
+    "name": "logrocket",
+    "server_name": "logrocket",
+    "mcp_url": "https://mcp.logrocket.com/mcp?toolsets=all",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Connect Claude Code to LogRocket to query session replays, metrics, issues, and user behavior using natural language.",
+    "author": "LogRocket",
+    "category": "monitoring",
+    "homepage": "https://logrocket.com",
+    "repo": "https://github.com/LogRocket/logrocket-claude-plugin/tree/main/plugins/logrocket",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "lovable",
+    "name": "lovable",
+    "server_name": "lovable",
+    "mcp_url": "https://mcp.lovable.dev/?src=cc-plugin",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Build, iterate on, deploy, and manage Lovable apps from Claude Code. Bundles the official Lovable MCP server (remote, OAuth 2.1) and adds focused commands for the common build/iterate/database workflows, with credit- and publish-safety prompts.",
+    "author": "Lovable",
+    "category": "development",
+    "homepage": "https://lovable.dev",
+    "repo": "https://github.com/lovablelabs/mcp",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "lusha",
+    "name": "lusha",
+    "server_name": "lusha",
+    "mcp_url": "https://mcp.lusha.com/mcp/claude",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Prospect, enrich, and build call-ready lead lists using Lusha's B2B intelligence platform — verified phone numbers, company signals, and lookalike targeting.",
+    "author": "Lusha",
+    "category": "productivity",
+    "homepage": "https://www.lusha.com",
+    "repo": "https://github.com/lusha-oss/lusha-mcp-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "mapbox--mapbox",
+    "name": "mapbox",
+    "server_name": "mapbox",
+    "mcp_url": "https://mcp.mapbox.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Mapbox skills and MCP servers for building location-aware applications with AI. Includes geospatial tools, style management, and patterns for web, iOS, Android, and AI agent frameworks.",
+    "author": "Mapbox",
+    "category": "location",
+    "homepage": "https://www.mapbox.com",
+    "repo": "https://github.com/mapbox/mapbox-agent-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "mapbox--mapbox-devkit",
+    "name": "mapbox",
+    "server_name": "mapbox-devkit",
+    "mcp_url": "https://mcp-devkit.mapbox.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Mapbox skills and MCP servers for building location-aware applications with AI. Includes geospatial tools, style management, and patterns for web, iOS, Android, and AI agent frameworks.",
+    "author": "Mapbox",
+    "category": "location",
+    "homepage": "https://www.mapbox.com",
+    "repo": "https://github.com/mapbox/mapbox-agent-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "mapbox--mapbox-docs",
+    "name": "mapbox",
+    "server_name": "mapbox-docs",
+    "mcp_url": "https://mcp-docs.mapbox.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Mapbox skills and MCP servers for building location-aware applications with AI. Includes geospatial tools, style management, and patterns for web, iOS, Android, and AI agent frameworks.",
+    "author": "Mapbox",
+    "category": "location",
+    "homepage": "https://www.mapbox.com",
+    "repo": "https://github.com/mapbox/mapbox-agent-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "mercadopago",
+    "name": "mercadopago",
+    "server_name": "mcp",
+    "mcp_url": "https://mcp.mercadopago.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Mercado Pago full-product integration toolkit. One agent routes to four orchestration skills (mp-integrate wizard, mp-webhooks, mp-test-setup, mp-review) that pull every endpoint, payload, and snippet live from the official Mercado Pago MCP server. The MCP must always be connected — there is no offline mode.",
+    "author": "Mercado Pago Developer Experience",
+    "category": "development",
+    "homepage": "https://github.com/mercadopago/mercadopago-claude-marketplace/tree/main/plugins/mercadopago",
+    "repo": "https://github.com/mercadopago/mercadopago-claude-marketplace/tree/main/plugins/mercadopago",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "microsoft-docs",
+    "name": "microsoft-docs",
+    "server_name": "microsoft-learn",
+    "mcp_url": "https://learn.microsoft.com/api/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Access official Microsoft documentation, API references, and code samples for Azure, .NET, Windows, and more.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://github.com/microsoftdocs/mcp",
+    "repo": "https://github.com/MicrosoftDocs/mcp",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "migration-to-aws--awsknowledge",
+    "name": "migration-to-aws",
+    "server_name": "awsknowledge",
+    "mcp_url": "https://knowledge-mcp.global.api.aws",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Plan a migration from Google Cloud Platform (and OpenAI/Gemini AI workloads) to AWS. Analyzes your Infrastructure-as-Code files, app code, and GCP billing data to discover resources, design an AWS architecture, estimate costs, and generate migration artifacts — including AI-provider mapping to Amazon Bedrock. Processing is local; your data stays in your environment.",
+    "author": "Amazon Web Services",
+    "category": "development",
+    "homepage": "https://github.com/awslabs/startups",
+    "repo": "https://github.com/awslabs/startups/tree/main/migrate/plugins/migration-to-aws",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "migration-to-aws--temporal-docs",
+    "name": "migration-to-aws",
+    "server_name": "temporal-docs",
+    "mcp_url": "https://temporal.mcp.kapa.ai",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Plan a migration from Google Cloud Platform (and OpenAI/Gemini AI workloads) to AWS. Analyzes your Infrastructure-as-Code files, app code, and GCP billing data to discover resources, design an AWS architecture, estimate costs, and generate migration artifacts — including AI-provider mapping to Amazon Bedrock. Processing is local; your data stays in your environment.",
+    "author": "Amazon Web Services",
+    "category": "development",
+    "homepage": "https://github.com/awslabs/startups",
+    "repo": "https://github.com/awslabs/startups/tree/main/migrate/plugins/migration-to-aws",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "mintlify--mintlify-admin",
+    "name": "mintlify",
+    "server_name": "Mintlify Admin",
+    "mcp_url": "https://mcp.mintlify.com",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Build beautiful documentation sites with Mintlify. Convert non-markdown files into properly formatted MDX pages, add and modify content with correct component use, and automate documentation updates.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://www.mintlify.com/",
+    "repo": "https://github.com/mintlify/mintlify-claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "mintlify--mintlify-search",
+    "name": "mintlify",
+    "server_name": "Mintlify Search",
+    "mcp_url": "https://mintlify.com/docs/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Build beautiful documentation sites with Mintlify. Convert non-markdown files into properly formatted MDX pages, add and modify content with correct component use, and automate documentation updates.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://www.mintlify.com/",
+    "repo": "https://github.com/mintlify/mintlify-claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "miro",
+    "name": "miro",
+    "server_name": "miro",
+    "mcp_url": "https://mcp.miro.com/",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Secure access to Miro boards. Enables AI to read board context, create diagrams, and generate code with enterprise-grade security.",
+    "author": "Miro",
+    "category": "design",
+    "homepage": "https://miro.com",
+    "repo": "https://github.com/miroapp/miro-ai/tree/main/claude-plugins/miro",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "monday-crm",
+    "name": "monday-crm",
+    "server_name": "monday",
+    "mcp_url": "https://mcp.monday.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Run your monday CRM in plain language. Build a pipeline from scratch, start the day with a ranked deal briefing, spin up a forecast dashboard, audit board health, clean up messy data in bulk, and turn meeting notes into deal updates. Every skill writes back into monday as a real update, doc, or dashboard. Built on the official monday MCP connector.",
+    "author": "monday.com",
+    "category": "productivity",
+    "homepage": "https://monday.com",
+    "repo": "https://github.com/mondaycom/mcp/tree/master/plugins/monday-crm",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "mongodb-atlas",
+    "name": "mongodb-atlas",
+    "server_name": "mongodb-atlas",
+    "mcp_url": "https://mcp.mongodb.com/",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": {
+      "clientId": "https://claude.ai/oauth/claude-code-client-metadata"
+    },
+    "description": "Connect to MongoDB Atlas clusters only through the Atlas Managed MCP Server. Sign in with your Atlas account to explore data, manage collections, optimize queries, generate reliable code with MongoDB best practices, and manage Atlas resources such as clusters, projects, database users, and network access. If you are running a different MongoDB deployment or want to run a local MongoDB MCP Server, install the MongoDB (Self-Managed MCP) plugin instead.",
+    "author": "MongoDB",
+    "category": "database",
+    "homepage": "https://www.mongodb.com/docs/mcp-server/get-started/",
+    "repo": "https://github.com/mongodb/agent-skills/tree/main/plugins/mongodb-atlas",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "netlify-skills",
+    "name": "netlify-skills",
+    "server_name": "netlify",
+    "mcp_url": "https://netlify-mcp.netlify.app/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Netlify platform skills for Claude Code — functions, edge functions, blobs, database, image CDN, forms, config, CLI, frameworks, caching, AI gateway, and deployment.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://github.com/netlify/context-and-tools",
+    "repo": "https://github.com/netlify/context-and-tools",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "newrelic",
+    "name": "newrelic",
+    "server_name": "newrelic",
+    "mcp_url": "https://mcp.newrelic.com/mcp/",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "New Relic observability intelligence for Claude Code. Investigate APM performance, analyze cloud costs, debug Kubernetes, write NRQL queries, and respond to alerts — all from your terminal using New Relic telemetry data.",
+    "author": "New Relic",
+    "category": "monitoring",
+    "homepage": "https://newrelic.com",
+    "repo": "https://github.com/newrelic/claude-code-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "nimble",
+    "name": "nimble",
+    "server_name": "nimble",
+    "mcp_url": "https://mcp.nimbleway.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Nimble web data toolkit — search, extract, map, crawl the web and work with structured data agents",
+    "author": null,
+    "category": null,
+    "homepage": "https://docs.nimbleway.com/integrations/agent-skills/plugin-installation",
+    "repo": "https://github.com/Nimbleway/agent-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "notion",
+    "name": "notion",
+    "server_name": "notion",
+    "mcp_url": "https://mcp.notion.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Notion workspace integration. Search pages, create and update documents, manage databases, and access your team's knowledge base directly from Claude Code for seamless documentation workflows.",
+    "author": null,
+    "category": "productivity",
+    "homepage": "https://github.com/makenotion/claude-code-notion-plugin",
+    "repo": "https://github.com/makenotion/claude-code-notion-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "pagerduty",
+    "name": "pagerduty",
+    "server_name": "pagerduty",
+    "mcp_url": "https://mcp.pagerduty.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Enhance code quality and security through PagerDuty risk scoring and incident correlation. Score pre-commit diffs against historical incident data and surface deployment risk before you ship.",
+    "author": null,
+    "category": "monitoring",
+    "homepage": "https://github.com/PagerDuty/claude-code-plugins",
+    "repo": "https://github.com/PagerDuty/claude-code-plugins",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "paypal",
+    "name": "paypal",
+    "server_name": "paypal-sandbox",
+    "mcp_url": "https://mcp.sandbox.paypal.com/sse",
+    "transport": "sse",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "PayPal development plugin for Claude — integrate payments, subscriptions, invoices, disputes, and more using PayPal's APIs and MCP server",
+    "author": "PayPal",
+    "category": "development",
+    "homepage": "https://developer.paypal.com/",
+    "repo": "https://github.com/paypal/AI-Toolkit",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "pendo-analytics--novus",
+    "name": "pendo-analytics",
+    "server_name": "novus",
+    "mcp_url": "https://novus-api.pendo.io/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Bring Pendo product analytics into Claude Code: account health, feature adoption, session replay lookup and triage, feedback analysis, and data-informed planning grounded in real usage data. Requires the Pendo connector and a Pendo subscription.",
+    "author": "Pendo",
+    "category": "productivity",
+    "homepage": "https://github.com/pendo-io/claude-pendo-plugin/tree/main/plugins/pendo-analytics",
+    "repo": "https://github.com/pendo-io/claude-pendo-plugin/tree/main/plugins/pendo-analytics",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "pendo-analytics--pendo-external",
+    "name": "pendo-analytics",
+    "server_name": "pendo-external",
+    "mcp_url": "https://app.pendo.io/mcp/v0/shttp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Bring Pendo product analytics into Claude Code: account health, feature adoption, session replay lookup and triage, feedback analysis, and data-informed planning grounded in real usage data. Requires the Pendo connector and a Pendo subscription.",
+    "author": "Pendo",
+    "category": "productivity",
+    "homepage": "https://github.com/pendo-io/claude-pendo-plugin/tree/main/plugins/pendo-analytics",
+    "repo": "https://github.com/pendo-io/claude-pendo-plugin/tree/main/plugins/pendo-analytics",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "pendo-guides",
+    "name": "pendo-guides",
+    "server_name": "pendo-external",
+    "mcp_url": "https://app.pendo.io/mcp/v0/shttp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Create production-ready Pendo in-app guides (walkthroughs, announcements, alerts, polls, promotions) as HTML/CSS/JS from a short intake conversation, using Pendo's guide components.",
+    "author": "Pendo",
+    "category": "productivity",
+    "homepage": "https://github.com/pendo-io/claude-pendo-plugin/tree/main/plugins/pendo-guides",
+    "repo": "https://github.com/pendo-io/claude-pendo-plugin/tree/main/plugins/pendo-guides",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "pendo-orchestrate",
+    "name": "pendo-orchestrate",
+    "server_name": "pendo-external",
+    "mcp_url": "https://app.pendo.io/mcp/v0/shttp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Create, configure and edit draft Pendo Orchestrate email journeys, including multi-email and conditional split flows, via the Pendo connector. Journeys stay in draft; activation happens in the Orchestrate UI.",
+    "author": "Pendo",
+    "category": "productivity",
+    "homepage": "https://github.com/pendo-io/claude-pendo-plugin/tree/main/plugins/pendo-orchestrate",
+    "repo": "https://github.com/pendo-io/claude-pendo-plugin/tree/main/plugins/pendo-orchestrate",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "pigment",
+    "name": "pigment",
+    "server_name": "pigment",
+    "mcp_url": "https://pigment.app/api/mcp/public/{your-mcp-id}",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Analyze business data and build custom Pigment models, metrics, and boards through natural language.",
+    "author": "Pigment",
+    "category": "productivity",
+    "homepage": "https://www.pigment.com",
+    "repo": "https://github.com/gopigment/ai-plugins",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "planetscale",
+    "name": "planetscale",
+    "server_name": "planetscale",
+    "mcp_url": "https://mcp.pscale.dev/mcp/planetscale",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "An authenticated hosted MCP server that accesses your PlanetScale organizations, databases, branches, schema, and Insights data. Query against your data, surface slow queries, and get organizational and account information.",
+    "author": null,
+    "category": "database",
+    "homepage": "https://planetscale.com/",
+    "repo": "https://github.com/planetscale/claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "posthog",
+    "name": "posthog",
+    "server_name": "posthog",
+    "mcp_url": "https://mcp.posthog.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Access PostHog analytics, feature flags, experiments, error tracking, and insights directly from Claude Code.",
+    "author": null,
+    "category": "monitoring",
+    "homepage": "https://posthog.com/docs/model-context-protocol",
+    "repo": "https://github.com/PostHog/ai-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "prisma",
+    "name": "prisma",
+    "server_name": "Prisma-Remote",
+    "mcp_url": "https://mcp.prisma.io/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Prisma MCP integration for Postgres database management, schema migrations, SQL queries, and connection string management. Provision Prisma Postgres databases, run migrations, and interact with your data directly.",
+    "author": null,
+    "category": null,
+    "homepage": "https://prisma.io",
+    "repo": "https://github.com/prisma/claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "qt-development-skills",
+    "name": "qt-development-skills",
+    "server_name": "qt-docs",
+    "mcp_url": "https://qt-docs-mcp.qt.io/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Agentic engineering skills for Qt software development — Qt C++/QML code review, QML coding, and Qt C++/QML code documentation.",
+    "author": "Qt Group",
+    "category": "development",
+    "homepage": "https://www.qt.io/",
+    "repo": "https://github.com/TheQtCompanyRnD/agent-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "railway",
+    "name": "railway",
+    "server_name": "railway",
+    "mcp_url": "https://mcp.railway.com",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Deploy and manage apps, databases, and infrastructure on Railway. Covers project setup, deploys, environment configuration, networking, troubleshooting, and monitoring.",
+    "author": null,
+    "category": "deployment",
+    "homepage": "https://docs.railway.com/ai/claude-code-plugin",
+    "repo": "https://github.com/railwayapp/railway-skills/tree/main/plugins/railway",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "render",
+    "name": "render",
+    "server_name": "render",
+    "mcp_url": "https://mcp.render.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": {
+      "clientId": "claude"
+    },
+    "description": "Deploy, debug, and monitor applications on Render. Includes skills, an agent, slash commands, and a render.yaml validation hook.",
+    "author": "Render",
+    "category": "deployment",
+    "homepage": "https://render.com",
+    "repo": "https://github.com/render-oss/render-plugin-claude-code",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "resend",
+    "name": "resend",
+    "server_name": "resend",
+    "mcp_url": "https://mcp.resend.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Agent skills for working with Resend to send and receive emails — email API integration, agent inbox, CLI, React Email components, and deliverability best practices. Includes the Resend MCP server.",
+    "author": "Resend",
+    "category": "development",
+    "homepage": "https://resend.com",
+    "repo": "https://github.com/resend/resend-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "rill",
+    "name": "rill",
+    "server_name": "rill-developer",
+    "mcp_url": "http://localhost:9009/mcp",
+    "transport": "http",
+    "templated": true,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Skills for developing and querying projects in the Rill business intelligence platform",
+    "author": "Rill Data",
+    "category": "development",
+    "homepage": "https://docs.rilldata.com/developers/build/ai-configuration",
+    "repo": "https://github.com/rilldata/agent-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "rootly",
+    "name": "rootly",
+    "server_name": "rootly",
+    "mcp_url": "https://mcp.rootly.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Full-lifecycle incident management: deploy safety, incident response, on-call management, and retrospectives.",
+    "author": "Rootly",
+    "category": "monitoring",
+    "homepage": "https://rootly.com",
+    "repo": "https://github.com/Rootly-AI-Labs/rootly-claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "runway-api",
+    "name": "runway-api",
+    "server_name": "runway-dev",
+    "mcp_url": "https://dev.runwayml.com/mcp/claude",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Get guidance for integrating video, image and audio generation with the Runway API and official SDKs. Connect to your Runway Dev account to inspect available models and task errors, manage Model Routers and existing real-time avatars, and inspect recorded routing decisions.",
+    "author": "Runway",
+    "category": "design",
+    "homepage": "https://runwayml.com",
+    "repo": "https://github.com/runwayml/skills/tree/main/claude",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "sanity",
+    "name": "sanity",
+    "server_name": "Sanity",
+    "mcp_url": "https://mcp.sanity.io",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Sanity content platform integration with MCP server, agent skills, and slash commands. Query and author content, build and optimize GROQ queries, design schemas, and set up Visual Editing.",
+    "author": "Sanity",
+    "category": "development",
+    "homepage": "https://www.sanity.io",
+    "repo": "https://github.com/sanity-io/agent-toolkit",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "sentry",
+    "name": "sentry",
+    "server_name": "sentry",
+    "mcp_url": "https://mcp.sentry.dev/mcp?utm_source=plugin",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Sentry error monitoring integration. Access error reports, analyze stack traces, search issues by fingerprint, and debug production errors directly from your development environment.",
+    "author": null,
+    "category": "monitoring",
+    "homepage": "https://github.com/getsentry/plugin-claude",
+    "repo": "https://github.com/getsentry/plugin-claude",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "shippo",
+    "name": "shippo",
+    "server_name": "shippo-mcp",
+    "mcp_url": "https://mcp.shippo.com",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Shippo connects you to USPS, UPS, FedEx, DHL, and 40+ carriers, so you can handle a shipment end to end right inside Claude. Compare live rates and pick the cheapest or best option, buy and print labels (domestic and international, with customs declarations), validate and standardize addresses, and track packages across carriers. Just ask in plain language: rate-shop a parcel, buy the right label, check a delivery status, or confirm an address before you ship. Whether you run a store or just need to send a package, Shippo turns a pile of carrier accounts into one simple conversation.",
+    "author": "Shippo",
+    "category": "productivity",
+    "homepage": "https://docs.goshippo.com",
+    "repo": "https://github.com/goshippo/ai/tree/main/providers/claude/plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "slack",
+    "name": "slack",
+    "server_name": "slack",
+    "mcp_url": "https://mcp.slack.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": {
+      "clientId": "1601185624273.8899143856786",
+      "callbackPort": 3118
+    },
+    "description": "Slack workspace integration. Search messages, access channels, read threads, and stay connected with your team's communications while coding. Find relevant discussions and context quickly.",
+    "author": null,
+    "category": "productivity",
+    "homepage": "https://github.com/slackapi/slack-mcp-plugin/tree/main",
+    "repo": "https://github.com/slackapi/slack-mcp-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "sonatype-guide",
+    "name": "sonatype-guide",
+    "server_name": "sonatype-guide",
+    "mcp_url": "https://mcp.guide.sonatype.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Sonatype Guide MCP server for software supply chain intelligence and dependency security. Analyze dependencies for vulnerabilities, get secure version recommendations, and check component quality metrics.",
+    "author": null,
+    "category": "security",
+    "homepage": "https://github.com/sonatype/sonatype-guide-claude-plugin.git",
+    "repo": "https://github.com/sonatype/sonatype-guide-claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "sourcegraph",
+    "name": "sourcegraph",
+    "server_name": "sourcegraph",
+    "mcp_url": "${SOURCEGRAPH_ENDPOINT}/.api/mcp/all",
+    "transport": "http",
+    "templated": true,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Code search and understanding across codebases. Search, read, and trace references across repositories; analyze refactor impact; investigate incidents via commit and diff search; run targeted security sweeps.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://sourcegraph.com",
+    "repo": "https://github.com/sourcegraph-community/sourcegraph-claudecode-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "stripe",
+    "name": "stripe",
+    "server_name": "stripe",
+    "mcp_url": "https://mcp.stripe.com",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Stripe development plugin for Claude",
+    "author": null,
+    "category": "development",
+    "homepage": "https://github.com/stripe/ai/tree/main/providers/claude/plugin",
+    "repo": "https://github.com/stripe/ai/tree/main/providers/claude/plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "sumup",
+    "name": "sumup",
+    "server_name": "sumup",
+    "mcp_url": "https://mcp.sumup.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "SumUp payment integrations across terminal and online checkout flows. Build Android and iOS POS apps with SumUp card readers, online checkout with server SDKs and the checkout widget, and control card readers remotely via Cloud API.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://www.sumup.com/",
+    "repo": "https://github.com/sumup/sumup-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "synthflow--synthflow",
+    "name": "synthflow",
+    "server_name": "synthflow",
+    "mcp_url": "https://mcp.synthflow.ai/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Connects Claude Code to the Synthflow AI voice-agent platform through its hosted MCP server, with skills for reviewing calls and auditing agent prompts, plus a docs-search connector.",
+    "author": "Synthflow",
+    "category": "automation",
+    "homepage": "https://synthflow.ai",
+    "repo": "https://github.com/SynthFlowAI/AnthropicPlugin/tree/main/plugins/synthflow",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "synthflow--synthflow-docs",
+    "name": "synthflow",
+    "server_name": "synthflow-docs",
+    "mcp_url": "https://docs.synthflow.ai/_mcp/server",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Connects Claude Code to the Synthflow AI voice-agent platform through its hosted MCP server, with skills for reviewing calls and auditing agent prompts, plus a docs-search connector.",
+    "author": "Synthflow",
+    "category": "automation",
+    "homepage": "https://synthflow.ai",
+    "repo": "https://github.com/SynthFlowAI/AnthropicPlugin/tree/main/plugins/synthflow",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "twilio-developer-kit",
+    "name": "twilio-developer-kit",
+    "server_name": "twilio-docs",
+    "mcp_url": "https://mcp.twilio.com/docs",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Twilio Skills provide procedural knowledge for AI coding agents — which APIs to use, in what order, and what to avoid. Covers SMS, Voice, WhatsApp, Verify, SendGrid, Compliance, and 30+ products.",
+    "author": "Twilio",
+    "category": "development",
+    "homepage": "https://www.twilio.com",
+    "repo": "https://github.com/twilio/ai",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "valtown",
+    "name": "valtown",
+    "server_name": "valtown",
+    "mcp_url": "https://api.val.town/v3/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Build and deploy on Val Town. Bundles the Val Town MCP server and platform skills (HTTP vals, cron/intervals, SQLite, email, OAuth, React UI, third-party integrations, templates).",
+    "author": "Val Town",
+    "category": "deployment",
+    "homepage": "https://val.town",
+    "repo": "https://github.com/val-town/plugins/tree/main/plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "vanguard-advisor-tools",
+    "name": "vanguard-advisor-tools",
+    "server_name": "vanguard-advisors",
+    "mcp_url": "https://mcp.vanguard.com/advisors",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Vanguard Advisor Tools for financial professionals: research and compare funds and ETFs across the industry and prepare for client conversations, using Vanguard's advisor connector in Claude.",
+    "author": "Vanguard",
+    "category": "productivity",
+    "homepage": "https://advisors.vanguard.com",
+    "repo": "https://github.com/Vanguard-oss/vanguard-advisor-tools",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "vanta--vanta-aus",
+    "name": "vanta",
+    "server_name": "vanta-aus",
+    "mcp_url": "https://mcp.aus.vanta.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "The Vanta plugin connects Claude Code to Vanta's security and compliance platform through the Vanta MCP server. It combines Vanta's test-specific remediation intelligence with your local repository context to help you fix compliance failures faster.",
+    "author": "Vanta",
+    "category": "security",
+    "homepage": "https://help.vanta.com/en/articles/14094979-connecting-to-vanta-mcp#h_887ce3f337",
+    "repo": "https://github.com/VantaInc/vanta-mcp-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "vanta--vanta-eu",
+    "name": "vanta",
+    "server_name": "vanta-eu",
+    "mcp_url": "https://mcp.eu.vanta.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "The Vanta plugin connects Claude Code to Vanta's security and compliance platform through the Vanta MCP server. It combines Vanta's test-specific remediation intelligence with your local repository context to help you fix compliance failures faster.",
+    "author": "Vanta",
+    "category": "security",
+    "homepage": "https://help.vanta.com/en/articles/14094979-connecting-to-vanta-mcp#h_887ce3f337",
+    "repo": "https://github.com/VantaInc/vanta-mcp-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "vanta--vanta-us",
+    "name": "vanta",
+    "server_name": "vanta-us",
+    "mcp_url": "https://mcp.vanta.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "The Vanta plugin connects Claude Code to Vanta's security and compliance platform through the Vanta MCP server. It combines Vanta's test-specific remediation intelligence with your local repository context to help you fix compliance failures faster.",
+    "author": "Vanta",
+    "category": "security",
+    "homepage": "https://help.vanta.com/en/articles/14094979-connecting-to-vanta-mcp#h_887ce3f337",
+    "repo": "https://github.com/VantaInc/vanta-mcp-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "vanta-mcp-plugin--vanta-aus",
+    "name": "vanta-mcp-plugin",
+    "server_name": "vanta-aus",
+    "mcp_url": "https://mcp.aus.vanta.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "The Vanta plugin connects Claude Code to Vanta's security and compliance platform through the Vanta MCP server. It combines Vanta's test-specific remediation intelligence with your local repository context to help you fix compliance failures faster.",
+    "author": "Vanta",
+    "category": "security",
+    "homepage": "https://help.vanta.com/en/articles/14094979-connecting-to-vanta-mcp#h_887ce3f337",
+    "repo": "https://github.com/VantaInc/vanta-mcp-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "vanta-mcp-plugin--vanta-eu",
+    "name": "vanta-mcp-plugin",
+    "server_name": "vanta-eu",
+    "mcp_url": "https://mcp.eu.vanta.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "The Vanta plugin connects Claude Code to Vanta's security and compliance platform through the Vanta MCP server. It combines Vanta's test-specific remediation intelligence with your local repository context to help you fix compliance failures faster.",
+    "author": "Vanta",
+    "category": "security",
+    "homepage": "https://help.vanta.com/en/articles/14094979-connecting-to-vanta-mcp#h_887ce3f337",
+    "repo": "https://github.com/VantaInc/vanta-mcp-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "vanta-mcp-plugin--vanta-us",
+    "name": "vanta-mcp-plugin",
+    "server_name": "vanta-us",
+    "mcp_url": "https://mcp.vanta.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "The Vanta plugin connects Claude Code to Vanta's security and compliance platform through the Vanta MCP server. It combines Vanta's test-specific remediation intelligence with your local repository context to help you fix compliance failures faster.",
+    "author": "Vanta",
+    "category": "security",
+    "homepage": "https://help.vanta.com/en/articles/14094979-connecting-to-vanta-mcp#h_887ce3f337",
+    "repo": "https://github.com/VantaInc/vanta-mcp-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "vercel",
+    "name": "vercel",
+    "server_name": "vercel",
+    "mcp_url": "https://mcp.vercel.com",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Vercel deployment platform integration. Manage deployments, check build status, access logs, configure domains, and control your frontend infrastructure directly from Claude Code.",
+    "author": null,
+    "category": "deployment",
+    "homepage": "https://github.com/vercel/vercel-plugin",
+    "repo": "https://github.com/vercel/vercel-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "windsor-ai",
+    "name": "windsor-ai",
+    "server_name": "windsor-ai",
+    "mcp_url": "https://mcp.windsor.ai",
+    "transport": "url",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Connect Claude Code to 325+ business data sources via Windsor.ai. Query marketing, sales, CRM, ecommerce, finance, and analytics data from Google Ads, Meta, HubSpot, Salesforce, Shopify, Stripe, and hundreds more — directly from your terminal.",
+    "author": "Windsor.ai",
+    "category": "productivity",
+    "homepage": "https://windsor.ai",
+    "repo": "https://github.com/windsor-ai/claude-windsor-ai-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "wingspan",
+    "name": "wingspan",
+    "server_name": "wingspan",
+    "mcp_url": "https://api.wingspan.app/v3/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": {
+      "scopes": "offline_access",
+      "authServerMetadataUrl": "https://api.wingspan.app/.well-known/oauth-authorization-server"
+    },
+    "description": "Ask Claude about the contractors you pay through Wingspan, what you owe them, and what is holding up a payment, then onboard contractors and log payments as drafts, with a preview before anything is written. Requires a Wingspan account; bundles the Wingspan MCP server (OAuth on first use).",
+    "author": "Wingspan",
+    "category": "productivity",
+    "homepage": "https://github.com/wingspanHQ/mcp-claude-plugin",
+    "repo": "https://github.com/wingspanHQ/mcp-claude-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "wix",
+    "name": "wix",
+    "server_name": "wix-mcp",
+    "mcp_url": "https://mcp.wix.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Build, manage, and deploy Wix sites and apps. CLI development skills for dashboard extensions, backend APIs, site widgets, and service plugins with the Wix Design System, plus MCP server for site management.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills",
+    "repo": "https://github.com/wix/skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "youdotcom-agent-skills--you",
+    "name": "youdotcom-agent-skills",
+    "server_name": "you",
+    "mcp_url": "https://api.you.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "You.com agent skills for web search, research with citations, and content extraction. Guided integrations for Vercel AI SDK, Claude Agent SDK, OpenAI Agents SDK, crewAI, LangChain, Microsoft Teams.ai, direct REST API, and bash CLI.",
+    "author": "You.com",
+    "category": "productivity",
+    "homepage": "https://you.com",
+    "repo": "https://github.com/youdotcom-oss/agent-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "youdotcom-agent-skills--you-finance",
+    "name": "youdotcom-agent-skills",
+    "server_name": "you-finance",
+    "mcp_url": "https://api.you.com/mcp/finance",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "You.com agent skills for web search, research with citations, and content extraction. Guided integrations for Vercel AI SDK, Claude Agent SDK, OpenAI Agents SDK, crewAI, LangChain, Microsoft Teams.ai, direct REST API, and bash CLI.",
+    "author": "You.com",
+    "category": "productivity",
+    "homepage": "https://you.com",
+    "repo": "https://github.com/youdotcom-oss/agent-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "youdotcom-agent-skills--you-research",
+    "name": "youdotcom-agent-skills",
+    "server_name": "you-research",
+    "mcp_url": "https://api.you.com/mcp/research",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "You.com agent skills for web search, research with citations, and content extraction. Guided integrations for Vercel AI SDK, Claude Agent SDK, OpenAI Agents SDK, crewAI, LangChain, Microsoft Teams.ai, direct REST API, and bash CLI.",
+    "author": "You.com",
+    "category": "productivity",
+    "homepage": "https://you.com",
+    "repo": "https://github.com/youdotcom-oss/agent-skills",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "zapier",
+    "name": "zapier",
+    "server_name": "zapier",
+    "mcp_url": "https://mcp.zapier.com/api/v1/connect",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Connect 8,000+ apps to your AI workflow. Discover, enable, and execute Zapier actions directly from your client.",
+    "author": null,
+    "category": "productivity",
+    "homepage": "https://github.com/zapier/zapier-mcp/tree/main/plugins/zapier",
+    "repo": "https://github.com/zapier/zapier-mcp/tree/main/plugins/zapier",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "zocks-advisor",
+    "name": "zocks-advisor",
+    "server_name": "Zocks",
+    "mcp_url": "https://mcp.zocks.io/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Seven skills for financial advisors built on Zocks meeting intelligence: client behavioral profiles, attrition-risk ranking, held-away asset radar, client journey dossiers, household review packs, next-best-action analysis and a tax opportunity scan. Requires the Zocks connector and a Zocks account.",
+    "author": "Zocks",
+    "category": "productivity",
+    "homepage": "https://github.com/zocks-communications/zocks-agent-plugins",
+    "repo": "https://github.com/zocks-communications/zocks-agent-plugins",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "zoom-plugin--zoom-canvas-mcp",
+    "name": "zoom-plugin",
+    "server_name": "zoom-canvas-mcp",
+    "mcp_url": "https://mcp.zoom.us/mcp/canvas/streamable",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://developers.zoom.us/",
+    "repo": "https://github.com/zoom/zoom-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "zoom-plugin--zoom-chat-mcp",
+    "name": "zoom-plugin",
+    "server_name": "zoom-chat-mcp",
+    "mcp_url": "https://mcp.zoom.us/mcp/chat/streamable",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://developers.zoom.us/",
+    "repo": "https://github.com/zoom/zoom-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "zoom-plugin--zoom-mcp",
+    "name": "zoom-plugin",
+    "server_name": "zoom-mcp",
+    "mcp_url": "https://mcp.zoom.us/mcp/zoom/streamable",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://developers.zoom.us/",
+    "repo": "https://github.com/zoom/zoom-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "zoom-plugin--zoom-meetings-mcp",
+    "name": "zoom-plugin",
+    "server_name": "zoom-meetings-mcp",
+    "mcp_url": "https://mcp.zoom.us/mcp/meeting/streamable",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://developers.zoom.us/",
+    "repo": "https://github.com/zoom/zoom-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "zoom-plugin--zoom-revenue-accelerator-mcp",
+    "name": "zoom-plugin",
+    "server_name": "zoom-revenue-accelerator-mcp",
+    "mcp_url": "https://mcp.zoom.us/mcp/revenue_accelerator/streamable",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://developers.zoom.us/",
+    "repo": "https://github.com/zoom/zoom-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "zoom-plugin--zoom-tasks-mcp",
+    "name": "zoom-plugin",
+    "server_name": "zoom-tasks-mcp",
+    "mcp_url": "https://mcp.zoom.us/mcp/tasks/streamable",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://developers.zoom.us/",
+    "repo": "https://github.com/zoom/zoom-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "zoom-plugin--zoom-whiteboard-mcp",
+    "name": "zoom-plugin",
+    "server_name": "zoom-whiteboard-mcp",
+    "mcp_url": "https://mcp.zoom.us/mcp/whiteboard/streamable",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": true,
+    "oauth_config": null,
+    "description": "Claude plugin for planning, building, and debugging Zoom integrations across REST APIs, SDKs, webhooks, bots, and MCP workflows.",
+    "author": null,
+    "category": "development",
+    "homepage": "https://developers.zoom.us/",
+    "repo": "https://github.com/zoom/zoom-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  },
+  {
+    "id": "zoominfo",
+    "name": "zoominfo",
+    "server_name": "zoominfo",
+    "mcp_url": "https://mcp.zoominfo.com/mcp",
+    "transport": "http",
+    "templated": false,
+    "has_static_headers": false,
+    "oauth_config": null,
+    "description": "Search companies and contacts, enrich leads, find lookalikes, and get AI-ranked contact recommendations. Pre-built skills chain multiple ZoomInfo tools into complete B2B sales workflows.",
+    "author": "ZoomInfo",
+    "category": "productivity",
+    "homepage": "https://www.zoominfo.com",
+    "repo": "https://github.com/Zoominfo/zoominfo-mcp-plugin",
+    "sources": [
+      "official-marketplace"
+    ]
+  }
+]

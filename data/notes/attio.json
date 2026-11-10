@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen testimonial",
+    "Google primary button",
+    "Email arrow submit",
+    "Marketing consent text"
+  ],
+  "notes": "The left column opens with 'Let's get started', a paragraph of Attio product marketing, a blue Sign in with Google button, and an inline work-email field with an arrow submit button. Small print says that entering an email consents to Attio contacting the user. The right half is a pale panel with a customer quote from a Director of Revenue. The page does not name the requesting app or list permissions."
+}

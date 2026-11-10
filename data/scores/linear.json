@@ -1,0 +1,12 @@
+{
+  "score": 4.0,
+  "criteria": {
+    "account": "none",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Clean, minimal Linear-style consent with both logos, a details table with the localhost redirect and Read, Write access. No workspace picker and no permission configuration."
+}

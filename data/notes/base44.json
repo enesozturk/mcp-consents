@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "apple",
+    "github",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen collage",
+    "Many social options",
+    "Disabled email button"
+  ],
+  "notes": "'Welcome to Base44' sits above Log in with Google, Apple and GitHub buttons, an 'OR' divider, and an email field with a greyed Continue with email button. The right half is a collage of charts, a photo and the tagline 'Turn your ideas into apps'. Terms and privacy links are at the bottom. No requesting app name or permissions appear."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 3.6,
+  "criteria": {
+    "account": "none",
+    "permissions": "configurable",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Best-in-class permission control with access presets and per-scope checkboxes, but no account, no redirect and the client is just 'the AI agent'. Long scrolling list of raw scope names."
+}

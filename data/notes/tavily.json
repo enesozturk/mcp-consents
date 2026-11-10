@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google",
+    "github",
+    "microsoft",
+    "linkedin"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Illustrated background",
+    "Human-verification checkbox",
+    "Four social options"
+  ],
+  "notes": "A tall white rounded card over a soft pastel meadow illustration. It has the tavily by Nebius logo, 'Welcome' and 'Log in to continue to Tavily', then an email field, a 'Verify you are human' checkbox and a black pill Continue button. After a sign-up link and an OR divider come full-width Google, GitHub, LinkedIn and Microsoft buttons. LinkedIn is shown but is not in the sign_in_methods enum, so it is omitted from the array. The requesting app and the openid and offline_access scopes are not mentioned."
+}

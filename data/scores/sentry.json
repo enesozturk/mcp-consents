@@ -1,0 +1,12 @@
+{
+  "score": 3.9,
+  "criteria": {
+    "account": "none",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Handsome dark layout with per-feature permission groups and the full callback URL. No account or organization is shown."
+}

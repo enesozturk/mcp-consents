@@ -1,0 +1,19 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "sso",
+    "google",
+    "microsoft",
+    "password",
+    "salesforce"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen gradient panel",
+    "Customer logo strip",
+    "SSO listed first",
+    "Chat widget"
+  ],
+  "notes": "The left half is a blue-to-purple gradient with the process.st logo, 'AI-Powered Process Management' and a strip of customer logos (Drift, Gap, Salesforce, Colliers, Canada). The right half is 'Sign-in to Process Street' with three buttons for SSO, Google and Microsoft, then an email and password form with Forgot password and a blue Sign-in button. A Create an account link, terms text and a floating chat button complete it. The page does not name the requesting app or show permissions."
+}

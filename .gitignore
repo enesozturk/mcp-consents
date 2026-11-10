@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.wrangler/
+.tanstack/
+.dev.vars*
+.env
+*.tmp.png
+scripts/og/*.png
+scripts/og/favicon.svg
+src/data/dev-notes.json
+data/raw/
+data/*.log
+data/stepbatch*
+data/flowbatch*
+data/scorebatch*

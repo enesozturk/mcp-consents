@@ -1,0 +1,12 @@
+{
+  "score": 4.3,
+  "criteria": {
+    "account": "picker",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Clean branded card with client and Firecrawl logos, plain-language capabilities, a team selector and the localhost redirect. Permissions are not configurable and the redirect sits at the bottom edge."
+}

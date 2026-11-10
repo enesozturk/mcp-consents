@@ -1,0 +1,18 @@
+{
+  "_doc": "Gateways the recorder no longer queues, with the reason shown on the site.",
+  "adobe-experience-manager": "The sign-in flow was too broken to get through.",
+  "adobe-journey-optimizer": "The sign-in flow was too broken to get through.",
+  "airops": "Requires a team or work account.",
+  "atlan": "Enterprise only; you cannot sign in with email or Google.",
+  "attio": "Requires a work email.",
+  "bitly": "Requires a team or work account.",
+  "brex": "Requires a team account; a personal Google account is not accepted.",
+  "catalyst-by-zoho": "Requires phone verification to create an account.",
+  "clickup": "Requires a team or work account.",
+  "digits": "Sign-in fails with an unclear error.",
+  "enterpret-wisdom": "Requires a team account.",
+  "legal-data-hunter": "No consent screen: the browser goes straight back to the client after sign-in.",
+  "migration-to-aws--temporal-docs": "No consent screen after sign-in; the sign-in page itself shows the MCP details.",
+  "vercel": "Removed at the tester's request; do not record again.",
+  "vibe-prospecting": "No consent screen: the browser goes straight back to the client after sign-in."
+}

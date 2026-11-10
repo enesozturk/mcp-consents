@@ -1,0 +1,4 @@
+{
+  "allow_personal": ["*"],
+  "note": "Test account: names, emails and workspace names may be shown. Steps whose personal info includes a phone number stay hidden."
+}

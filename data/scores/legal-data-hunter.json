@@ -1,0 +1,12 @@
+{
+  "score": 2.4,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Login and permissions on one page with no separate approval, no redirect and no account context."
+}

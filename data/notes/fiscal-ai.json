@@ -1,0 +1,13 @@
+{
+  "first_screen": "error_page",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "403 Forbidden",
+    "Blocked request",
+    "Unbranded",
+    "Dead end"
+  ],
+  "notes": "The page shows only 'This request was blocked' with '403 FORBIDDEN' and a request ID in small monospace text below it. The hosting layer rejected the request before any fiscal.ai sign-in or consent page rendered. There is no branding, explanation or link onward."
+}

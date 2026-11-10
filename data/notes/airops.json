@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "sso",
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen customer logos",
+    "Red banner message",
+    "Multiple SSO buttons",
+    "Email and password form"
+  ],
+  "notes": "The left column opens with a red banner saying 'You need to sign in or sign up before continuing', then 'Welcome Back' and four provider buttons for Google, Okta, Azure and Rippling. Below an 'or' divider is an email and password form with Remember me, Forgot password and a black Sign in button. The right half is a patterned green panel with a grid of customer logos under 'The Best Marketing Teams Trust AirOps'. The requesting app is not named and no permissions are shown; a reCAPTCHA badge sits bottom right."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 2.8,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Shows client and the full callback URL, but no permissions and no account, on a sparse page."
+}

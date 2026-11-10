@@ -1,0 +1,12 @@
+{
+  "score": 3.3,
+  "criteria": {
+    "account": "shown",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Clean page with the redirect and an unverified warning, but the only permission is a bare 'mcp' scope."
+}

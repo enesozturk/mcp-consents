@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": true,
+  "highlights": [
+    "Shows redirect URI",
+    "Callback warning",
+    "Allow / Deny buttons",
+    "Advanced Details"
+  ],
+  "notes": "The same Application Access Request template as Sybill, with a pale blue Synapse logo above the heading. The blue box reads 'The application MCP Consents wants to access the MCP server Synapse MCP Server' and tells the user to check the callback address. A yellow box gives the credentials destination as http://localhost:33418/callback. An Advanced Details toggle, a green Allow Access button and a gray Deny button complete the card. The view and modify scopes are not itemized, and there is no sign-in form."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 2.0,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Generic grant page that calls the client just 'Application', no redirect, no account, and basic permissions."
+}

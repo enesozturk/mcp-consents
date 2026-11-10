@@ -1,0 +1,46 @@
+{
+  "name": "mcp-consents",
+  "private": true,
+  "type": "module",
+  "description": "A gallery of the OAuth sign-in and consent screens behind remote MCP servers, ranked. consents.ozturkenes.com",
+  "scripts": {
+    "dev": "vite dev --port 3000",
+    "build": "vite build",
+    "preview": "npm run build && vite preview",
+    "deploy": "npm run build && wrangler deploy",
+    "typecheck": "tsc --noEmit",
+    "cf-typegen": "wrangler types",
+    "catalog": "node scanner/catalog-connectors.cjs catalog/connectors.json && node scanner/merge.cjs catalog",
+    "scan": "NODE_USE_ENV_PROXY=1 node scanner/scan.cjs catalog/scan-targets.json data/raw/scans --concurrency 6",
+    "analyze": "node scanner/analyze.cjs catalog/servers.json data/raw/scans data/raw/gateways.json",
+    "prepare-data": "node scripts/prepare.cjs",
+    "record": "node scanner/record.cjs",
+    "classify-flows": "node scripts/classify-flows.cjs",
+    "seed-ratings": "node scripts/seed-ratings.cjs",
+    "check-submissions": "node scanner/check-submissions.cjs"
+  },
+  "dependencies": {
+    "@tanstack/react-router": "1.170.46",
+    "@tanstack/react-start": "1.169.5",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.67.0",
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^6.0.1",
+    "playwright": "^1.56.0",
+    "sharp": "0.33.5",
+    "typescript": "^6.0.2",
+    "vite": "^8.0.0",
+    "wrangler": "^4.158.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/enesozturk/mcp-consents"
+  },
+  "homepage": "https://consents.ozturkenes.com"
+}

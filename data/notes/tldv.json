@@ -1,0 +1,12 @@
+{
+  "first_screen": "consent_then_login",
+  "sign_in_methods": [],
+  "permissions": "list",
+  "names_client": false,
+  "highlights": [
+    "Cookie banner",
+    "Checklist of data",
+    "Sign-in button before grant"
+  ],
+  "notes": "A card titled 'Connect with tl;dv MCP, Grant access to tl;dv' with a small tl;dv wordmark top left. A 'tl;dv account' row has a 'Sign in to tl;dv' button, and below it a checked list says the connection can access meeting metadata, meeting transcripts and meeting notes. A purple Grant access button and a 'Learn more about tl;dv MCP' link follow. A large dark blue cookie banner (Customize, Reject All, Accept All) covers the lower part of the page and hides the bottom of the card. The requesting app is not named."
+}

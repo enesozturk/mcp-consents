@@ -1,0 +1,13 @@
+{
+  "first_screen": "other",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Domain picker",
+    "Find my domain link",
+    "Branded card",
+    "Free trial link"
+  ],
+  "notes": "The Egnyte Domain Picker asks the user to 'Enter the domain name associated with your Egnyte Account' in a field with a 'yourdomain.egnyte.com' placeholder. A 'Find my domain' link helps users who don't know it, and a purple Continue button proceeds. A white card with the Egnyte logo sits on a pale gradient with a teal top bar and a footer with legal links, plus a 'Start Free Trial' link. No sign-in method, requesting app name or permissions are shown yet."
+}

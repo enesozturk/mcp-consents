@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Browse the gallery
+    url: https://consents.ozturkenes.com
+    about: See every consent screen, its score and the criteria.
+  - name: Report a security issue
+    url: https://github.com/enesozturk/mcp-consents/blob/main/SECURITY.md
+    about: Please do not open public issues for security problems.

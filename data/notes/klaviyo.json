@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": true,
+  "highlights": [
+    "Shows redirect URI",
+    "Client name and website table",
+    "Pre-checked telemetry opt-in",
+    "Approve / Cancel"
+  ],
+  "notes": "A Klaviyo MCP Server header introduces the card 'MCP Consents is requesting access', with a table showing Name, Website (https://consents.ozturkenes.com) and Redirect URIs (http://localhost:33418/callback). Copy says that approving redirects the user to complete authentication, so sign-in comes after this screen. A pre-checked box, 'Allow Klaviyo to capture anonymized prompt intent', explains Klaviyo would collect a summary of the task type rather than the full prompt. Cancel and a blue Approve button close the card. No data or scope permissions are listed."
+}

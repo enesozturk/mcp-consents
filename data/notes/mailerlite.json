@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": true,
+  "highlights": [
+    "Shows client name and website",
+    "Shows redirect URI",
+    "Server branding header",
+    "No scope list"
+  ],
+  "notes": "The page opens with the MailerLite logo and 'MailerLite MCP Server', then a card headed 'MCP Consents is requesting access'. A details box lists the client Name, Website (https://consents.ozturkenes.com) and Redirect URIs (http://localhost:33418/callback). A sentence says that on approval the user is redirected to complete authentication. Cancel and Approve buttons follow. There is no sign-in form and no description of the access being granted."
+}

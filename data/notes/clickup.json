@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "sso",
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Pastel gradient header",
+    "Names the MCP service",
+    "Disabled Log In button"
+  ],
+  "notes": "The page is headed 'Connect ClickUp' with the line 'To connect ClickUp MCP Service, please log in'. It offers Continue with Google, Continue with SSO, and a work email plus password form with a greyed-out Log In button. The ClickUp logo sits above on a soft pink and blue gradient. The requesting client is not named and no permissions are described."
+}

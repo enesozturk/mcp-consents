@@ -1,0 +1,12 @@
+{
+  "score": 3.3,
+  "criteria": {
+    "account": "shown",
+    "permissions": "configurable",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "weak",
+    "brand": "ok"
+  },
+  "reason": "Lets you choose entire account or specific projects and shows the account. No redirect, a vague metrics scope, an odd empty left panel and a distracting tag banner."
+}

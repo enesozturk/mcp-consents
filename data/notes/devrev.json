@@ -1,0 +1,13 @@
+{
+  "first_screen": "other",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Org-name prefix field",
+    "Minimal card",
+    "Unbranded",
+    "No consent info"
+  ],
+  "notes": "A small centered card titled 'Login to DevRev' asks for an organization name, rendered as a 'https://app.devrev.ai/' prefix beside an 'org-name' input with a blue Continue button. There is no email, password or social login on this step, so the user must know their workspace slug first. The card carries no logo beyond a small glyph at the top right, and it does not name the requesting app or describe any permissions."
+}

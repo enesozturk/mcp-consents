@@ -1,0 +1,262 @@
+{
+  "appwrite": {
+    "score": 4.1,
+    "score_by": "tester",
+    "redirect_after_onboarding": "kept"
+  },
+  "atlassian": {
+    "score": 3,
+    "score_by": "tester"
+  },
+  "atlassian-2": {
+    "score": 2.6,
+    "score_by": "tester",
+    "redirect_after_onboarding": "kept"
+  },
+  "base44": {
+    "score": 4,
+    "score_by": "tester"
+  },
+  "blackrock-advisor-center-plugin": {
+    "score": 3,
+    "score_by": "tester"
+  },
+  "carta": {
+    "score": 3.8,
+    "score_by": "tester"
+  },
+  "cb-insights": {
+    "score": 3.3,
+    "score_by": "tester"
+  },
+  "cdata-connect-ai": {
+    "score": 0,
+    "score_by": "tester"
+  },
+  "circleback-2": {
+    "score": 3.9,
+    "score_by": "tester"
+  },
+  "clarify": {
+    "score": 4.1,
+    "score_by": "tester"
+  },
+  "clerk": {
+    "score": 4.4,
+    "score_by": "tester"
+  },
+  "cloudflare-2": {
+    "score": 4.6,
+    "score_by": "tester",
+    "tiebreak": 1
+  },
+  "contentsquare": {
+    "redirect_after_onboarding": "lost"
+  },
+  "expo": {
+    "score": 4.6,
+    "score_by": "tester",
+    "tiebreak": 2
+  },
+  "fellow-ai": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 2
+  },
+  "grain": {
+    "ui_rating": 3
+  },
+  "intercom": {
+    "score": 4.5,
+    "score_by": "tester"
+  },
+  "lovable": {
+    "redirect_after_onboarding": "kept"
+  },
+  "lumin": {
+    "score": 4.5,
+    "score_by": "tester"
+  },
+  "mapbox--mapbox": {
+    "redirect_after_onboarding": "kept"
+  },
+  "mintlify--mintlify-search": {
+    "redirect_after_onboarding": "kept"
+  },
+  "monday": {
+    "redirect_after_onboarding": "kept"
+  },
+  "notion": {
+    "score": 4.6,
+    "score_by": "tester",
+    "tiebreak": 3
+  },
+  "otter-ai": {
+    "redirect_after_onboarding": "lost"
+  },
+  "pendo-analytics--novus": {
+    "redirect_after_onboarding": "kept"
+  },
+  "pendo-analytics--pendo-external": {
+    "redirect_after_onboarding": "kept"
+  },
+  "phoenix": {
+    "redirect_after_onboarding": "kept"
+  },
+  "prisma": {
+    "redirect_after_onboarding": "kept",
+    "score": 4.7,
+    "score_by": "tester",
+    "tiebreak": 3
+  },
+  "process-street": {
+    "redirect_after_onboarding": "kept"
+  },
+  "railway": {
+    "redirect_after_onboarding": "kept",
+    "score": 4.4,
+    "score_by": "tester"
+  },
+  "resend": {
+    "redirect_after_onboarding": "lost",
+    "score": 4.5,
+    "score_by": "tester"
+  },
+  "runway-api": {
+    "redirect_after_onboarding": "kept"
+  },
+  "sanity": {
+    "redirect_after_onboarding": "kept"
+  },
+  "scholar-gateway": {
+    "redirect_after_onboarding": "kept"
+  },
+  "scite": {
+    "redirect_after_onboarding": "lost"
+  },
+  "semrush": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 1
+  },
+  "send": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 1
+  },
+  "shippo": {
+    "redirect_after_onboarding": "kept"
+  },
+  "sketchup": {
+    "redirect_after_onboarding": "kept"
+  },
+  "splice": {
+    "redirect_after_onboarding": "lost",
+    "score": 0,
+    "score_by": "tester"
+  },
+  "stripe": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 5
+  },
+  "stytch": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 3
+  },
+  "supermetrics": {
+    "redirect_after_onboarding": "kept"
+  },
+  "surveymonkey": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 3
+  },
+  "tavily": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 3
+  },
+  "todoist": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 3
+  },
+  "tropic": {
+    "redirect_after_onboarding": "lost"
+  },
+  "valtown": {
+    "redirect_after_onboarding": "lost",
+    "ui_rating": 3
+  },
+  "vibe-prospecting": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 3
+  },
+  "wix": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 3,
+    "score": 3.9,
+    "score_by": "tester"
+  },
+  "youdotcom-agent-skills--you": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 2
+  },
+  "youdotcom-agent-skills--you-finance": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 3
+  },
+  "zapier": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 4
+  },
+  "linear": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 4
+  },
+  "posthog": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 5,
+    "tiebreak": 2
+  },
+  "atlan": {
+    "redirect_after_onboarding": "lost"
+  },
+  "airwallex-agentos--airwallex-agentos": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 2
+  },
+  "adstudio": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 5,
+    "tiebreak": 1
+  },
+  "supabase": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 4
+  },
+  "turkish-airlines": {
+    "redirect_after_onboarding": "kept"
+  },
+  "migration-to-aws--temporal-docs": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 1
+  },
+  "codspeed": {
+    "redirect_after_onboarding": "kept",
+    "ui_rating": 3
+  },
+  "coupler-io": {
+    "redirect_after_onboarding": "kept"
+  },
+  "ahrefs": {
+    "redirect_after_onboarding": "lost",
+    "ui_rating": 2
+  },
+  "airtable": {
+    "redirect_after_onboarding": "kept"
+  },
+  "consensus": {
+    "redirect_after_onboarding": "kept"
+  },
+  "context7": {
+    "redirect_after_onboarding": "kept"
+  },
+  "nimble": {
+    "redirect_after_onboarding": "kept"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google",
+    "apple",
+    "facebook"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen hero photo",
+    "Third-party social sign-in",
+    "Cookie preferences footer",
+    "Adobe ID"
+  ],
+  "notes": "Adobe's standard sign-in page shows an email field with a Continue button, then Continue with Google, Facebook and Apple buttons and a 'More sign-in options' link. The left side is a full-bleed stock photo (jars of honey) with the Adobe wordmark and 'Sign in or create an account', and a photographer credit sits in the corner. The page does not name the requesting app or describe any permissions. A chat widget button and a legal footer with cookie preferences are visible."
+}

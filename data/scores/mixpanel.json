@@ -1,0 +1,12 @@
+{
+  "score": 2.9,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "weak",
+    "brand": "strong"
+  },
+  "reason": "Redirect and a very long read/write list, but a plain, cluttered scroll of bullets. Nothing is configurable and the primary buttons are below the fold."
+}

@@ -1,0 +1,12 @@
+{
+  "first_screen": "api_key_prompt",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "API key entry",
+    "No OAuth login",
+    "Minimal form"
+  ],
+  "notes": "A light page with the TicketTailor logo above a card titled 'AI assist for Ticket Tailor'. Instead of a login or consent screen, it asks the user to paste a TicketTailor API key (placeholder sk_1234567890abcdef...) to let the MCP connector access their data. A link points to the TicketTailor API settings for creating a key, and a dark Connect button submits it. The requesting app is not named, and the page does not explain what access the key gives the connector."
+}

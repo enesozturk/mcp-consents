@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "magic_link",
+    "linkedin"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Monochrome card",
+    "LinkedIn option",
+    "Product copy in subline",
+    "Sign-in icon badge"
+  ],
+  "notes": "A centered card with a sign-in icon badge says 'Sign in' and 'Enter Lawve and continue exploring AI resources for legal work.' Continue with Google and Continue with LinkedIn buttons come first, then an OR divider, an email field and a black Sign in button that also carries a loading-style glyph. A Sign up link and a terms line follow. The Lawve logo is top left, and the page does not name the requesting app or describe the marketplace:read scope."
+}

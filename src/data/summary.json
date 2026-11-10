@@ -1,0 +1,58 @@
+{
+  "reviewed": 250,
+  "ranked": 97,
+  "not_ranked": 6,
+  "removed_total": 147,
+  "removed": [
+    {
+      "key": "work",
+      "label": "needed a work email or a team account",
+      "count": 35
+    },
+    {
+      "key": "duplicate",
+      "label": "duplicated another entry (same provider or product)",
+      "count": 29
+    },
+    {
+      "key": "error",
+      "label": "failed with an error at sign-in",
+      "count": 27
+    },
+    {
+      "key": "paid",
+      "label": "needed a paid plan or an enterprise account",
+      "count": 18
+    },
+    {
+      "key": "skipped",
+      "label": "were skipped while recording",
+      "count": 12
+    },
+    {
+      "key": "no-consent",
+      "label": "had no consent screen at all",
+      "count": 7
+    },
+    {
+      "key": "phone",
+      "label": "needed a phone number",
+      "count": 4
+    },
+    {
+      "key": "api-key",
+      "label": "asked for an API key instead of OAuth",
+      "count": 2
+    },
+    {
+      "key": "desktop",
+      "label": "needed a desktop app",
+      "count": 1
+    },
+    {
+      "key": "other",
+      "label": "were removed after review (example servers and others)",
+      "count": 12
+    }
+  ]
+}

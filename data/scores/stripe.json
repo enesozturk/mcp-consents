@@ -1,0 +1,12 @@
+{
+  "score": 4.8,
+  "criteria": {
+    "account": "picker",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Multi-step flow: pick one or several Stripe accounts, live or sandbox, then Read/Write/Customize permissions per account, a review step and a post-authorization screen. Shows the localhost redirect and an unverified warning, on a beautiful branded page."
+}

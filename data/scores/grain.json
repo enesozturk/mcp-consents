@@ -1,0 +1,12 @@
+{
+  "score": 3.0,
+  "criteria": {
+    "account": "shown",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Redirect and email are shown with an unverified warning, but the page names the wrong client ('Claude Code (grain-server)') and access is one dense sentence."
+}

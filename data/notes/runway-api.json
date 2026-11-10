@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Centered card",
+    "Email-first",
+    "Minimal"
+  ],
+  "notes": "A light page with the runway logo and 'Sign in' heading above a bordered card. The card has an email field with a black 'Continue with email' button, an OR divider, and an outlined Continue with Google button, then a sign-up link. Terms and privacy links sit at the very bottom. The page does not say which app is requesting access or what the openid, email, profile and offline_access scopes allow."
+}

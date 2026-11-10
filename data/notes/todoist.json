@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "apple",
+    "password",
+    "facebook"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen illustration",
+    "QR code for mobile app",
+    "Red brand color"
+  ],
+  "notes": "A split-screen login. The left column has the todoist logo, 'Welcome back!', stacked Google, Facebook and Apple buttons, then email and password fields with a red Log in button, a forgot-password link, terms text and a sign-up link. The right panel is a peach illustration of a calendar, phone and plant with a 'Take Todoist with you' mobile-app prompt and a QR code. The requesting app and the data:read_write scope are not mentioned."
+}

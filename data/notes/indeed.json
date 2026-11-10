@@ -1,0 +1,13 @@
+{
+  "first_screen": "error_page",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Branded block page",
+    "Shows Ray ID and IP",
+    "Site nav header",
+    "Return home button"
+  ],
+  "notes": "A 'Request Blocked' page inside Indeed's normal site header, with Find jobs, Company Reviews and a Sign in link at the top. The body says 'You have been blocked', shows a Ray ID and the client IP address, and tells the user to go to support.indeed.com if this is an error. A blue 'Return home' button, a Cloudflare troubleshooting link and a 'Contact us' link follow. The authorization flow never reached a sign-in or consent screen."
+}

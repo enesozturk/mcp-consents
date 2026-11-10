@@ -1,0 +1,12 @@
+{
+  "score": 4.0,
+  "criteria": {
+    "account": "picker",
+    "permissions": "configurable",
+    "redirect": "warning_only",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "strong"
+  },
+  "reason": "Organization dropdown and individually tickable read, safe write and destructive write scopes, with a not-approved warning. No redirect URL is shown."
+}

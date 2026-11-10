@@ -1,0 +1,12 @@
+{
+  "score": 3.3,
+  "criteria": {
+    "account": "shown",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Clean minimal card with the localhost redirect and an unverified warning, plus the logged-in account. No permissions at all, so you do not know what you are granting."
+}

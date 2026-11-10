@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "summary",
+  "names_client": false,
+  "highlights": [
+    "Shows localhost origin",
+    "Plain-language prompt",
+    "Try-it prompt tip",
+    "No client name"
+  ],
+  "notes": "A wide white card asks 'Do you authorize software running on your computer to connect to your Lucid account?' and shows http://localhost:33418 in a read-only box. A paragraph says the site can read documents, create new ones and edit existing ones. A 'Try Lucid after connecting' panel gives a copyable sample prompt for the AI assistant. Cancel and a wide Authorize button end the card. The requesting app is described only as software on your computer, not named, and there is no sign-in form on this screen."
+}

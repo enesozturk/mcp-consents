@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "microsoft"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Social-only login",
+    "Minimal",
+    "Centered"
+  ],
+  "notes": "A minimal white page with the Send logo and 'Welcome to Send' centered above two full-width buttons. Continue with Google is filled black and Continue with Microsoft is outlined. There is no email or password field, no terms link, and no information about the requesting app or the scopes."
+}

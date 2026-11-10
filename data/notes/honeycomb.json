@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Region switcher",
+    "Team URL join link",
+    "Email-first",
+    "Small card"
+  ],
+  "notes": "A small card with the honeycomb.io logo starts with 'North America · Switch to European Union', so the data region is chosen before sign-in. 'Enter your email to get started:' is followed by a work email field, a Continue button that is greyed out until input, and a 'Log in with Google' button. Links below offer 'Have a team URL? Join team' and 'New to Honeycomb? Sign up for free', with the copyright and legal links under them. The page does not name the requesting app or describe the mcp:read and mcp:write scopes."
+}

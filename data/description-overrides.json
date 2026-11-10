@@ -1,0 +1,16 @@
+{
+  "_doc": "Hand-written short descriptions that replace data/descriptions.json entries (used where the site's meta description was missing or unusable).",
+  "activecampaign": "Go beyond marketing automation with ActiveCampaign's autonomous marketing platform.",
+  "amazon-selling-partner": "Sell on Amazon: manage listings, orders and inventory in Seller Central.",
+  "aws-agents-for-devsecops": "An AWS agent for incident investigation, code review and release readiness.",
+  "catalyst-by-zoho": "Catalyst by Zoho is a full-stack cloud platform for building and running apps.",
+  "cockroachdb--cockroachdb-cloud": "CockroachDB is a distributed SQL database built for resilience and scale.",
+  "cockroachdb--cockroachdb-toolbox-http": "CockroachDB is a distributed SQL database built for resilience and scale.",
+  "gc-ai": "GC AI is an AI legal assistant for in-house counsel.",
+  "github": "GitHub is where people build software: code hosting, pull requests, issues and Actions.",
+  "logfire": "Pydantic Logfire is an observability platform for traces, logs and metrics.",
+  "lovable": "Lovable lets you build web apps and websites by chatting with AI.",
+  "sumup": "SumUp offers card readers, online payments and point-of-sale tools for small businesses.",
+  "cockroachdb": "CockroachDB is a distributed SQL database built for resilience and scale.",
+  "adstudio": "Connect Google Ads, Meta Ads and TikTok Ads to ChatGPT, Claude, Gemini or Cursor. One sign-in, no API keys."
+}

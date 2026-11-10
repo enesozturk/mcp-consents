@@ -1,0 +1,12 @@
+{
+  "score": 3.1,
+  "criteria": {
+    "account": "shown",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "strong"
+  },
+  "reason": "Strong brand hero, redirect shown and the app shell shows the account. Capability list is marketing copy and the page scrolls."
+}

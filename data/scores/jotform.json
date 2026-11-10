@@ -1,0 +1,12 @@
+{
+  "score": 2.5,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Extra terms step, client called oauth-discovery-probe, three read-only permissions and account in the footer. No redirect."
+}

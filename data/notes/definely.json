@@ -1,0 +1,14 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Unstyled HTML form",
+    "Oversized logo graphic",
+    "Browser default controls"
+  ],
+  "notes": "The page is mostly an oversized blue and navy logo graphic that fills the viewport, with the actual form pushed to the bottom in unstyled browser defaults. It reads 'Definely', 'Sign in to continue', a 'Login email' field and a plain Continue button, followed by a copyright line. The styling looks like it failed to load. The requesting app and permissions are not shown."
+}

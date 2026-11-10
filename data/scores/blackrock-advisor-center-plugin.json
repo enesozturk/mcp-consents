@@ -1,0 +1,13 @@
+{
+  "score": 3,
+  "criteria": {
+    "account": "none",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Name, redirect and terms shown; no account; permissions are tucked behind advanced details instead of shown by default.",
+  "by": "tester_feedback"
+}

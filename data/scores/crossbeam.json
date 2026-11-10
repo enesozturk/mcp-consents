@@ -1,0 +1,12 @@
+{
+  "score": 2.4,
+  "criteria": {
+    "account": "shown",
+    "permissions": "none",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Shows the person's name and an app swap graphic, but no permissions, no redirect and placeholder-looking letter icons."
+}

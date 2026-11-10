@@ -1,0 +1,12 @@
+{
+  "score": 3.2,
+  "criteria": {
+    "account": "shown",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Nice dark branded card that shows the logged-in account and the redirect URI. It lists no permissions at all and offers no choices, just Authorize."
+}

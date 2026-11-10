@@ -1,0 +1,12 @@
+{
+  "score": 4.2,
+  "criteria": {
+    "account": "shown",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Shows the organization, read data locked on and write data as an optional checkbox, and the localhost redirect. Plain modal over a gradient and no logo slot, but it gets the substance right."
+}

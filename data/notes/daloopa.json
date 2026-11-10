@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "password",
+    "microsoft"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Terms checkbox before sign-in",
+    "Serif typography",
+    "Request a demo link",
+    "Microsoft SSO"
+  ],
+  "notes": "'Welcome to Daloopa!' sits above a card with a work email field, an unticked 'I agree to the Daloopa Terms of Use' checkbox, and a dark maroon 'Continue with password' button with a Reset Password link. A Sign in with Microsoft button and a 'Need a login? Request a demo' link sit below. The terms checkbox is an extra step before continuing. The requesting app and permissions are not shown."
+}

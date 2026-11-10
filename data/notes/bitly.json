@@ -1,0 +1,17 @@
+{
+  "first_screen": "consent_then_login",
+  "sign_in_methods": [
+    "google",
+    "apple",
+    "password"
+  ],
+  "permissions": "summary",
+  "names_client": true,
+  "highlights": [
+    "Cookie banner",
+    "Generated client name shown",
+    "Cancel link",
+    "Consent text above sign-in"
+  ],
+  "notes": "A card under the Bitly logo opens with 'The application MCP Consents-20261108-2028-qb8kaxWNLY is requesting permission to create links and access your link history and statistics', so the client name appears with a long generated suffix. Directly below are Continue with Google, Continue with Apple and a blue 'Sign in with your Bitly account' button, then a Cancel link and a sign-up prompt. The permission is a single sentence with no approve step before sign-in. A large cookie banner with Cookie Settings and Accept All covers the bottom."
+}

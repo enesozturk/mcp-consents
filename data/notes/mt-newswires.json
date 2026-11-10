@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": true,
+  "highlights": [
+    "Cookie banner",
+    "Client named in heading",
+    "Powered-by branding",
+    "Terms and marketing checkboxes"
+  ],
+  "notes": "The page is dimmed by a cookie banner at the bottom with Manage preferences and Accept all buttons. The card shows the MT Newswires logo with 'Powered by viaNexus' and the heading 'Connect MCP Consents to viaNexus'. It asks only for an email address, with a required Terms of Service checkbox and an unchecked opt-out checkbox for marketing emails from Blue-Sky Data Platform. A note says 'We'll email you a link to set your password', so sign-in and sign-up are one flow. A Sign in link covers existing users, and no permissions are listed."
+}

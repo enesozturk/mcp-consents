@@ -1,0 +1,19 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "passkey",
+    "google",
+    "microsoft",
+    "slack"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen Slack promo",
+    "Passkey option",
+    "2FA skip checkbox",
+    "Orange primary button"
+  ],
+  "notes": "The left column has the Brex logo and a bordered 'Sign in to your Brex account' card with an email field, a 'Skip two-factor authentication on this device for 30 days' checkbox, an orange Continue button, and Passkey, Google and Microsoft buttons. The right half is a grey promo panel for Brex for Slack with a mock expense card. The page does not name the requesting app and does not describe permissions."
+}

@@ -1,0 +1,13 @@
+{
+  "first_screen": "account_picker",
+  "sign_in_methods": [],
+  "permissions": "summary",
+  "names_client": false,
+  "highlights": [
+    "Live vs Sandbox choice",
+    "Terms per environment",
+    "Plain-language guidance",
+    "Long scrolling card"
+  ],
+  "notes": "The page is headed 'Choose your account' with two stacked cards, Live and Sandbox, each with its own dark 'Connect to a ... account' button. The Live card says what the connection allows: viewing real payments, mandates and payouts and taking actions such as creating payments. The Sandbox card says it uses test data and processes no real payments. Each card links to separate MCP Terms and Conditions that apply when the user clicks Connect, and a 'Need help deciding?' section runs past the bottom of the viewport. No sign-in form appears yet and the requesting app is not named."
+}

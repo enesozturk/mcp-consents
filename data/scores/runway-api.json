@@ -1,0 +1,12 @@
+{
+  "score": 3.1,
+  "criteria": {
+    "account": "none",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "strong"
+  },
+  "reason": "Shows the redirect with a warning, but the scopes are generic identity items and no account is shown. Long and runs off the screen."
+}

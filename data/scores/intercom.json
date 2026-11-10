@@ -1,0 +1,12 @@
+{
+  "score": 4.4,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Names the app with an unverified note, lists permissions, client ID and redirect, and requires a confirmation tick; workspace is only named in the headline and permissions are not configurable."
+}

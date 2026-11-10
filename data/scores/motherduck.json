@@ -1,0 +1,12 @@
+{
+  "score": 3.1,
+  "criteria": {
+    "account": "none",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Distinctive brutalist styling with a clear redirect box. One catch-all permission and no account."
+}

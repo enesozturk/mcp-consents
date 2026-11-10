@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "magic_link"
+  ],
+  "permissions": "summary",
+  "names_client": true,
+  "highlights": [
+    "Split-screen hero",
+    "Names MCP Consents",
+    "Cookie banner",
+    "Sign-up first"
+  ],
+  "notes": "A split-screen page that opens on a Create your Scite account form with a Log in / Sign up toggle. The left panel is a pitch headed 'Give MCP Consents research it can cite', with stats (327M+ articles, 1.7B+ smart citations, 50M+ full texts) and a bullet list of what the app can do with Scite. The right panel has name and email fields, a Next button, Sign up with Google, and an 'Other sign in options' button, and mentions a 7-day free trial to connect the app. A blue cookie banner covers the lower left of the pitch. Permissions are described as marketing benefits rather than scopes."
+}

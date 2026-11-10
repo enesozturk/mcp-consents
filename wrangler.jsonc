@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mcp-consents",
+  "compatibility_date": "2026-11-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "./src/server.ts",
+  "observability": { "enabled": true },
+  // both hosts are attached on deploy (the zone must be in the same Cloudflare account);
+  // gateways.ozturkenes.com, the old name, redirects to consents.ozturkenes.com (src/server.ts)
+  "routes": [
+    { "pattern": "consents.ozturkenes.com", "custom_domain": true },
+    { "pattern": "gateways.ozturkenes.com", "custom_domain": true }
+  ],
+  "upload_source_maps": true
+}

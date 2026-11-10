@@ -1,0 +1,12 @@
+{
+  "score": 2.4,
+  "criteria": {
+    "account": "none",
+    "permissions": "summary",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "strong"
+  },
+  "reason": "Clean branded card naming the client with one vague capability line; no account, no redirect."
+}

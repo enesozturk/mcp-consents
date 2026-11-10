@@ -1,0 +1,20 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google",
+    "apple",
+    "microsoft",
+    "passkey",
+    "sso"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Icon tile grid of providers",
+    "ChatGPT sign-in option",
+    "Passkey and SSO tiles",
+    "Language selector"
+  ],
+  "notes": "A centered white page with the Notion cube, the heading 'Your AI workspace. Log in to your Notion account' and a focused email field with a hint to use an organization email. A blue Continue button leads to an 'or continue with' grid of six labelled tiles: Google, ChatGPT, Apple, Microsoft, Passkey and SSO. A sign-up link, terms text, a language selector and a help icon complete the page. It does not name the requesting app or list permissions."
+}

@@ -1,0 +1,19 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "microsoft",
+    "apple",
+    "password",
+    "salesforce"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Icon tiles for IdPs",
+    "Enterprise login link",
+    "Salesforce option",
+    "Long single column"
+  ],
+  "notes": "A 'Welcome to Jotform!' page with the logo and the line 'Log in to access and manage your Jotform workspace.' Four labeled icon tiles for Google, Microsoft, Apple and Salesforce sit above an OR divider. Below are an 'Email address or username' field, a password field with 'Forgot password?', and a blue Log in button, then a Sign up link and a 'Log into Jotform Enterprise' link that runs to the bottom of the viewport. The page does not name the requesting app or describe the readOnly and full scopes."
+}

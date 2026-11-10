@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "list",
+  "names_client": true,
+  "highlights": [
+    "Shows redirect URI",
+    "Trust-URL checkbox",
+    "Itemized capabilities",
+    "Cancel option"
+  ],
+  "notes": "A white card with the Webflow MCP logo and the heading 'MCP Consents is requesting access'. Four green-checked capabilities cover Designer API canvas edits, CMS collections and items via the Data API, styles, variables and custom code, and assets, SEO and site content. A yellow warning shows the redirect location http://localhost:33418/callback with an unchecked 'I recognize and trust this URL' box that must be ticked before the blue Continue button works. Cancel sits below, and a note says site or workspace access is granted on the next screen. There is no sign-in form on this page."
+}

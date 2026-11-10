@@ -1,0 +1,13 @@
+{
+  "first_screen": "other",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Paywall before connect",
+    "Stripe checkout",
+    "Pricing card",
+    "Centered card"
+  ],
+  "notes": "The first screen is a subscription pitch titled 'Connect to Descrybe Legal Engine', not a sign-in or consent form. A card shows a $12.50 first-month price renewing at $25/month, three checked feature bullets, and a full-width 'Continue to checkout' button. A small red 'Already subscribed? Sign in to connect.' link is the only route for existing customers. The header says the user returns to their assistant automatically after checkout. The page does not name the requesting app or list permissions."
+}

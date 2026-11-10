@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "microsoft",
+    "magic_link",
+    "sso"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Magic link primary",
+    "No password needed note",
+    "SSO text link",
+    "Imprint link"
+  ],
+  "notes": "A plain white page with the Peec AI mark and the heading 'Create your Peec AI account', so a returning user is framed as signing up. It offers Continue with Google and Microsoft buttons, then a work email field with a note that a link is sent and no password is needed, and a grey Send Magic Link button. 'Continue with SSO' is a text link below, and the terms line also cites a DPA. A small 'Imprint' link sits bottom left. The requesting app and permissions are not shown."
+}

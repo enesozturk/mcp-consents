@@ -1,0 +1,12 @@
+{
+  "score": 3.1,
+  "criteria": {
+    "account": "shown",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Shows the localhost destination and a sentence on what is accessed, with a Lucid account mention; the 'try this prompt' box is clutter and nothing is configurable."
+}

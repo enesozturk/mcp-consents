@@ -1,0 +1,16 @@
+{
+  "first_screen": "consent_then_login",
+  "sign_in_methods": [
+    "google",
+    "magic_link"
+  ],
+  "permissions": "list",
+  "names_client": true,
+  "highlights": [
+    "Consent and sign-in combined",
+    "Names MCP Consents",
+    "Image CAPTCHA",
+    "Gradient background"
+  ],
+  "notes": "A tall card on a blue-to-cream gradient with a navy header showing the Vibe Prospecting logo and 'Authorization Request'. It says 'MCP Consents is requesting access to your Vibe Prospecting account' and lists three abilities: pull data from the account, run searches and enrichments with the user's credits, and stay connected until disconnected. Below are a Continue with Google button, an email field, and an image CAPTCHA ('Enter the code shown above') before a 'Sign in and allow access' button, so consent happens in the same step as sign-in. A terms and privacy line closes the card. The image CAPTCHA adds typing friction."
+}

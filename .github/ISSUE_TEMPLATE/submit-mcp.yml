@@ -1,0 +1,53 @@
+name: Submit an MCP server
+description: Suggest a remote MCP server with an OAuth sign-in for the gallery
+title: "Add: "
+labels: ["submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! The gallery covers remote MCP servers that sign users in with OAuth. The maintainer records
+        every consent screen with the same test client, so there is no need to attach screenshots.
+  - type: input
+    id: name
+    attributes:
+      label: Product name
+      placeholder: Acme CRM
+    validations:
+      required: true
+  - type: input
+    id: mcp_url
+    attributes:
+      label: MCP server URL
+      description: The URL an MCP client connects to.
+      placeholder: https://mcp.acme.com/mcp
+    validations:
+      required: true
+  - type: input
+    id: homepage
+    attributes:
+      label: Homepage
+      placeholder: https://acme.com
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does the MCP server do?
+      description: One or two sentences.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything to know before signing in?
+      description: For example a free plan, a waitlist, a work email requirement or a specific region.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: The server uses OAuth sign-in (not only an API key).
+          required: true
+        - label: I am not including anyone's personal data in this issue.
+          required: true

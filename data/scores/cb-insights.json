@@ -1,0 +1,13 @@
+{
+  "score": 3.3,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "weak"
+  },
+  "reason": "Redirect URL and name shown; no account; permissions are not shown or configurable.",
+  "by": "tester_feedback"
+}

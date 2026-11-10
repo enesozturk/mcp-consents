@@ -1,0 +1,12 @@
+{
+  "first_screen": "error_page",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Raw error text",
+    "Invalid redirect_uri",
+    "Unbranded"
+  ],
+  "notes": "The page is blank apart from the plain monospace text 'invalid redirect_uri' in the top-left corner. The server rejected the capture client's redirect URI, so the user sees no branding, explanation or way forward. It does not name the requesting app or offer sign-in."
+}

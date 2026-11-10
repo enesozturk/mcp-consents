@@ -1,0 +1,13 @@
+{
+  "first_screen": "other",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark UI",
+    "Login-required stop",
+    "Site nav header",
+    "Go to login button"
+  ],
+  "notes": "The page does not start OAuth consent; it says 'You need to be logged in to authorize access' and 'You will be redirected here after logging in', with a single Go to login button. It is shown inside the normal CodSpeed site chrome on a dark background, with Blog, Docs, Changelog, Login and Get Started in the header. This adds an extra click before sign-in, and no requesting app or permissions appear."
+}

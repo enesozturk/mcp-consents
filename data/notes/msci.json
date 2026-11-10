@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Full-bleed data photo background",
+    "Dark footer bar",
+    "Email-first form",
+    "Terms agreement on click"
+  ],
+  "notes": "A narrow white card sits over a full-bleed dark blue photo of glowing market charts. It holds the MSCI logo, 'Sign In', an outlined email field with a floating label and a rounded blue Sign In button. Beneath is a line saying clicking Sign In means agreeing to the Terms of Use, with a Create an account link. A dark footer bar carries the copyright and Terms, Privacy Notice, Cookies and Contact Us links. The page does not name the requesting app or show permissions."
+}

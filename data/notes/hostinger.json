@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "github",
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Registration form by default",
+    "Dark UI",
+    "Icon-only social buttons",
+    "Marketing opt-in checkbox"
+  ],
+  "notes": "The page opens on 'Register' rather than login, with a small 'Already have an account? Log in' link. Icon-only Google and GitHub buttons come first, followed by email, password (with a show toggle) and an optional phone number field. An unchecked box asks for consent to WhatsApp and SMS offers, and a purple Register button follows. A long terms and marketing notice runs past the bottom edge of the dark page. The page does not name the requesting app or describe the mcp:use scope."
+}

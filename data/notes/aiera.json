@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark UI",
+    "Single centered card",
+    "Email-first with password fallback"
+  ],
+  "notes": "A small dark card on a near-black background shows the Aiera logo, 'Sign in to Aiera' and 'Enter your work email to continue'. There is one email field and a blue Continue button, with a 'Continue with password instead' text link below. No social or SSO buttons are shown. The page names no requesting app and shows no permissions."
+}

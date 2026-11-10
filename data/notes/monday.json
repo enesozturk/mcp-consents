@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "magic_link"
+  ],
+  "permissions": "summary",
+  "names_client": false,
+  "highlights": [
+    "Split-screen hero",
+    "AI-tool connection framing",
+    "Dark hero panel",
+    "reCAPTCHA badge"
+  ],
+  "notes": "The left half is headed 'Connect your favourite AI tool to monday.com account' and says any AI tool can securely access and manage your projects, boards and workflows. It offers a Continue with Google button, then an email field with a black Continue button, plus a terms line and an 'Already have an account? Log in' link. The right half is a dark panel with the monday logo, a mock board and AI tool icons. The framing is generic rather than naming the requesting client, and the access description is a single sentence."
+}

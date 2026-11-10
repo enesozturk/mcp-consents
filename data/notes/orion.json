@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark UI",
+    "Split-screen with empty gradient panel",
+    "Email-only form",
+    "Gravity footer link"
+  ],
+  "notes": "A dark page with a rounded left panel containing only a muted blue gradient and no content. On the right are the Orion logo, 'Sign in to Orion', 'Connect your Orion account', an email field and a light grey Continue button. The footer has faint Gravity and Terms of Service links. The page does not name the requesting app or describe permissions."
+}

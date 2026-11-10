@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": true,
+  "highlights": [
+    "Shows redirect URI",
+    "Redirect warning box",
+    "Compact card",
+    "No scope list"
+  ],
+  "notes": "A small card under a purple LogRocket rocket logo reads 'MCP Consents is requesting access to LogRocket', with the client name in the brand purple. An amber-bordered box shows the callback http://localhost:33418/callback and warns the user to approve only if they trust that destination. Cancel and Approve buttons follow. No sign-in form and no permissions are listed, so the user sees what the callback is but not what access is granted."
+}

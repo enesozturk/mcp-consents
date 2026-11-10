@@ -1,0 +1,12 @@
+{
+  "score": 3.9,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Tidy card with five described scopes, the redirect and the logged-in account. Permissions are not configurable and the client has only a letter placeholder."
+}

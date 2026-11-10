@@ -1,0 +1,12 @@
+{
+  "score": 3.1,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "strong"
+  },
+  "reason": "Dropbox shows a clear permission list and the signed-in avatar, but the client is 'Unknown agent', no redirect, nothing configurable, and the flow before it is full of upsells."
+}

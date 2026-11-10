@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Gradient wave background",
+    "Centered card",
+    "Email-first with Google",
+    "Unbranded to client"
+  ],
+  "notes": "A centered white card over a pastel gradient with fine line-wave art, with the Plaid logo top left. It reads 'Welcome back' with a Sign up link, an email field, a dark navy Continue button and a Sign in with Google button, then a Forgot password link. The page does not name the requesting app and does not describe the dashboard access being requested."
+}

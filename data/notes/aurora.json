@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "sso"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark UI",
+    "Split-screen hero",
+    "Third-party IdP",
+    "Enterprise SSO"
+  ],
+  "notes": "A dark split screen: the left shows the 'Ai Identity by Consilio' logo and a large headline about identity for the Consilio Intelligence platform, mentioning OAuth 2.1 and dynamic client registration. The right says 'Welcome back' with one purple 'Sign in with Consilio Identity' button, a faint 'Sign in with other methods' link and 'Protected by Consilio enterprise SSO'. Privacy Statement and EULA links are at the bottom left. The requesting app is not named and no permissions are described."
+}

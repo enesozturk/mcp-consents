@@ -1,0 +1,14 @@
+{
+  "_doc": "Display names where the catalog only had a plugin slug.",
+  "cockroachdb--cockroachdb-cloud": "CockroachDB",
+  "runway-api": "Runway API",
+  "blackrock-advisor-center-plugin": "BlackRock Advisor Center",
+  "airwallex-agentos--airwallex-agentos": "Airwallex",
+  "youdotcom-agent-skills--you": "You.com",
+  "valtown": "Val Town",
+  "grafana-cloud-mcp": "Grafana Cloud",
+  "mercadopago": "Mercado Pago",
+  "migration-to-aws--temporal-docs": "Temporal Docs",
+  "mapbox--mapbox": "Mapbox",
+  "vanta--vanta-us": "Vanta"
+}

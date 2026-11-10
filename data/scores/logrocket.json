@@ -1,0 +1,12 @@
+{
+  "score": 2.9,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "strong"
+  },
+  "reason": "Tidy card with the rocket logo, client name and a clear redirect warning; no account and no permissions."
+}

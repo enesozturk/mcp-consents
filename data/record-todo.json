@@ -1,0 +1,8 @@
+{
+  "_doc": "Gateways to (re)record next, in order. `npm run record -- --todo` records them even if a recording exists; the old one moves to data/auth-history.",
+  "ids": [
+    "common-room",
+    "lawve-ai",
+    "adstudio"
+  ]
+}

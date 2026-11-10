@@ -1,0 +1,12 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "list",
+  "names_client": false,
+  "highlights": [
+    "Instance URL field",
+    "Terms checkbox gates Allow",
+    "Two-icon header"
+  ],
+  "notes": "A centered white card with two app icons joined by a two-way arrow and the heading 'ThoughtSpot Spotter wants access to your ThoughtSpot instance'. The user must type their ThoughtSpot instance URL (placeholder https://your-instance.thoughtspot.cloud), with a link to start a free 14-day trial. A short list says Spotter can read all ThoughtSpot data and content the user can access and send data to the client being connected. A terms and privacy checkbox must be ticked before the blue Allow button becomes active, and Cancel sits beside it. The page names ThoughtSpot Spotter rather than the requesting client app."
+}

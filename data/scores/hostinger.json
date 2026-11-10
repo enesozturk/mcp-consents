@@ -1,0 +1,12 @@
+{
+  "score": 3.2,
+  "criteria": {
+    "account": "picker",
+    "permissions": "summary",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Nice dark branded page with the account and a switch option. One vague sentence for permissions and no redirect URL."
+}

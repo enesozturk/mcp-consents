@@ -1,0 +1,12 @@
+{
+  "score": 4.2,
+  "criteria": {
+    "account": "picker",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Organization picker, scrollable permission list, trust warning and 'redirects to localhost' note in a neat card; permissions not configurable and the full redirect is not shown; it also shows the localhost redirect."
+}

@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "microsoft",
+    "password",
+    "sso"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Marketing site header",
+    "Chat widget",
+    "Email login hidden behind link"
+  ],
+  "notes": "A gray page with the full windsor.ai site header (Sign In label and a blue Register button) above a rounded card headed 'Centralize All Your Data with Windsor.ai Data Connectors'. Continue with Google and Continue with Microsoft are the only buttons; email and password login and company SSO are underlined text links below them. A create-account link closes the card, and a chat bubble and reCAPTCHA badge sit in the bottom right corner. The requesting app and the create and delete scopes are not mentioned."
+}

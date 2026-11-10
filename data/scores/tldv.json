@@ -1,0 +1,12 @@
+{
+  "score": 2.4,
+  "criteria": {
+    "account": "picker",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "weak",
+    "brand": "ok"
+  },
+  "reason": "Lists three data types and has a sign-in button, but the client app is never named, no redirect, and a huge cookie banner covers the page."
+}

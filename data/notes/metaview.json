@@ -1,0 +1,17 @@
+{
+  "first_screen": "consent_then_login",
+  "sign_in_methods": [
+    "google",
+    "microsoft",
+    "magic_link"
+  ],
+  "permissions": "summary",
+  "names_client": false,
+  "highlights": [
+    "Anonymous third-party wording",
+    "Security badges",
+    "Theme toggle",
+    "Google and Microsoft"
+  ],
+  "notes": "A centered card under a Metaview pill logo is titled 'Authorize third-party access' and says a third-party application is requesting access to your interview data. Below are Continue with Google and Microsoft buttons, then a work email field with a disabled Sign in button. The footer has an encryption badge, compliance chips (GDPR, CCPA, LGPD, PIPEDA, SOC 2 Type II) and terms text, and a light/dark/system toggle sits bottom right. The client is not named, so the user only learns the data type involved."
+}

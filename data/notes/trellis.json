@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google",
+    "linkedin"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Sign-up form shown first",
+    "Public records policy link",
+    "LinkedIn button"
+  ],
+  "notes": "The page opens on a Sign Up form rather than a login: 'Create your free account' with Full Name and Email Address fields and a green Get Started For Free button. An 'or sign up with' row offers a LinkedIn button and a Google button, and a small 'Already have an account? Log In' button sits in the top right of the header. The terms line also links to a Public Records Policy. Existing users have to find the small Log In button, and the requesting app and the mcp scope are not mentioned. LinkedIn is not in the sign_in_methods enum, so it is omitted from the array."
+}

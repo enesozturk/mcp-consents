@@ -1,0 +1,13 @@
+{
+  "first_screen": "api_key_prompt",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "API key entry",
+    "No OAuth sign-in",
+    "Yellow brand button",
+    "Masked key field"
+  ],
+  "notes": "Instead of a sign-in or consent page, 'Connect your API key' asks the user to paste a CoinDesk API key to access market data, indices and news through the MCP server. The field is masked with a show toggle, with links to find an existing key or register interest, and a yellow Continue button. There is no account login, no requesting app name and no permissions list."
+}

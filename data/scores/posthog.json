@@ -1,0 +1,12 @@
+{
+  "score": 4.7,
+  "criteria": {
+    "account": "picker",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Region and organization setup, then a consent screen with the account, organization/project scope and per-product No access/Read/Write toggles with shortcuts. Unverified warning and redirect are shown; a bit dense, but one of the best."
+}

@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "github",
+    "apple",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen hero",
+    "Cookie banner",
+    "Three social providers",
+    "SSO upsell note"
+  ],
+  "notes": "The left half has the Lovable heart logo, a 'Log in' heading and three stacked pill buttons for Google, GitHub and Apple. Below an OR divider is an email field and a black Continue button. A footnote says SSO is available on Business and Enterprise plans. The right half is a gradient with a fake prompt box reading 'Ask Lovable to build web apps.', and a cookie notice with OK and Manage preferences overlaps its bottom corner. The page does not name the requesting app or list permissions."
+}

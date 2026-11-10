@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Centered card",
+    "Email-first",
+    "Auth0-style form"
+  ],
+  "notes": "A white card on a light gray page with the tropic logo, 'Welcome' and 'Log in to Tropic to continue to Tropic'. The focused email field has a floating label, followed by a purple Continue button, a sign-up link, an OR divider and a Continue with Google button. Terms of Service and Privacy Policy links sit below the card. The requesting app and the requested scopes are not shown."
+}

@@ -1,0 +1,13 @@
+{
+  "first_screen": "bot_challenge",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Cloudflare challenge",
+    "Left-aligned text",
+    "Ray ID footer",
+    "Blocks before sign-in"
+  ],
+  "notes": "A default Cloudflare interstitial shows the gitlab.com name and fox logo, the heading 'Performing security verification' and a 'Verify you are human' checkbox. A line explains the site uses a security service against malicious bots. The footer shows a Ray ID and Cloudflare privacy links. No GitLab sign-in, requesting app name or permissions are visible until the check is passed."
+}

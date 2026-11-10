@@ -1,0 +1,12 @@
+{
+  "score": 2.0,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "broken",
+    "brand": "ok"
+  },
+  "reason": "Consent card is fine, but sign-in ends in access_denied and an Internal Server Error page. The flow is broken."
+}

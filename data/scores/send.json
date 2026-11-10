@@ -1,0 +1,12 @@
+{
+  "score": 1.1,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "weak",
+    "brand": "ok"
+  },
+  "reason": "Single 'Connect to Send' button with no requesting app, permissions, redirect or deny."
+}

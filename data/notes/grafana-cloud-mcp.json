@@ -1,0 +1,13 @@
+{
+  "first_screen": "other",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Stack URL entry",
+    "Single field",
+    "Generic 'MCP client' wording",
+    "Minimal card"
+  ],
+  "notes": "The page is titled 'Connect to Grafana' with the line 'Choose the Grafana Cloud stack this MCP client can access'. A card holds one focused field, 'Grafana URL', with the hint 'The address you use to open Grafana in your browser' and a 'myorg.grafana.net' placeholder, plus a blue Continue button. A small 'Grafana Cloud MCP' caption sits below the card. The requesting app is only called 'this MCP client', and the read, query and write scopes are not displayed. There is no sign-in on this step."
+}

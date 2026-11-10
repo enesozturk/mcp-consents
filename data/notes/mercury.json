@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Integration-specific heading",
+    "Cancel button on login",
+    "Previews later account picking",
+    "Minimal card"
+  ],
+  "notes": "A small white card on a lavender-grey page with the Mercury mark top left. It is headed 'Log in to connect an integration' and says you will pick an account and review what the integration can access before anything is shared. The card has email and password fields with a show-password toggle, a Forgot password link, and Cancel and Log in buttons. The consent step is promised but deferred, and the requesting app is not named."
+}

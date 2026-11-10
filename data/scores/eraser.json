@@ -1,0 +1,12 @@
+{
+  "score": 2.9,
+  "criteria": {
+    "account": "none",
+    "permissions": "summary",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Neat page with a bold title, but one vague 'full access' line, no account, no redirect and no deny button."
+}

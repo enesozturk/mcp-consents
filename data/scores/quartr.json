@@ -1,0 +1,12 @@
+{
+  "score": 3.9,
+  "criteria": {
+    "account": "none",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "ok"
+  },
+  "reason": "Neat, minimal table with redirect and scope and a read-only toggle. No account shown and permissions are thin."
+}

@@ -1,0 +1,13 @@
+{
+  "first_screen": "region_picker",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Region picker",
+    "Gradient background",
+    "Code-comment styling",
+    "Huge scope list not shown"
+  ],
+  "notes": "A green gradient page with monospace comments top left ('oauth.posthog.com', 'choose your data region') and the PostHog logo above a card titled 'Authenticate with PostHog'. The card asks 'Where is your PostHog project hosted?' with US Cloud and EU Cloud buttons, plus a hint to check whether your URL is us.posthog.com or eu.posthog.com. This region choice comes before any login. The page does not name the requesting app and does not show the hundreds of read and write scopes requested."
+}

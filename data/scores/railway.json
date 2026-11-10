@@ -1,0 +1,12 @@
+{
+  "score": 4.1,
+  "criteria": {
+    "account": "shown",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Dark, well-designed card with signed-in email and Switch account, expandable permission, and the redirect URL below the buttons. Permissions are not configurable."
+}

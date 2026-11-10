@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Centered form",
+    "Duplicated logo",
+    "Work email required",
+    "Unbranded to client"
+  ],
+  "notes": "A white page with the Polar logo in the top left corner and again as an app icon above 'Welcome back'. It offers Continue with Google, then work email and password fields (with a reveal toggle) and a purple Log in button. No account and Forgot password prompts sit below, and a footer links the Privacy Policy and Terms of Service. The page does not name the requesting app or show permissions."
+}

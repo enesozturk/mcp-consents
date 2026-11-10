@@ -1,0 +1,13 @@
+{
+  "first_screen": "error_page",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Callback URL mismatch",
+    "Dark header",
+    "Support links",
+    "Branded error"
+  ],
+  "notes": "A branded Auth0-style error page with a dark header holding a clipped Third Bridge logo, 'thirdbridge' and 'Oops!, something went wrong'. The gray body says 'Callback URL mismatch. The provided redirect_uri is not in the list of allowed callback URLs' and points the developer to an Application Settings page. A footer offers a 'See details for this error' link and Support links (Get Help and a no-reply email address). The message is aimed at the app developer rather than the end user, and the capture client's redirect URI was rejected."
+}

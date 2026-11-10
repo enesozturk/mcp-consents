@@ -1,0 +1,19 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "apple",
+    "microsoft",
+    "passkey",
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Icon grid of providers",
+    "Passkey option",
+    "Dropbox and Xero login",
+    "Classic view link"
+  ],
+  "notes": "A white page with the Lumin logo top left and a language selector top right. 'Sign In' sits over a grid of six labelled icon tiles for Google, Apple, Microsoft, Dropbox, Xero and Passkey. Below an 'Or use your email' divider are email and password fields with a show-password toggle and a Forgot Password link. A 'Switch to classic view' link and a row of Lumin product icons appear at the bottom. No requesting app or permissions are mentioned."
+}

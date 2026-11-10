@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "apple",
+    "password",
+    "facebook"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Social buttons stacked",
+    "Human-verification checkbox",
+    "Centered column"
+  ],
+  "notes": "A white single-column login with the Splice logo and 'Log into your account'. Stacked full-width buttons offer Google, Apple and Facebook, followed by an OR divider, email and password fields, and a 'Verify you are human' checkbox before a blue Continue button. Reset password and sign-up links follow, with a shaded terms and privacy notice at the bottom. The requesting app and the requested scopes are not mentioned."
+}

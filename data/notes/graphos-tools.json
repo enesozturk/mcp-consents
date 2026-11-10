@@ -1,0 +1,13 @@
+{
+  "first_screen": "error_page",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Raw proxy error",
+    "Upstream connect failure",
+    "Unbranded",
+    "Dead end"
+  ],
+  "notes": "The page is blank apart from one line of monospace text in the top-left: 'upstream connect error or disconnect/reset before headers. retried and the latest reset reason: remote connection failure'. This is a gateway or proxy error from the Apollo auth host, shown before any interface loaded. There is no branding, sign-in form, requesting app name or link onward."
+}

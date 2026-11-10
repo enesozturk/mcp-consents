@@ -1,0 +1,16 @@
+{
+  "first_screen": "bot_challenge",
+  "sign_in_methods": [
+    "google",
+    "github"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark UI",
+    "Human verification via IdP",
+    "Shows redirect URI",
+    "Anonymous identity note"
+  ],
+  "notes": "A dark card with a white 'k' (Kapa.ai) logo asks 'Are you human?' and says that to stop bots abusing the MCP server you should verify with Google or GitHub. A second paragraph says this does not give them your name or email, only provider data used to link the session to an anonymous account identifier. Verify with Google and Verify with GitHub buttons sit side by side. A bottom strip says 'Credentials will be sent to http://localhost:33418/callback'. It uses third-party identity providers purely as a bot check, and does not name the client or list permissions."
+}

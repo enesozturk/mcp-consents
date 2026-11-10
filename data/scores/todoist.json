@@ -1,0 +1,12 @@
+{
+  "score": 3.2,
+  "criteria": {
+    "account": "shown",
+    "permissions": "summary",
+    "redirect": "none",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Neat and branded with change-account, but one vague read-and-update line and no redirect."
+}

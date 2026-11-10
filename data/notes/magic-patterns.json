@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen hero",
+    "Customer logo wall",
+    "Testimonial quote",
+    "Collapsed More options"
+  ],
+  "notes": "The left side has the Magic Patterns logo, 'Welcome back.' and a note that continuing creates a free account. A dark Continue with Google button sits above an outlined Continue with Email button, with a 'More options' link that hides other methods. The right half is a dark panel with a grid of customer logos (DoorDash, Toast, Ramp, Vanta and others) and a quote from a Toast designer. The page does not name the requesting app or list permissions."
+}

@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "apple"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen hero",
+    "Signup-first",
+    "Onboarding checkboxes",
+    "Photo panel"
+  ],
+  "notes": "A split-screen page with a full-height photo on the left and a 'Create your free Era account' form on the right. The form asks 'What would you like Era to help with?' with six optional, unchecked checkboxes such as sharing finances with ChatGPT and Claude, some tagged 'Early access' or 'New'. These are interest prompts, not OAuth permission toggles. 'Continue free with Google' and 'Continue free with Apple' buttons follow, with a 'Log in' link for existing users. The page defaults to signup and does not name the requesting app, though it mentions Claude among the assistants. Footers give the SEC-registered adviser disclosure, 'No credit card required' and a data-encryption line."
+}

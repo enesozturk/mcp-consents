@@ -1,0 +1,5 @@
+{
+  "score": 3.9,
+  "criteria": {"account": "shown", "permissions": "list", "redirect": "none", "client_identity": "name", "ui": "ok", "brand": "strong"},
+  "reason": "Nice, tidy authorization card with the Miles&Smiles brand, three clearly described permissions, the signed-in membership ID with a Not you? switch, and Approve/Reject. Permissions are not configurable and the redirect URL is not shown."
+}

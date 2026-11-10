@@ -1,0 +1,13 @@
+{
+  "score": 2.6,
+  "criteria": {
+    "account": "picker",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Shows the redirect, read/write status and a site picker in a well-made card, but the product itself is not one the tester rates; kept out of the top on purpose.",
+  "by": "tester_feedback"
+}

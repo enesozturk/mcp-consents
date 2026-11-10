@@ -1,0 +1,12 @@
+{
+  "score": 4.5,
+  "criteria": {
+    "account": "picker",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Account with switch-user, application and redirect rows, and a limit-access toggle with role and per-account choice in a tidy centered card."
+}

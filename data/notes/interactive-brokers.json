@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Live / Paper toggle",
+    "Maintenance banner",
+    "Dense footer links",
+    "Icon-prefixed fields"
+  ],
+  "notes": "A 'Login' card with the Interactive Brokers logo has a Live/Paper toggle at its top right, username and password fields with leading icons, a 'Problem with logging in?' link and a blue Login button. A yellow notice announces scheduled maintenance on Sunday, November 8th, and a second strip promotes the mobile-optimized Client Portal. The footer lists many product links including TWS, IBKR Mobile and APIs. The page does not name the requesting app, even though the requested scopes include order submission."
+}

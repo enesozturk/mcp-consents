@@ -1,0 +1,12 @@
+{
+  "score": 3.9,
+  "criteria": {
+    "account": "picker",
+    "permissions": "list",
+    "redirect": "warning_only",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "strong"
+  },
+  "reason": "Itemised read/write permissions, a workspace dropdown and a local-app redirect warning with localhost named; the long list scrolls off screen and the look is plain."
+}

@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "summary",
+  "names_client": true,
+  "highlights": [
+    "Client Details table",
+    "Shows redirect URI",
+    "Header bar branding",
+    "Broad access wording"
+  ],
+  "notes": "A white header bar shows the Postman logo, and below it a heading 'Approve Client Authorization via Postman MCP Server'. The text says MCP Consents wants to access and act upon resources on your behalf, and that approving redirects you to authorize the same. A grey Client Details table lists Name and Redirect URI (http://localhost:33418/callback). Cancel and an orange Approve button sit right-aligned. Permissions are described only in that one broad sentence, and there is no sign-in form."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 3.2,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "strong"
+  },
+  "reason": "Clear client card with name, website and redirect URI, Klaviyo logo up top, plus an opt-out telemetry checkbox; no account and no permissions listed."
+}

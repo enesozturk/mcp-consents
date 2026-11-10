@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "password",
+    "sso"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen hero",
+    "Username not email",
+    "Language switcher",
+    "reCAPTCHA badge"
+  ],
+  "notes": "The left panel has 'Log in to IBISWorld' with Username and Password fields, a 'Remember Me' checkbox, a red Log In button and an outlined 'Log in with SSO' button. A 'Don't have an account? Learn More' link, English and Deutsch language links and a 'Troubleshoot' link are below. The right panel is dark navy with red ribbon artwork and the line 'Welcome to your source for industry insights.' A reCAPTCHA badge shows at the bottom right. The page does not name the requesting app or describe the requested scopes."
+}

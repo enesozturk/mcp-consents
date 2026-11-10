@@ -1,0 +1,12 @@
+{
+  "score": 2.6,
+  "criteria": {
+    "account": "none",
+    "permissions": "summary",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "weak",
+    "brand": "strong"
+  },
+  "reason": "Strong Mailchimp branding but it says 'Authorize Claude' for the wrong client, no account, a wall of trust-tip links and no redirect."
+}

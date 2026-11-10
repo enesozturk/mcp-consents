@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "magic_link",
+    "sso",
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Minimal centered form",
+    "Google, email and SSO buttons",
+    "Password field with reveal",
+    "Unbranded to client"
+  ],
+  "notes": "A centered column under the green Mintlify logo reads 'Sign in to Mintlify' with a Get started link for new users. Three stacked buttons offer Continue with Google, Continue with email and Log in with SSO. Below an 'or' divider are email and password fields (the password shows as dots) with a Forgot password link and a grey Continue button. Terms and Privacy links and a Contact support link close the page. Neither the requesting app nor the long list of docs, deployment and billing scopes is shown."
+}

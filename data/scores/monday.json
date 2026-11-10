@@ -1,0 +1,12 @@
+{
+  "score": 3.6,
+  "criteria": {
+    "account": "picker",
+    "permissions": "summary",
+    "redirect": "warning_only",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Account dropdown, a local-application warning and good brand illustration. Permissions are only 'inherits everything you can do' and the redirect URL itself is not shown."
+}

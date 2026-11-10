@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Gradient glow card",
+    "Email-first",
+    "Google button",
+    "No consent info"
+  ],
+  "notes": "A small frosted card titled 'Sign in to Digits' sits in the middle of a purple-to-mint glow. It offers an email field with a 'Continue with Email' button, then an 'OR' divider and a teal 'Continue with Google' button. The Digits logo is top left and a 'Need an account? Sign Up' link top right. The page does not name the requesting app or list any permissions."
+}

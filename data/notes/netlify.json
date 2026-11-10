@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "github",
+    "magic_link",
+    "sso"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen layout",
+    "Four social providers",
+    "Product benefits panel",
+    "SSO and email as text links"
+  ],
+  "notes": "The left half has the Netlify logo and 'Log in' with four outlined buttons for Google, GitHub, GitLab and Bitbucket. 'Log in with email' and 'Log in with SSO' appear as plain text links below, plus a Sign up prompt and terms text. The right half is a plain white panel listing three product benefits (Publish on the web instantly, Make it yours, Iterate and grow). Nothing on the page names the requesting app or lists the read and write permissions."
+}

@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "password",
+    "github",
+    "google"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Sign Up tab by default",
+    "Grid-line backdrop",
+    "AI agent API key link",
+    "Black social buttons"
+  ],
+  "notes": "The Firecrawl logo sits above Log In and Sign Up tabs, and the Sign Up tab is active, so the form shows a 'Create Account' button instead of a login button. It has email and password fields, then black 'Continue with GitHub' and 'Continue with Google' buttons. A footer link reads 'Are you an AI agent? Get an API key here'. A faint grid pattern frames the card. The page does not name the requesting app or describe the firecrawl:global scope."
+}

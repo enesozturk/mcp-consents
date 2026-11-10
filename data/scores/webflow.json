@@ -1,0 +1,12 @@
+{
+  "score": 3.7,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Branded page with a clear capability list and a redirect that must be acknowledged. No account or workspace here, nothing configurable."
+}

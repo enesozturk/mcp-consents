@@ -1,0 +1,23 @@
+[
+  {
+    "id": "adstudio",
+    "name": "Adstudio",
+    "mcp_url": "https://useadstudio.com/api/mcp",
+    "transport": "streamable-http",
+    "one_liner": "Connect Google Ads, Meta Ads and TikTok Ads to your AI assistant",
+    "description": "Connect Google Ads, Meta Ads and TikTok Ads to ChatGPT, Claude, Gemini or Cursor. One sign-in, no API keys.",
+    "author": "Adstudio",
+    "homepage": "https://useadstudio.com",
+    "docs": "https://useadstudio.com/mcp",
+    "directory_url": null,
+    "permissions": null,
+    "is_authless": false,
+    "has_mcp_app": null,
+    "tool_count": null,
+    "tools": [],
+    "required_fields": null,
+    "templated": false,
+    "plugins": [],
+    "sources": ["added-by-hand"]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "github",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark UI",
+    "Abstract hero background",
+    "Social buttons side by side"
+  ],
+  "notes": "A dark, centered login on a black background with soft grayscale fabric-like shapes in the corners. The Resend icon and 'Log in to Resend' heading sit above Google and GitHub buttons placed side by side, then an 'or' divider and an email field with a disabled Log In button. A Home link is top left and terms and privacy links sit at the bottom. The requesting app and the full_access and emails:send scopes are not mentioned."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 4.2,
+  "criteria": {
+    "account": "shown",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Shows the authorizing account, a read/edit list, Everything vs Custom access to pick bases, and the localhost:33418 destination. Text-heavy two-column layout and the redirect sits in small trust copy."
+}

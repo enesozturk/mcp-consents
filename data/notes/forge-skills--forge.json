@@ -1,0 +1,20 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "passkey",
+    "google",
+    "microsoft",
+    "apple",
+    "slack"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Third-party IdP",
+    "Illustrated side art",
+    "Passkey option",
+    "Remember me checkbox"
+  ],
+  "notes": "This is Atlassian's shared 'Log in to continue' page, served from id.atlassian.com, and it looks identical to the other Forge gateway. It starts with an email field, a 'Remember me' checkbox and a blue Continue button. Below, a Passkey button and Google, Microsoft, Apple and Slack buttons are offered under 'Or continue with'. Isometric illustrations flank the card, with 'Can't log in?' and 'Create an account' links. The page does not name the requesting app, and none of the Jira, Confluence or Compass scopes are shown."
+}

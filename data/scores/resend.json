@@ -1,0 +1,12 @@
+{
+  "score": 4.4,
+  "criteria": {
+    "account": "picker",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Beautiful dark page with a team picker, a Full vs Sending access choice, and the redirect shown. Lovely UI in the Linear spirit."
+}

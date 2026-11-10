@@ -1,0 +1,13 @@
+{
+  "first_screen": "account_picker",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Workspace domain input",
+    "Split-screen hero",
+    "Names Claude Desktop / Claude Code",
+    "More sign-in options"
+  ],
+  "notes": "The left card is headed 'Authorize Claude Desktop / Claude Code' and says that app is requesting access to the user's Atlan workspace. The user must type a workspace domain (your-company.atlan.com) before pressing Authorize, with a 'More sign-in options' dropdown beside it. The right panel is a blue marketing illustration with a slogan about context-intelligent AI. The page hardcodes the Claude name rather than showing MCP Consents, and lists no permissions."
+}

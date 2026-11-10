@@ -1,0 +1,20 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "sso",
+    "microsoft",
+    "apple",
+    "google",
+    "linkedin",
+    "facebook"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Cookie banner",
+    "Icon grid of providers",
+    "Email-first"
+  ],
+  "notes": "A rounded white card under the SurveyMonkey logo, with 'Log in', an email field and a greyed-out Next button, then an 'Or log in with' section. An SSO button sits above a row of labeled square buttons for Microsoft, Facebook, LinkedIn, Google and Apple. A sign-up button is at the top right. A green 'We value your privacy' consent banner (Customize, Continue) overlaps the bottom right corner of the card. The requesting app and the survey and response scopes are not mentioned."
+}

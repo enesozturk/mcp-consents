@@ -1,0 +1,12 @@
+{
+  "score": 3.8,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "strong"
+  },
+  "reason": "Per-resource scopes with read/write levels, the redirect and the logged-in email. Fine but a generic form-like layout, and no account or team context."
+}

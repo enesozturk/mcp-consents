@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "sso",
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split layout",
+    "Product illustration",
+    "Google branded button",
+    "Wave footer"
+  ],
+  "notes": "A 'Welcome back to Guru' form on the left starts with a blue 'Sign in with Google' button and an outlined 'Log in with SSO' button. Below an 'or' divider are Work Email and Password fields, a black Sign In button and a 'Forgot your password?' link. The right side shows the tagline 'Organize your company information. Access it anywhere you work.' over a product illustration, and a green wave runs along the bottom. The page does not name the requesting app or describe the default scope."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 0,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "weak",
+    "brand": "weak"
+  },
+  "reason": "No consent UI at all: the browser is sent straight back to the client after sign-in."
+}

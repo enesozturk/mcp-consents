@@ -1,0 +1,12 @@
+{
+  "score": 2.6,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Callback URL and client shown, no permissions, no account."
+}

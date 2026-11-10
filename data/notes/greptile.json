@@ -1,0 +1,19 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "password",
+    "github",
+    "gitlab",
+    "google",
+    "sso"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen hero",
+    "Five sign-in options",
+    "Developer-oriented IdPs",
+    "Abstract art panel"
+  ],
+  "notes": "The left half shows 'Log into your account' with work email and password fields, a green Login button, then 'Or sign in with' buttons for GitHub, GitLab, Google and SSO. The right half is a full-height violet panel with an abstract wireframe-sphere graphic captioned 'The Greptile System'. A 'Sign up' link sits under the heading and a 'Forgot password?' link next to the password label. The page does not name the requesting app or describe the read and write scopes."
+}

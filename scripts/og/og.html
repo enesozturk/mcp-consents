@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1200px; height: 630px; overflow: hidden; background: #fff; }
+  body {
+    font-family: 'Inter', sans-serif; color: #111113; position: relative;
+    -webkit-font-smoothing: antialiased;
+  }
+  /* barely-there dot grid */
+  .pattern {
+    position: absolute; inset: 0;
+    background-image: radial-gradient(circle at center, rgba(0,0,0,.085) 0.9px, transparent 1.2px);
+    background-size: 18px 18px; background-position: 9px 9px;
+  }
+  .left {
+    position: absolute; left: 0; top: 0; bottom: 0; width: 360px;
+    padding: 56px 0 52px 56px; display: flex; flex-direction: column;
+  }
+  .mark { width: 40px; height: 40px; display: block; }
+  h1 { margin-top: auto; font-size: 46px; line-height: 1.02; letter-spacing: -0.035em; font-weight: 700; }
+  h1 span { display: block; font-weight: 500; color: #111113; }
+  p.desc { margin-top: 18px; font-size: 18px; line-height: 1.45; color: #5b5b63; letter-spacing: -0.005em; max-width: 270px; }
+  .url { margin-top: auto; font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: 14px; color: #8b8b93; letter-spacing: 0; }
+
+  .right {
+    position: absolute; top: 0; bottom: 0; right: 0; width: 840px; overflow: hidden;
+    -webkit-mask-image: linear-gradient(to bottom, transparent 0, #000 56px, #000 calc(100% - 56px), transparent 100%);
+  }
+  .cols { position: absolute; left: 24px; right: 24px; top: 0; display: flex; gap: 18px; }
+  .col { flex: 1; display: flex; flex-direction: column; gap: 18px; }
+  .col:nth-child(1) { transform: translateY(-60px); }
+  .col:nth-child(2) { transform: translateY(-28px); }
+  .col:nth-child(3) { transform: translateY(-120px); }
+  .card {
+    background: #fff; border: 1px solid #e4e4e7; border-radius: 14px; overflow: hidden;
+    box-shadow: 0 1px 2px rgba(0,0,0,.06);
+  }
+  .card header { display: flex; align-items: center; gap: 8px; padding: 10px 12px; border-bottom: 1px solid #efeff1; }
+  .card header img { width: 16px; height: 16px; border-radius: 4px; }
+  .card header b { font-size: 13px; font-weight: 600; letter-spacing: -0.01em; }
+  .card header i {
+    margin-left: auto; font-style: normal; font-family: 'JetBrains Mono', monospace; font-size: 11px;
+    font-weight: 500; color: #fff; background: #111113; border-radius: 6px; padding: 2px 6px;
+  }
+  .card .shot { display: block; width: 100%; }
+</style>
+</head>
+<body>
+  <div class="pattern"></div>
+  <div class="left">
+    <img class="mark" src="favicon.svg" alt="">
+    <h1><span>MCP</span>Consents</h1>
+    <p class="desc">The OAuth consent screens behind remote MCP servers, captured and ranked.</p>
+    <div class="url">consents.ozturkenes.com</div>
+  </div>
+  <div class="right"><div class="cols" id="cols"></div></div>
+<script>
+  const cols = [
+    [['notion', 'Notion', '4.8', 470], ['expo', 'Expo', '4.6', 300], ['clerk', 'Clerk', '4.4', 260], ['linear', 'Linear', '4.0', 220]],
+    [['stripe', 'Stripe', '4.8', 330], ['prisma', 'Prisma', '4.7', 300], ['firecrawl', 'Firecrawl', '4.3', 270], ['close', 'Close', '4.0', 300]],
+    [['posthog', 'PostHog', '4.7', 250], ['intercom', 'Intercom', '4.5', 300], ['resend', 'Resend', '4.5', 330], ['clarify', 'Clarify', '4.1', 300]],
+  ]
+  const root = document.getElementById('cols')
+  for (const col of cols) {
+    const c = document.createElement('div'); c.className = 'col'
+    for (const [id, name, score, h] of col) {
+      const card = document.createElement('div'); card.className = 'card'
+      card.innerHTML = `<header><img src="fav-${id}.png"><b>${name}</b><i>${score}</i></header>
+        <img class="shot" src="${id}.png">`
+      c.appendChild(card)
+    }
+    root.appendChild(c)
+  }
+</script>
+</body>
+</html>

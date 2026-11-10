@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "github",
+    "sso",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen with code sample",
+    "Cookie banner",
+    "Monospace type"
+  ],
+  "notes": "A bordered two-pane layout under the Stytch by Twilio logo. The left pane, 'Sign up or log in', has Continue with Google, Continue with GitHub and Use single sign-on buttons, then an email field with a black Continue with email button, all in monospace type. The right pane displays a code sample of the Stytch B2B login configuration, so the page doubles as developer marketing. A full-width gray cookie banner with OK, Adjust preferences and Read our Cookie Policy covers the bottom. The page does not say who is requesting access or what the admin and API-key scopes allow."
+}

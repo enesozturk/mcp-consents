@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "list",
+  "names_client": true,
+  "highlights": [
+    "Unverified app warning",
+    "Plain-language permission list",
+    "Redirect host warning",
+    "No logo"
+  ],
+  "notes": "A text-only white card headed 'Connect MCP Consents to Quo?' says the application identifies itself by that name and that Quo has not verified it. A yellow box says authorization will be sent to localhost:33418 and to continue only if you started this from the client. Eight bullets then list what the app can do in plain language, from reading conversations, messages and call transcripts to creating, editing and deleting contacts, sending messages, and having an AI agent place phone calls. Cancel and Continue buttons follow, with no logo and no sign-in form."
+}

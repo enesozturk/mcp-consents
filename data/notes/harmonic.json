@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "microsoft",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Centered stack",
+    "Minimal",
+    "Dark primary button",
+    "Terms-only footer"
+  ],
+  "notes": "A centered stack with an orange hexagon logo and 'Sign in to Harmonic' shows Continue with Google and Continue with Microsoft buttons, an 'or' divider, and an email field with a dark 'Continue with email' button. The only footer content is Terms of Service and Privacy Policy links. The page does not name the requesting app or show any permissions."
+}

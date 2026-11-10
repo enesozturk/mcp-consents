@@ -1,0 +1,13 @@
+{
+  "first_screen": "account_picker",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Subdomain entry",
+    "Gradient background",
+    "Live URL preview",
+    "Emoji heading"
+  ],
+  "notes": "A white card on a blue-purple gradient with the heading 'Select Your Organization' (with a building emoji) and 'Choose your YardiOne subdomain to continue'. The user types an Organization Subdomain (placeholder pmgroup), and a monospace preview below shows the resulting URL, pmgroup.yardione.com, with a help line explaining how to find the subdomain. A gradient Continue to Sign In button follows. It is an organization chooser before any login, with no Yardi logo, requesting-app name or permissions."
+}

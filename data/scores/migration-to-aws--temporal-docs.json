@@ -1,0 +1,5 @@
+{
+  "score": 1.5,
+  "criteria": {"account": "none", "permissions": "none", "redirect": "shown", "client_identity": "none", "ui": "weak", "brand": "weak"},
+  "reason": "Only a Kapa.ai Are you human? sign-in page that shows the MCP details and the localhost redirect, an interesting approach, but after sign-in there is no gateway screen and the browser goes straight back. No account, permissions or client name are shown."
+}

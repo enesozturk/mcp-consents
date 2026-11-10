@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen product promo",
+    "Trial upsell card",
+    "reCAPTCHA notice",
+    "Start for free header button"
+  ],
+  "notes": "A split screen: the left half is a gradient panel with the headline 'Your CRM can finally do the work', a dark mock of an AI sales call and trust badges (G2 rating, SOC 2, GDPR). The right half says 'Welcome back' with a Log in with Google button, an email field and a blue Continue button, followed by a blue 'New to Close CRM?' card with a Start for free button. A reCAPTCHA notice sits at the bottom and a second Start for free button is in the header. The requesting app and permissions are not shown."
+}

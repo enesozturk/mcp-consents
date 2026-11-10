@@ -1,0 +1,14 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Topographic background",
+    "Email-only form",
+    "Minimal card"
+  ],
+  "notes": "A small white card under the Campfire logo says 'Welcome back' with one email field and a dark green Continue button, set on a cream background with faint topographic contour lines. Only copyright, Terms and Privacy links appear below. There are no social buttons, no requesting app name and no permissions."
+}

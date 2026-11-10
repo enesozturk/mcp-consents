@@ -1,0 +1,12 @@
+{
+  "score": 3.8,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Pretty page with clear view-only permissions, the redirect host and URL and an unverified warning. No account shown and it runs below the fold."
+}

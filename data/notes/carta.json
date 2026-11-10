@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": true,
+  "highlights": [
+    "Unverified app warning",
+    "Shows redirect URI",
+    "Anti confused-deputy note",
+    "Collapsed Advanced details"
+  ],
+  "notes": "The heading reads 'Connect an unverified app to Carta' and says an app that calls itself MCP Consents wants access, and that Carta has not verified the name. A yellow callout shows 'Credentials will be sent to' with host localhost and the full callback URL. Advanced details is collapsed, so no scopes are listed. Deny and Allow access buttons follow, with a footnote explaining the check protects against look-alike apps and linking to confused-deputy attacks."
+}

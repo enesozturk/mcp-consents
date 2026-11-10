@@ -1,0 +1,12 @@
+{
+  "score": 3.0,
+  "criteria": {
+    "account": "picker",
+    "permissions": "none",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Team picker and signed-in user, but no permissions and no redirect. A marketing code panel takes half the screen."
+}

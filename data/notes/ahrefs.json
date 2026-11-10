@@ -1,0 +1,12 @@
+{
+  "first_screen": "bot_challenge",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Cloudflare checkbox",
+    "Left-aligned bare layout",
+    "Blocks before any OAuth UI"
+  ],
+  "notes": "The capture landed on a Cloudflare 'Performing security verification' interstitial for app.ahrefs.com, with a 'Verify you are human' checkbox widget and a Ray ID in the footer. No Ahrefs sign-in or consent UI is visible, so nothing is shown about the requesting app or permissions. Only the Ahrefs icon and domain name brand the page."
+}

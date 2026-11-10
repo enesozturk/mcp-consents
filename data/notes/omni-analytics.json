@@ -1,0 +1,13 @@
+{
+  "first_screen": "account_picker",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Organization ID prompt",
+    "Generic client name",
+    "Not logged in notice",
+    "Revoke access note"
+  ],
+  "notes": "A soft pastel gradient page holds a card with the Omni logo and 'Authorize MCP Client'. It says 'MCP Client wants to access your Omni organization' and asks for an Organization ID, explaining it is the subdomain used to log in with an example. Cancel and Continue buttons follow, then text saying you will be redirected to your organization and can revoke access from settings. A 'Not logged in.' message with a Login button sits at the bottom. The client is shown as a generic 'MCP Client' rather than the requesting app name, and no permissions are listed."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 0.5,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "weak",
+    "brand": "ok"
+  },
+  "reason": "No consent screen; the request is dropped and you land on the dashboard."
+}

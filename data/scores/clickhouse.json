@@ -1,0 +1,12 @@
+{
+  "score": 1.2,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "none",
+    "ui": "weak",
+    "brand": "weak"
+  },
+  "reason": "No consent screen; only a generic 'Return to your tool?' interstitial showing the callback URL."
+}

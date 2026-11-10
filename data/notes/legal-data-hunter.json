@@ -1,0 +1,19 @@
+{
+  "first_screen": "consent_then_login",
+  "sign_in_methods": [
+    "github",
+    "google",
+    "microsoft",
+    "sso",
+    "password"
+  ],
+  "permissions": "list",
+  "names_client": true,
+  "highlights": [
+    "Consent plus sign-in",
+    "Itemised access list",
+    "Five sign-in options",
+    "Warm serif styling"
+  ],
+  "notes": "One tall card combines consent and sign-in. It opens with 'MCP Consents wants to access your Legal Data Hunter account', then a tinted 'This will allow access to' box with three ticked items: search legal documents, retrieve full document text, and browse countries and sources. Below is 'Sign in or create an account to continue' with buttons for GitHub, Google, Microsoft and SSO (work account), then an email and password form and a 'Create one' link. The cream and navy palette and serif logotype give it a different look from most gateways, and there is no separate Allow button."
+}

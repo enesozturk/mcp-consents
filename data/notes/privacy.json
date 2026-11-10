@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "password",
+    "passkey"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Cookie banner",
+    "Support button",
+    "Passkey button",
+    "Gradient background"
+  ],
+  "notes": "A white card on a lavender gradient shows the black Privacy wordmark and 'Welcome Back'. It has filled email and password fields, a blue Log In button, a Remember email checkbox and a Forgot password link, then a Log in with Passkey button and a dark Sign up button. A dark cookie banner with Accept, Decline and Dismiss sits bottom left, and a floating Support button is bottom right. The page does not name the requesting app or show permissions."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 3.6,
+  "criteria": {
+    "account": "shown",
+    "permissions": "summary",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Shows the person and selected organization plus the redirect warning. Permission is one 'view and change everything' sentence."
+}

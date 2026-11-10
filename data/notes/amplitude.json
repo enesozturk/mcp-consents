@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google",
+    "github",
+    "slack"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Icon-only social buttons",
+    "Org URL link",
+    "reCAPTCHA notice"
+  ],
+  "notes": "The 'Log in or Sign up' page has a work email field with a disabled Continue button, then three icon-only buttons for Google, Slack and GitHub with no text labels. A reCAPTCHA notice is below and an 'Have an Org URL? Enter it here' link sits at the bottom. The page does not mention the requesting app or any permissions."
+}

@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "github",
+    "google"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark UI",
+    "Status banner",
+    "Third-party IdP buttons"
+  ],
+  "notes": "The page is Railway's standard login on a dark background with a centered card containing the logo, 'Welcome to Railway' and the tagline 'Instant deployments, effortless scale'. GitHub is the highlighted purple primary button, Google sits below it, and email login is a small text link under the card. A yellow banner at the top announces external network blocks affecting access, and the marketing nav bar stays visible. Nothing is said about the requesting app or the workspace:member scope."
+}

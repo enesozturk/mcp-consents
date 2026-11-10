@@ -1,0 +1,12 @@
+{
+  "score": 2.7,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "weak",
+    "brand": "ok"
+  },
+  "reason": "Shows client name and the redirect URI in a table, but nothing on permissions or account and the layout is bare."
+}

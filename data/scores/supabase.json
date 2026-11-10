@@ -1,0 +1,12 @@
+{
+  "score": 4.0,
+  "criteria": {
+    "account": "picker",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Clear page with an organization dropdown and a grouped read/write list plus a detailed view. Permissions are fixed and the redirect URL is not shown."
+}

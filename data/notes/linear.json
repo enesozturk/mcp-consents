@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "summary",
+  "names_client": true,
+  "highlights": [
+    "Shows redirect URI",
+    "App and Linear icon pairing",
+    "Data-sharing disclaimer",
+    "Approve / Cancel"
+  ],
+  "notes": "Two app icons joined by an exchange arrow sit above 'MCP Consents is requesting access'. A details table shows Name, Website (https://consents.ozturkenes.com), Redirect URIs (http://localhost:33418/callback) and Access: 'Read, Write'. A paragraph explains that approving lets Linear share data with the app on behalf of the organization, that the app's own terms and privacy policy then govern the data, and that owners and admins can revoke the connection in Settings. Cancel and a muted violet Approve button close the card, and no sign-in form appears on this screen."
+}

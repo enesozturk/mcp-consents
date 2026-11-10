@@ -1,0 +1,43 @@
+{
+  "_doc": "Regions to mask before publishing, in image pixels [x, y, width, height]. Keys are <id>:<step>.",
+  "close:6": [
+    [
+      1030,
+      962,
+      820,
+      50
+    ]
+  ],
+  "close:7": [
+    [
+      1030,
+      991,
+      820,
+      50
+    ]
+  ],
+  "catalyst-by-zoho:5": [
+    [
+      1062,
+      780,
+      200,
+      50
+    ]
+  ],
+  "catalyst-by-zoho:6": [
+    [
+      1795,
+      440,
+      180,
+      44
+    ]
+  ],
+  "catalyst-by-zoho:7": [
+    [
+      1062,
+      780,
+      200,
+      50
+    ]
+  ]
+}

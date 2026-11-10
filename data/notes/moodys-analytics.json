@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Email-first form",
+    "Remember me checkbox",
+    "Minimal branding",
+    "Unbranded to client"
+  ],
+  "notes": "A centered white card with the Moody's wordmark holds an email field, a Remember me checkbox and a dark navy Next button. Terms of Use, Privacy Policy and 'Trouble signing in?' links and a Sign up prompt sit under the button. There is a large empty gap between the logo and the email label. The page has no heading, no mention of the requesting app and no permissions."
+}

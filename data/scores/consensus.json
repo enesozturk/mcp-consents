@@ -1,0 +1,12 @@
+{
+  "score": 3.4,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "warning_only",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "strong"
+  },
+  "reason": "Four permission groups with a signed-in email and a note about redirecting to localhost. The page is long and needs scrolling, the permissions are not configurable, and a sign-up/onboarding detour comes first."
+}

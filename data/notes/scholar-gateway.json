@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "microsoft",
+    "apple",
+    "magic_link",
+    "passkey"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Third-party IdP",
+    "Passkey option",
+    "Scrolling provider row"
+  ],
+  "notes": "A centered white card with the Wiley logo and 'Sign in to CONNECT, to continue to Scholar Gateway'. A horizontally scrolling row of provider buttons (Google, ORCID, Microsoft, WeChat, with Apple further along) sits above an email field and a green Continue button, with a 'Sign in with passkey' link below. Some providers are cut off and need the arrow to reveal them. The page names the destination service but not the requesting app, and lists no permissions."
+}

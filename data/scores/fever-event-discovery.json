@@ -1,0 +1,12 @@
+{
+  "score": 2.6,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Generic access-request template with the localhost callback shown, but no account and no permissions at all."
+}

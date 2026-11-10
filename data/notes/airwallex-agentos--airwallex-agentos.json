@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": true,
+  "highlights": [
+    "Shows redirect URI",
+    "Warning callout",
+    "Collapsed Advanced details",
+    "Names client and server"
+  ],
+  "notes": "A bare white page with an Airwallex logo header and the server name (Airwallex AgentOS MCP Server) and a close icon. The body says the application MCP Consents wants to access the MCP server and asks the user to recognise the callback address. An orange warning box shows 'Credentials will be sent to: http://localhost:33418/callback'. Scopes are not listed up front; an 'Advanced details' disclosure is collapsed, and Deny and Allow access buttons sit right-aligned below."
+}

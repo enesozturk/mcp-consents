@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "microsoft",
+    "slack"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen hero",
+    "Customer logo strip",
+    "Slack sign-in",
+    "Animated headline"
+  ],
+  "notes": "The right half has the flame logo, 'Log in to incident.io', an email field with a dark 'Continue with email' button, then 'Sign in with Slack' and 'Sign in with Microsoft' buttons. A 'New to incident.io? Create account' link follows, with a terms line at the bottom. The left half is a cream panel with the headline 'Move fast when you break things' and a row of customer logos including Netflix, Monzo, Etsy and Okta. The page does not name the requesting app or show any permissions."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 2.9,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Simple consent with a short permission list, but no account or workspace is shown and no redirect URL. Generic-looking and not configurable."
+}

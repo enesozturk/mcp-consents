@@ -1,0 +1,12 @@
+{
+  "score": 3.4,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Permission list, localhost redirect and warning, but only identity-type scopes and no account shown; page runs long."
+}

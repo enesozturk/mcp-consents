@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google",
+    "microsoft",
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Passwordless option first",
+    "Lime primary button",
+    "Language selector",
+    "Four ways in"
+  ],
+  "notes": "The Leadfeeder logo sits above a card that leads with three outlined buttons: 'Log in without password', Log in with Google and Log in with Microsoft. Below an OR divider is a 'Log in to your account' form with email and password fields and a lime Log in button. A terms line and 'Forgot your password?' link follow, and a footer strip offers 'Sign up now'. An English language dropdown sits at the top right. The page does not name the requesting app or describe the long list of read and write scopes."
+}

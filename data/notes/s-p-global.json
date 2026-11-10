@@ -1,0 +1,14 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "sso"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Okta-hosted",
+    "Third-party IdP",
+    "Co-branded Kensho / S&P Global"
+  ],
+  "notes": "An Okta-hosted sign-in widget on a gray background. A header strip reads 'Connecting to' followed by a generic gear icon and 'Sign in with your account to access Kfinance MCP Client'. The card shows the Kensho by S&P Global logo, one Email address field, a Keep me signed in checkbox, and a Next button, so the Okta flow routes by email. It names the target service (Kfinance MCP Client) but not the requesting app, and no permissions are listed."
+}

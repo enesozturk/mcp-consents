@@ -1,0 +1,12 @@
+{
+  "score": 3.1,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "polished",
+    "brand": "ok"
+  },
+  "reason": "Good-looking page with plan-aware capabilities and an upsell row. No account, no redirect and nothing configurable."
+}

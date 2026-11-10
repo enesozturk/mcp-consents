@@ -1,0 +1,13 @@
+{
+  "score": 4.5,
+  "criteria": {
+    "account": "shown",
+    "permissions": "configurable",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Shows features and permissions one by one and lets the user customise them, with account info; the layout is not compact and needs scrolling.",
+  "by": "tester_feedback"
+}

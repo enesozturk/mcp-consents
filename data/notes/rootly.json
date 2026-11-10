@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "sso",
+    "password",
+    "slack"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen hero",
+    "Icon-only social buttons",
+    "Slack sign-in"
+  ],
+  "notes": "A split-screen page: the left half is a purple painted mountain landscape with the rootly.ai logo, and the right half holds the sign-in form. Compact circular icon buttons for Google and Slack and a pill-shaped SSO button come first, followed by work email and password fields, a Remember me checkbox and a black Sign in button. Sign-up and password reset links sit underneath. The icon-only Slack button has no visible label, and the requesting app and scopes are not shown."
+}

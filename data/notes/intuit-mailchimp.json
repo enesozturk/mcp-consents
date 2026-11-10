@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "password",
+    "google"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Cookie banner",
+    "App logo pairing",
+    "Feedback tab",
+    "Username-first"
+  ],
+  "notes": "The page shows the Mailchimp logo and a Claude-style starburst joined by an exchange arrow, above 'Log in and authorize'. The subline says 'Log in to authorize your Mailchimp account to Claude', so it names Claude rather than the capture client's name. A username field comes first with Log In and 'Create An Account' buttons and forgot-username and forgot-password links, then a 'Continue with Google' button for accounts created with Google. A dark cookie banner runs along the bottom and a Feedback tab sits at the right edge. No permissions are listed."
+}

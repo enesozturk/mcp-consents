@@ -1,0 +1,12 @@
+{
+  "score": 2.7,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "ok",
+    "brand": "weak"
+  },
+  "reason": "Account is shown with a grouped read-only list, but the requesting app is never named and there is no redirect."
+}

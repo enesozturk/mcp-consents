@@ -1,0 +1,12 @@
+{
+  "score": 1.2,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "weak",
+    "brand": "weak"
+  },
+  "reason": "Generic 'Authorization Required' template showing only a client UUID; no names, no permissions, no redirect, black backdrop."
+}

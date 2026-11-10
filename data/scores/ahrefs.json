@@ -1,0 +1,12 @@
+{
+  "score": 2.2,
+  "criteria": {
+    "account": "picker",
+    "permissions": "summary",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "weak",
+    "brand": "ok"
+  },
+  "reason": "Workspace shown with a use-another-account link, but the permission is one vague line (Access data via MCP), there is no redirect, and the page is plain. It also lost the authorization after onboarding."
+}

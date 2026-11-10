@@ -1,0 +1,12 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": ["password", "google", "microsoft"],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Cookie banner over the sign-in form",
+    "Email, Google and Microsoft sign-in",
+    "Product preview beside the form"
+  ],
+  "notes": "The authorize link lands on Adstudio's own sign-in page, split in two. On the left: the blue Adstudio wordmark, 'Welcome back', an email and password form with a solid blue Login button, then Login with Google and Login with Microsoft, and a sign-up link. On the right: a serif headline 'Welcome back to your ad accounts.' over a faint dotted pattern, with a preview of the Adstudio assistant. A cookie consent dialog covers the lower half of the page on first visit. Nothing on this screen mentions the MCP client yet; the consent step comes after sign-in."
+}

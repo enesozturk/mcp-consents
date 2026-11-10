@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "passkey",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Passkey button",
+    "Gradient background",
+    "Recovery code link",
+    "reCAPTCHA badge"
+  ],
+  "notes": "A pale page with a purple-to-pink gradient at the bottom and the Mixpanel logo above 'Log in to your account'. It stacks a Continue with Google button, a purple 'Log in with a Passkey' button and an email field with a Continue button. Links below cover Sign up, Reset Password, Use a recovery code, Contact Support and Privacy Program, and a reCAPTCHA badge sits bottom right. Passkey is offered as a primary option. The page does not name the requesting app or list the many analytics scopes."
+}

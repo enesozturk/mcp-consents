@@ -1,0 +1,12 @@
+{
+  "score": 3.9,
+  "criteria": {
+    "account": "picker",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Account dropdown, a three-item permission checklist, the redirect target and the logged-in email are all on one compact page. Permissions are not configurable and the look is fairly standard."
+}

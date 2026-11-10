@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google",
+    "apple",
+    "sso",
+    "facebook"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Illustrated hero background",
+    "reCAPTCHA notice",
+    "Email-first"
+  ],
+  "notes": "A white card centered over a pale background with a 3D arc of tilted website thumbnails, and the WIX wordmark top left. The card has 'Log in' with a sign-up link, a focused email field with a 'Forgot Email?' link, and a blue Continue with Email button. Below an 'or' divider are Google, Facebook and Apple buttons and a 'Continue with SSO' text link, with terms and privacy links at the card base. A reCAPTCHA Enterprise notice runs along the page bottom. The requesting app and the offline_access scope are not mentioned."
+}

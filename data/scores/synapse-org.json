@@ -1,0 +1,12 @@
+{
+  "score": 2.6,
+  "criteria": {
+    "account": "none",
+    "permissions": "none",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "weak"
+  },
+  "reason": "Same template: callback URL and client shown, but no permissions, no account and a faded logo."
+}

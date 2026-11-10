@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Rebrand notice",
+    "Customer logo strip",
+    "Peach gradient",
+    "Email-only step"
+  ],
+  "notes": "The page is branded 'Within' with a 'Formerly Klarity' tag at the top left, and the heading says 'Sign in to Within', so the product name differs from the host name. A single email field and orange Continue button sit in the middle with the prompt 'Enter your work email to continue.' A fade to peach at the bottom holds a 'Trusted by' row of logos including DoorDash, Stripe, OpenAI and Uber. There are no social or SSO buttons, and the requesting app and permissions are not shown."
+}

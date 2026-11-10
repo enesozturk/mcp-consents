@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "toggles",
+  "names_client": true,
+  "highlights": [
+    "Scope presets",
+    "Shows redirect URI",
+    "Local redirect warning",
+    "Collapsed Advanced scopes"
+  ],
+  "notes": "The 'Authorize application' card says 'Grant access to Cloudflare API' and shows an MCP Consents chip with a Redirect URI row for localhost:33418. An amber warning says the client will receive the authorization code on this device and to continue only if the application is trusted. Under 'Base scopes' the user chooses one of three radio cards, Minimal (selected), Read only or Full access, and an Advanced section is collapsed. A blue note says scopes can be narrowed later and that step-up auth can request more, and the actions are Cancel and an orange Continue."
+}

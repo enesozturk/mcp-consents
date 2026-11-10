@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "microsoft",
+    "sso",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark gradient backdrop",
+    "Free-trial notice",
+    "Four sign-in routes"
+  ],
+  "notes": "A white card centered over a dark purple background with thin flowing lines and a star-shaped graphic. The card shows the Supermetrics logo and 'Connect to Supermetrics', plus a note that signing in starts a free 14-day trial with no credit card. It offers Google, Microsoft and Single Sign-On buttons, then an 'or use email' divider with a work email field and a Continue with work email button. Terms and privacy links open externally. The requesting app is not named and the long list of data-source scopes is not shown."
+}

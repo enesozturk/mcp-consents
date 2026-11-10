@@ -1,0 +1,17 @@
+{
+  "first_screen": "consent_then_login",
+  "sign_in_methods": [
+    "google",
+    "github",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": true,
+  "highlights": [
+    "Client named in sign-in",
+    "Customer proof footer",
+    "Google and GitHub",
+    "No scope list"
+  ],
+  "notes": "A pale page with the Mapbox logo top left and a left-aligned 'Sign in' heading. Directly under it: 'Authorize MCP Consents to use your Mapbox account.', so consent wording and sign-in share one screen. Continue with Google and GitHub buttons come first, then a 'Sign in with email' button that hides the email field. A footer line says Toyota builds navigation with Mapbox. The requested styles, fonts, datasets and token scopes are not shown."
+}

@@ -1,0 +1,14 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen product pitch",
+    "Work-email only",
+    "Product screenshot"
+  ],
+  "notes": "A split-screen page with a small orange Unthread logo and a 'Log in or sign up' link in the top bar. The left side asks 'Enter your work email', with an email field, a blue Next button and a 'Don't have a company workspace?' link. The right side is a product pitch with a helpdesk screenshot, the headline 'Automate your ticketing with AI that learns from you.' and three feature bullets. There are no social buttons, and the requesting app and the mcp scope are not mentioned."
+}

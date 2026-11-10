@@ -1,0 +1,5 @@
+{
+  "score": 2.2,
+  "criteria": {"account": "none", "permissions": "none", "redirect": "shown", "client_identity": "name", "ui": "ok", "brand": "ok"},
+  "reason": "Clean, simple Application access request that shows the localhost callback in a warning box, which is good for security, but it shows no permissions, account, workspace or read/write access (only a collapsed Advanced details link). Not enough context for the user."
+}

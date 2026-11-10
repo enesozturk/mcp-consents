@@ -1,0 +1,13 @@
+{
+  "first_screen": "other",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Cookiebot consent modal",
+    "Blocks the login form",
+    "Split-screen dark panel",
+    "Cookie toggles"
+  ],
+  "notes": "A large Cookiebot consent dialog with Consent, Details and About tabs sits over the Coupler.io 'Log in to your account' page. It has four toggles (necessary, preferences, statistics, marketing) all switched on, and Accept Selected and Accept All buttons. The login form behind it is mostly hidden, with only fragments of a dark button and an email field visible, and a dark right panel with marketing text. The requesting app and permissions are not visible."
+}

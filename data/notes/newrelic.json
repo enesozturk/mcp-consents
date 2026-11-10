@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google",
+    "github"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark UI",
+    "Icon-only provider buttons",
+    "GitLab and Bitbucket login",
+    "Full footer links"
+  ],
+  "notes": "A light card sits on a dark slate page with the New Relic logo and 'Log in to see your data'. It is email-first: an email field and a dark Next button, then an 'Or' divider and four icon-only buttons for Google, GitHub, GitLab and Bitbucket with no text labels. Forgot your password, Trouble logging in and Create a free account links sit below. The footer has policy links, Docs, Help Center and social icons. The page does not name the requesting app or show permissions."
+}

@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "microsoft",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Sign-up by default",
+    "Cookie banner",
+    "Calendar access explainer",
+    "reCAPTCHA notice"
+  ],
+  "notes": "A card with the krisp logo is headed 'Sign up for free', so new-account creation is the default, with a small 'Already have an account? Sign in' link. It offers Continue with Google and Microsoft buttons, followed by a 'Why does Krisp need calendar access?' link, an Or divider and a Continue with email button. A cookie consent panel with Accept All and Cookies settings overlaps the bottom of the page. The page does not name the requesting app or describe the meeting-related scopes."
+}

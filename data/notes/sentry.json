@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "toggles",
+  "names_client": true,
+  "highlights": [
+    "Dark UI",
+    "Scope toggles",
+    "Shows redirect URI",
+    "Redirect warning"
+  ],
+  "notes": "A dark consent page headed '<MCP Consents> is requesting access to Sentry', with the client name highlighted in purple. Four checked permission groups are listed with tool counts: Inspect Issues & Events (48 tools, read-only), Seer (18), Triage Issues (26) and Manage Projects & Teams (25), each with a one-line description. A yellow-bordered warning shows the callback http://localhost:33418/callback and tells the user to approve only if they trust that destination. Cancel and a purple Approve button sit below it, and no sign-in form appears on this screen."
+}

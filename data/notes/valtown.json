@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "github",
+    "google",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Testimonial quote",
+    "Cloudflare human check",
+    "Offset card layout"
+  ],
+  "notes": "A white page with the val town wordmark top left and an italic user testimonial on the left. A card on the right is headed 'Sign in' and offers Continue with GitHub and Continue with Google, then an OR divider, an email field and a bright blue Continue with email button. A Cloudflare 'Verify you are human' checkbox sits under the button, with sign-up, terms and privacy links below. The requesting app and the many project, blob and sqlite scopes are not shown."
+}

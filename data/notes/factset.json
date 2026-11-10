@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Email-only first step",
+    "Support contacts in card",
+    "Disabled button until input",
+    "Tall bordered card"
+  ],
+  "notes": "A tall bordered card shows the FactSet logo, 'Sign in to FactSet' and a single email field with an 'example@email.com' placeholder. A pale blue CONTINUE button looks disabled until an address is entered. The lower part of the card is mostly empty and holds a support phone number, a 'Support info' link and an email link. The page does not name the requesting app or describe the openid, mcp and email scopes."
+}

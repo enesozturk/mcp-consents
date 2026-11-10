@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Reference demo server",
+    "Client shown as raw UUID",
+    "What happens next explainer",
+    "Dark page background"
+  ],
+  "notes": "This is the MCP example server's page, identical in layout to the PDF viewer one. A white card on a black page shows the MCP logo and 'Authorization Required: This client wants to connect to your MCP server'. The client is shown only as a raw UUID in a monospace box. A 'What happens next?' note describes a redirect to the upstream provider, and a single black 'Continue to Authentication' button follows, with no Deny option and no permissions listed."
+}

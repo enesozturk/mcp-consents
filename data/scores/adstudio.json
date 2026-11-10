@@ -1,0 +1,12 @@
+{
+  "score": 4.7,
+  "criteria": {
+    "account": "picker",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Everything on one calm card: the signed-in account with Switch account, a Read only / Read & write switch, a workspace picker (all or selected), and the exact redirect URL with an unverified-app note, plus a post-authorization screen. Below Stripe because permissions cannot be chosen per app or resource."
+}

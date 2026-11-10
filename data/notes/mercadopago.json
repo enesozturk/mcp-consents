@@ -1,0 +1,13 @@
+{
+  "first_screen": "region_picker",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Country selector",
+    "Full yellow brand background",
+    "Disabled Confirmar button",
+    "Spanish UI"
+  ],
+  "notes": "A solid yellow page with the Mercado Pago handshake logo and a white card titled 'Seleccione el pais' (select the country). The card has a dropdown and a greyed-out Confirmar button that stays disabled until a country is chosen. This routing step comes before any sign-in, so users must pick their country first. It does not name the requesting app or describe permissions."
+}

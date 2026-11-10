@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "password",
+    "sso"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Sign in / Register tabs",
+    "Textured teal backdrop",
+    "SSO option",
+    "Google first"
+  ],
+  "notes": "A 'Welcome to Enterpret' card leads with a 'Sign in with Google' button, then Sign in and Register tabs over email and password fields with a 'Forgot password?' link. A teal 'Sign In' button is followed by an outlined 'Sign in with SSO' button. The card sits on a speckled teal grain background. It does not name the requesting app or show the requested mcp:read and mcp:write access."
+}

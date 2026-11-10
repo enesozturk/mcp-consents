@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "github",
+    "sso",
+    "password"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen testimonial",
+    "Sign in with ChatGPT",
+    "Documentation link"
+  ],
+  "notes": "A split-screen login. The left column has the supabase logo, 'Welcome back', and Continue with GitHub, Continue with ChatGPT and Continue with SSO buttons, followed by email and password fields and a green Sign in button. The right half is a large user testimonial quote with a Documentation button at the top right. A ChatGPT sign-in option is unusual among these screens. The terms line also mentions periodic update emails, and nothing is said about the requesting app or the thirteen requested scopes."
+}

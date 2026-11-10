@@ -1,0 +1,12 @@
+{
+  "first_screen": "error_page",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "403 Forbidden",
+    "Unstyled error",
+    "Dead end"
+  ],
+  "notes": "The capture shows only a bare '403 Forbidden' heading in default serif type on a white page, with no branding, message, or links. The request to Razorpay's dashboard was rejected before any login or consent UI rendered. There is no recovery path or explanation for the user."
+}

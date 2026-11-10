@@ -1,0 +1,13 @@
+{
+  "score": 3.9,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Redirect, name, logo and account are shown; permissions cannot be configured and the UI is a little broken.",
+  "by": "tester_feedback"
+}

@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link",
+    "google"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen hero",
+    "Beta badge",
+    "Dark halftone panel",
+    "Product pitch bullets"
+  ],
+  "notes": "The left half has the Novus logo with a BETA badge, 'Welcome back', an email field with a black Continue button and a Sign in with Google button, plus a Create one link. The right half is a dark red halftone panel with the headline 'Make every release more impactful than the last' and three short bullets. Fields use a monospace font. The page does not name the requesting app or describe permissions."
+}

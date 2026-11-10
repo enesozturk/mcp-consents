@@ -1,0 +1,16 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Dark UI with bold shapes",
+    "Embedded human verification",
+    "Spotify-style green button",
+    "Names the MCP server"
+  ],
+  "notes": "A white card over a black background with colourful geometric shapes shows the Spotify Technology logo and 'Welcome back'. The subtitle says 'Enter your email to continue to Confidence MCP Server', which is the only mention of the target service. The card has a Continue with Google pill, an email field, an inline 'Verify you are human' checkbox and a green Continue button, with a sign-up link below. The requesting app is not named and no permissions are described. This page is identical to the other Confidence entry."
+}

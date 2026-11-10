@@ -1,0 +1,12 @@
+{
+  "_doc": "Copy to private/personal-terms.json and fill in. Words found on signed-in screenshots (by OCR) and in published text that are pixelated or cut to their first letters. phrases: names and account names (multi-word phrases match in order). contains: substrings inside one word (usernames, handles). patterns: regular expressions for one word. ignore: exact words never masked. exempt: per gateway id, terms that stay readable on that gateway's own page (its brand). keep_chars: letters left visible.",
+  "phrases": ["Jane Doe", "Jane", "Acme Test Workspace"],
+  "contains": ["janedoe"],
+  "patterns": [
+    "^[A-Za-z0-9._%+-]+@(gmail|googlemail|outlook|hotmail|live|yahoo|icloud|me|proton|protonmail)\\.[a-z.]{2,}$",
+    "^(?=(?:\\D*\\d){9})\\+?[\\d\\s().-]+$"
+  ],
+  "ignore": [],
+  "exempt": {},
+  "keep_chars": 3
+}

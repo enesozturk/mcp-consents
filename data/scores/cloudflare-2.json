@@ -1,0 +1,12 @@
+{
+  "score": 4.4,
+  "criteria": {
+    "account": "none",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Client chip, redirect URI row with local-redirect warning, and Minimal / Read only / Full access choice plus advanced section; no account shown."
+}

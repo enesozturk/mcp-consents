@@ -1,0 +1,1496 @@
+{
+ "adobe-marketing-agent": {
+  "recorded_at": "2026-11-10T16:50:29.458Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "adstudio": {
+  "recorded_at": "2026-11-10T11:01:51.086Z",
+  "complete": true,
+  "gateway": 3,
+  "kinds": {
+   "1": "login",
+   "2": "gateway",
+   "3": "gateway",
+   "4": "noise",
+   "5": "noise",
+   "6": "gateway",
+   "7": "noise"
+  }
+ },
+ "ahrefs": {
+  "recorded_at": "2026-11-10T16:49:36.341Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "airtable": {
+  "recorded_at": "2026-11-10T16:23:37.464Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "gateway",
+   "4": "noise",
+   "5": "noise",
+   "6": "redirect",
+   "7": "noise"
+  }
+ },
+ "airwallex-agentos--airwallex-agentos": {
+  "recorded_at": "2026-11-10T16:49:51.468Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway"
+  }
+ },
+ "amplitude": {
+  "recorded_at": "2026-11-10T16:50:05.241Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "apollo": {
+  "recorded_at": "2026-11-10T16:39:46.173Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "appwrite": {
+  "recorded_at": "2026-11-10T16:24:41.032Z",
+  "complete": true,
+  "gateway": 4,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise",
+   "4": "gateway",
+   "5": "gateway",
+   "6": "noise",
+   "7": "noise",
+   "8": "gateway"
+  }
+ },
+ "atlan": {
+  "recorded_at": "2026-11-09T18:13:36.818Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "onboarding",
+   "2": "login",
+   "3": "noise",
+   "4": "onboarding"
+  }
+ },
+ "atlassian": {
+  "recorded_at": "2026-11-09T08:44:28.215Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway"
+  }
+ },
+ "atlassian-2": {
+  "recorded_at": "2026-11-10T16:43:53.593Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise",
+   "5": "noise"
+  }
+ },
+ "base44": {
+  "recorded_at": "2026-11-10T16:25:37.991Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "calendly": {
+  "recorded_at": "2026-11-09T08:54:53.710Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "canva": {
+  "recorded_at": "2026-11-10T16:35:35.157Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "carta": {
+  "recorded_at": "2026-11-10T16:33:29.760Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "cb-insights": {
+  "recorded_at": "2026-11-10T16:36:59.303Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "cdata-connect-ai": {
+  "recorded_at": "2026-11-09T08:56:28.940Z",
+  "complete": true,
+  "gateway": 0,
+  "kinds": {
+   "1": "redirect"
+  }
+ },
+ "circleback": {
+  "recorded_at": "2026-11-09T08:58:04.366Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "circleback-2": {
+  "recorded_at": "2026-11-10T16:28:20.443Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "clarify": {
+  "recorded_at": "2026-11-10T16:25:15.711Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "clerk": {
+  "recorded_at": "2026-11-10T16:22:32.802Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "login",
+   "3": "noise",
+   "4": "gateway",
+   "5": "noise"
+  }
+ },
+ "clickhouse": {
+  "recorded_at": "2026-11-09T08:59:31.852Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "gateway",
+   "3": "noise",
+   "4": "redirect",
+   "5": "noise"
+  }
+ },
+ "close": {
+  "recorded_at": "2026-11-10T16:25:50.331Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "cloudflare-2": {
+  "recorded_at": "2026-11-10T16:19:57.625Z",
+  "complete": true,
+  "gateway": 3,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise",
+   "5": "login",
+   "6": "noise",
+   "7": "noise",
+   "8": "gateway",
+   "9": "noise",
+   "10": "noise",
+   "11": "noise",
+   "12": "noise"
+  }
+ },
+ "cloudinary": {
+  "recorded_at": "2026-11-09T16:16:09.754Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {}
+ },
+ "cockroachdb--cockroachdb-cloud": {
+  "recorded_at": "2026-11-10T16:24:00.565Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "login",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise",
+   "5": "gateway",
+   "6": "noise"
+  }
+ },
+ "codspeed": {
+  "recorded_at": "2026-11-10T16:38:03.763Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "common-room": {
+  "recorded_at": "2026-11-10T18:23:46.598Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "confidence--confidence-docs": {
+  "recorded_at": "2026-11-09T09:06:43.512Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "gateway"
+  }
+ },
+ "confidence--confidence-flags": {
+  "recorded_at": "2026-11-09T09:07:03.243Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway"
+  }
+ },
+ "consensus": {
+  "recorded_at": "2026-11-10T16:36:12.201Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "contentsquare": {
+  "recorded_at": "2026-11-10T16:37:09.532Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise",
+   "4": "gateway"
+  }
+ },
+ "context7": {
+  "recorded_at": "2026-11-10T16:34:32.498Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "coupler-io": {
+  "recorded_at": "2026-11-10T16:34:45.765Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "craft": {
+  "recorded_at": "2026-11-10T16:36:24.521Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "crossbeam": {
+  "recorded_at": "2026-11-10T16:47:34.198Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "digits": {
+  "recorded_at": "2026-11-09T12:10:07.737Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login",
+   "2": "noise",
+   "3": "onboarding",
+   "4": "noise"
+  }
+ },
+ "dropbox": {
+  "recorded_at": "2026-11-10T16:40:00.405Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "enterpret-wisdom": {
+  "recorded_at": "2026-11-09T12:10:40.626Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {}
+ },
+ "era-context": {
+  "recorded_at": "2026-11-10T16:42:55.745Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "login",
+   "3": "noise",
+   "4": "noise",
+   "5": "gateway",
+   "6": "noise"
+  }
+ },
+ "eraser": {
+  "recorded_at": "2026-11-10T16:41:32.083Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "exa": {
+  "recorded_at": "2026-11-10T16:41:01.631Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "expo": {
+  "recorded_at": "2026-11-10T16:21:15.068Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "fathom": {
+  "recorded_at": "2026-11-09T13:56:03.249Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "noise",
+   "2": "upsell"
+  }
+ },
+ "fellow-ai": {
+  "recorded_at": "2026-11-10T16:28:29.108Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "fever-event-discovery": {
+  "recorded_at": "2026-11-10T16:45:23.138Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "firecrawl": {
+  "recorded_at": "2026-11-10T16:23:20.614Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "fireflies": {
+  "recorded_at": "2026-11-10T16:49:26.190Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "forge-skills--ads-mcp": {
+  "recorded_at": "2026-11-09T09:42:23.526Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "forge-skills--forge": {
+  "recorded_at": "2026-11-09T09:42:32.670Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "fullstory": {
+  "recorded_at": "2026-11-09T12:15:51.111Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login"
+  }
+ },
+ "gainsight-staircase-ai": {
+  "recorded_at": "2026-11-09T13:57:03.555Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login",
+   "2": "login"
+  }
+ },
+ "gamma": {
+  "recorded_at": "2026-11-10T11:11:05.676Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {}
+ },
+ "grain": {
+  "recorded_at": "2026-11-10T16:41:11.523Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "granola": {
+  "recorded_at": "2026-11-10T16:37:24.840Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "greptile": {
+  "recorded_at": "2026-11-09T09:44:43.994Z",
+  "complete": true,
+  "gateway": 0,
+  "kinds": {}
+ },
+ "guru": {
+  "recorded_at": "2026-11-09T13:57:41.652Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login"
+  }
+ },
+ "gusto": {
+  "recorded_at": "2026-11-10T11:14:00.148Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {}
+ },
+ "harmonic": {
+  "recorded_at": "2026-11-10T16:37:41.401Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "honeycomb": {
+  "recorded_at": "2026-11-09T09:45:36.887Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "hostinger": {
+  "recorded_at": "2026-11-10T16:38:11.511Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "hunter": {
+  "recorded_at": "2026-11-09T13:57:53.934Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login",
+   "2": "login",
+   "3": "noise"
+  }
+ },
+ "ifttt": {
+  "recorded_at": "2026-11-10T16:43:18.453Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "intercom": {
+  "recorded_at": "2026-11-10T16:21:49.488Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "intuit-mailchimp": {
+  "recorded_at": "2026-11-10T16:45:35.572Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "jam": {
+  "recorded_at": "2026-11-10T16:33:54.234Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "jentic": {
+  "recorded_at": "2026-11-09T09:50:21.305Z",
+  "complete": true,
+  "gateway": 0,
+  "kinds": {
+   "1": "login",
+   "2": "redirect"
+  }
+ },
+ "jotform": {
+  "recorded_at": "2026-11-10T16:47:04.854Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "ketryx": {
+  "recorded_at": "2026-11-09T13:58:14.353Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login"
+  }
+ },
+ "klaviyo": {
+  "recorded_at": "2026-11-10T16:38:18.210Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "krisp": {
+  "recorded_at": "2026-11-09T13:58:28.121Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "onboarding"
+  }
+ },
+ "lawve-ai": {
+  "recorded_at": "2026-11-10T18:23:58.683Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "leadfeeder": {
+  "recorded_at": "2026-11-10T16:45:51.466Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "legal-data-hunter": {
+  "recorded_at": "2026-11-10T16:48:14.906Z",
+  "complete": true,
+  "gateway": 0,
+  "kinds": {
+   "1": "login",
+   "2": "redirect"
+  }
+ },
+ "lilt": {
+  "recorded_at": "2026-11-10T16:35:42.145Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "linear": {
+  "recorded_at": "2026-11-09T18:07:11.970Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "linq-alpha": {
+  "recorded_at": "2026-11-09T13:58:38.007Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login",
+   "2": "login"
+  }
+ },
+ "local-falcon": {
+  "recorded_at": "2026-11-09T13:58:54.431Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "upsell"
+  }
+ },
+ "logrocket": {
+  "recorded_at": "2026-11-10T16:41:40.475Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "lorikeet": {
+  "recorded_at": "2026-11-09T13:59:16.126Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "noise",
+   "2": "noise",
+   "3": "onboarding",
+   "4": "login"
+  }
+ },
+ "lovable": {
+  "recorded_at": "2026-11-10T16:28:40.753Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "lucid": {
+  "recorded_at": "2026-11-10T16:40:09.186Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "lumin": {
+  "recorded_at": "2026-11-10T16:22:04.362Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "lunarcrush": {
+  "recorded_at": "2026-11-09T14:00:09.415Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "noise",
+   "2": "onboarding"
+  }
+ },
+ "lusha": {
+  "recorded_at": "2026-11-09T14:00:32.513Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "noise",
+   "2": "login"
+  }
+ },
+ "magic-patterns": {
+  "recorded_at": "2026-11-10T16:36:35.231Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "mailerlite": {
+  "recorded_at": "2026-11-10T16:43:25.944Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "mapbox--mapbox": {
+  "recorded_at": "2026-11-10T16:26:06.192Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "mapbox--mapbox-devkit": {
+  "recorded_at": "2026-11-09T12:23:16.560Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway"
+  }
+ },
+ "mem": {
+  "recorded_at": "2026-11-10T16:41:19.458Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "metaview": {
+  "recorded_at": "2026-11-09T14:00:50.547Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "noise",
+   "2": "login"
+  }
+ },
+ "migration-to-aws--temporal-docs": {
+  "recorded_at": "2026-11-10T16:51:29.607Z",
+  "complete": true,
+  "gateway": 0,
+  "kinds": {
+   "1": "login",
+   "2": "noise",
+   "3": "redirect"
+  }
+ },
+ "mintlify": {
+  "recorded_at": "2026-11-10T16:36:03.467Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "mintlify--mintlify-search": {
+  "recorded_at": "2026-11-09T12:24:43.998Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "login",
+   "3": "onboarding",
+   "4": "login",
+   "5": "login",
+   "6": "login",
+   "7": "onboarding",
+   "8": "onboarding",
+   "9": "gateway",
+   "10": "noise"
+  }
+ },
+ "miro": {
+  "recorded_at": "2026-11-10T16:42:40.340Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "mixpanel": {
+  "recorded_at": "2026-11-10T16:41:51.423Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "monday": {
+  "recorded_at": "2026-11-10T16:34:53.998Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "motherduck": {
+  "recorded_at": "2026-11-10T16:40:21.760Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "motion": {
+  "recorded_at": "2026-11-10T16:26:22.292Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "netlify": {
+  "recorded_at": "2026-11-10T16:40:33.829Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "newrelic": {
+  "recorded_at": "2026-11-09T12:29:27.698Z",
+  "complete": true,
+  "gateway": 0,
+  "kinds": {
+   "1": "redirect"
+  }
+ },
+ "nimble": {
+  "recorded_at": "2026-11-10T16:42:00.113Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "login",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "notion": {
+  "recorded_at": "2026-11-10T16:21:35.485Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "otter-ai": {
+  "recorded_at": "2026-11-10T16:36:49.098Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "pandadoc": {
+  "recorded_at": "2026-11-10T16:47:22.842Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "peec-ai": {
+  "recorded_at": "2026-11-09T14:01:20.594Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {}
+ },
+ "pendo-analytics--novus": {
+  "recorded_at": "2026-11-09T14:01:26.931Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login"
+  }
+ },
+ "pendo-analytics--pendo-external": {
+  "recorded_at": "2026-11-09T14:01:47.169Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login",
+   "2": "login"
+  }
+ },
+ "phoenix": {
+  "recorded_at": "2026-11-09T14:02:05.978Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login"
+  }
+ },
+ "plaid": {
+  "recorded_at": "2026-11-10T16:34:06.441Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "polar-analytics": {
+  "recorded_at": "2026-11-09T14:02:29.516Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login",
+   "2": "login"
+  }
+ },
+ "posthog": {
+  "recorded_at": "2026-11-10T16:19:18.382Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "postman": {
+  "recorded_at": "2026-11-10T16:43:35.124Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "prisma": {
+  "recorded_at": "2026-11-10T16:19:46.327Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "process-street": {
+  "recorded_at": "2026-11-10T16:35:08.772Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "quartr": {
+  "recorded_at": "2026-11-10T16:28:47.689Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "quo": {
+  "recorded_at": "2026-11-10T16:37:53.774Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "railway": {
+  "recorded_at": "2026-11-10T16:22:55.570Z",
+  "complete": true,
+  "gateway": 3,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise",
+   "4": "gateway",
+   "5": "gateway",
+   "6": "noise"
+  }
+ },
+ "resend": {
+  "recorded_at": "2026-11-10T16:22:16.672Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "rootly": {
+  "recorded_at": "2026-11-09T14:02:48.199Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login"
+  }
+ },
+ "runway-api": {
+  "recorded_at": "2026-11-10T16:40:43.582Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "sanity": {
+  "recorded_at": "2026-11-10T16:34:17.988Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "scholar-gateway": {
+  "recorded_at": "2026-11-09T14:02:59.309Z",
+  "complete": true,
+  "gateway": 0,
+  "kinds": {
+   "1": "login",
+   "2": "onboarding",
+   "3": "onboarding",
+   "4": "onboarding"
+  }
+ },
+ "scite": {
+  "recorded_at": "2026-11-09T14:04:16.006Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "upsell",
+   "2": "noise"
+  }
+ },
+ "semrush": {
+  "recorded_at": "2026-11-10T16:52:01.451Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "send": {
+  "recorded_at": "2026-11-09T14:05:27.876Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "sentry": {
+  "recorded_at": "2026-11-10T16:28:54.325Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "shippo": {
+  "recorded_at": "2026-11-09T14:05:39.910Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login",
+   "2": "noise",
+   "3": "onboarding"
+  }
+ },
+ "sketchup": {
+  "recorded_at": "2026-11-09T16:21:30.570Z",
+  "complete": true,
+  "gateway": 0,
+  "kinds": {
+   "1": "noise",
+   "2": "onboarding"
+  }
+ },
+ "splice": {
+  "recorded_at": "2026-11-10T07:48:44.246Z",
+  "complete": true,
+  "gateway": 0,
+  "kinds": {
+   "1": "redirect"
+  }
+ },
+ "sprouts": {
+  "recorded_at": "2026-11-09T14:06:51.996Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login"
+  }
+ },
+ "square": {
+  "recorded_at": "2026-11-10T16:35:19.366Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway"
+  }
+ },
+ "stripe": {
+  "recorded_at": "2026-11-10T16:18:31.268Z",
+  "complete": true,
+  "gateway": 5,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise",
+   "5": "gateway",
+   "6": "noise",
+   "7": "gateway",
+   "8": "noise",
+   "9": "gateway",
+   "10": "noise"
+  }
+ },
+ "stytch": {
+  "recorded_at": "2026-11-10T16:38:26.372Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "supabase": {
+  "recorded_at": "2026-11-10T16:26:31.909Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway"
+  }
+ },
+ "superhuman-mail": {
+  "recorded_at": "2026-11-09T16:18:26.872Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "noise",
+   "2": "login",
+   "3": "upsell",
+   "4": "noise",
+   "5": "onboarding"
+  }
+ },
+ "supermetrics": {
+  "recorded_at": "2026-11-10T07:48:30.300Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login"
+  }
+ },
+ "surveymonkey": {
+  "recorded_at": "2026-11-10T16:46:11.972Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "sybill": {
+  "recorded_at": "2026-11-10T16:46:38.132Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "synapse-org": {
+  "recorded_at": "2026-11-10T16:46:49.270Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway"
+  }
+ },
+ "tavily": {
+  "recorded_at": "2026-11-09T16:20:39.077Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "onboarding",
+   "2": "noise"
+  }
+ },
+ "thoughtspot-spotter": {
+  "recorded_at": "2026-11-10T16:43:43.120Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "tldv": {
+  "recorded_at": "2026-11-10T16:48:35.491Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "login",
+   "4": "noise",
+   "5": "gateway",
+   "6": "noise"
+  }
+ },
+ "todoist": {
+  "recorded_at": "2026-11-10T16:38:35.719Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "noise",
+   "2": "gateway",
+   "3": "noise"
+  }
+ },
+ "tropic": {
+  "recorded_at": "2026-11-10T07:48:08.868Z",
+  "complete": true,
+  "gateway": 0,
+  "kinds": {
+   "1": "redirect"
+  }
+ },
+ "turkish-airlines": {
+  "recorded_at": "2026-11-10T16:29:02.311Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "valtown": {
+  "recorded_at": "2026-11-09T16:22:38.423Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "onboarding",
+   "3": "gateway",
+   "4": "noise"
+  }
+ },
+ "vibe-prospecting": {
+  "recorded_at": "2026-11-10T16:50:38.846Z",
+  "complete": true,
+  "gateway": 2,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise",
+   "3": "gateway"
+  }
+ },
+ "webflow": {
+  "recorded_at": "2026-11-10T16:34:24.812Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "windsor-ai": {
+  "recorded_at": "2026-11-09T16:24:55.227Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "login"
+  }
+ },
+ "wix": {
+  "recorded_at": "2026-11-10T16:29:10.723Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "workable": {
+  "recorded_at": "2026-11-09T16:26:03.715Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {}
+ },
+ "youdotcom-agent-skills--you": {
+  "recorded_at": "2026-11-10T16:49:09.920Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "login",
+   "2": "gateway"
+  }
+ },
+ "zapier": {
+  "recorded_at": "2026-11-10T16:29:18.554Z",
+  "complete": true,
+  "gateway": 1,
+  "kinds": {
+   "1": "gateway",
+   "2": "noise"
+  }
+ },
+ "zocks": {
+  "recorded_at": "2026-11-09T16:28:27.841Z",
+  "complete": false,
+  "gateway": 0,
+  "kinds": {
+   "1": "noise",
+   "2": "onboarding"
+  }
+ }
+}

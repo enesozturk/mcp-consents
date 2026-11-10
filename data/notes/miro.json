@@ -1,0 +1,13 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "summary",
+  "names_client": true,
+  "highlights": [
+    "Shows redirect URI",
+    "Advanced Details expander",
+    "Why am I seeing this link",
+    "Two-logo connection header"
+  ],
+  "notes": "A white page with the Miro wordmark top left and, centered, a client icon and the Miro logo joined by two-way arrows. The heading is 'Authorize Application', followed by 'MCP Consents wants to access your Miro boards via Miro MCP.' A yellow box states 'Credentials will be sent to: http://localhost:33418/callback'. An 'Advanced Details' expander and a 'Why am I seeing this?' link sit above a blue Allow Access button and a grey Deny button. Permissions are only the one-line mention of boards, with no itemised scopes."
+}

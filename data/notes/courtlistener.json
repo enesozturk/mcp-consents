@@ -1,0 +1,12 @@
+{
+  "first_screen": "error_page",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Unstyled CloudFront 403",
+    "No branding",
+    "Request ID shown"
+  ],
+  "notes": "An unstyled default-font page reads '403 ERROR The request could not be satisfied' with a CloudFront message about blocked requests, possible traffic or configuration errors, and a Request ID. There is no CourtListener branding, sign-in form or consent text, so the requesting app and permissions are not shown."
+}

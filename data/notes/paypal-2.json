@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Cookie banner",
+    "Cancel returns to Default Application",
+    "Language links",
+    "Sandbox host"
+  ],
+  "notes": "This is the PayPal sandbox login. A card with the PayPal wordmark says 'Log in with PayPal' and 'Enter your email address to get started', with an email or mobile number field, a Forgot email link, a blue Next button and an outlined Sign Up button. A 'Cancel and return to Default Application' link refers to the client by a generic placeholder name, not MCP Consents. English, Francais, Espanol and Chinese links sit below, and a cookie banner with a 'Yes, I accept' button covers the bottom. No permissions are listed."
+}

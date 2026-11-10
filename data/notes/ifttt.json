@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "password",
+    "google",
+    "apple",
+    "facebook"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Sign up by default",
+    "Oversized type",
+    "Pill buttons",
+    "Facebook option"
+  ],
+  "notes": "The IFTTT.ai wordmark sits above a large 'Sign up' heading, so new-account creation is the default rather than login. Email and password fields lead to a big black 'Get started' pill, then an 'or' divider and Continue with Google, Apple and Facebook buttons. A terms line follows, and 'Already on IFTTT? Log in here' is at the very bottom of the viewport. The page does not name the requesting app or describe the mcp scope."
+}

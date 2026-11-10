@@ -1,0 +1,12 @@
+{
+  "score": 3.8,
+  "criteria": {
+    "account": "picker",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Charming, compact page with a workspace switcher and two clear capabilities. No redirect URL and no way to configure access."
+}

@@ -1,0 +1,13 @@
+{
+  "first_screen": "error_page",
+  "sign_in_methods": [],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Vercel Security Checkpoint",
+    "Bot check failure",
+    "Unbranded",
+    "Dead end"
+  ],
+  "notes": "A near-empty white page reads 'Failed to verify your browser' with 'Code 21'. A footer shows 'Vercel Security Checkpoint' and a request ID. The automated capture browser was rejected by Vercel's bot protection before the Midpage sign-in could load. There is no retry button, no branding and no mention of the requesting app or permissions."
+}

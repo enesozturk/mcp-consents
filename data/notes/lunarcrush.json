@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "google",
+    "apple",
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen hero",
+    "Dark UI",
+    "Login code by email",
+    "No payment required note"
+  ],
+  "notes": "A dark left panel shows the LunarCrush logo and 'Connect your LunarCrush account', with a line saying you will return to the app connected and that no payment is required. It offers white pill buttons for Google and Apple, then an email field with a green 'Continue with email' button that sends a login code. The right half is a light panel with a photo of a person at a laptop and an 'Ask your LLM' prompt mock-up. The page does not name the client or list permissions, and the green button text is low contrast."
+}

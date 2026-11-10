@@ -1,0 +1,17 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "password",
+    "google",
+    "sso"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen session-ended panel",
+    "Info banner for Hotjar users",
+    "Language selector",
+    "Prefilled placeholder email"
+  ],
+  "notes": "The left column has a 'Sign in' form with an email field showing a sample address, a password field with show toggle, a Forgot your password link, a greyed Continue button, then Sign in with Google and Sign in with SAML SSO. The right panel shows 'Sign back in to continue your analysis' with 'Your session has ended. Re-authenticate to continue to Contentsquare', which reads like an expired-session message. A banner points Hotjar account holders to a separate sign-in and a language dropdown is in the header. The requesting app and permissions are not shown."
+}

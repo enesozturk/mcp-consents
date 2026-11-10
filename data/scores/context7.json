@@ -1,0 +1,12 @@
+{
+  "score": 3.6,
+  "criteria": {
+    "account": "picker",
+    "permissions": "summary",
+    "redirect": "warning_only",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Teamspace picker and an account chooser, then a tidy consent with a localhost trust warning. Permissions are only profile and email, and you cannot go back to the accounts step."
+}

@@ -1,0 +1,12 @@
+{
+  "score": 2.6,
+  "criteria": {
+    "account": "none",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "none",
+    "ui": "weak",
+    "brand": "ok"
+  },
+  "reason": "Scope-tagged list that scrolls inside a small box, no account, no redirect and the client is not named."
+}

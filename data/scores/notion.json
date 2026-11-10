@@ -1,0 +1,12 @@
+{
+  "score": 4.1,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Workspace shown, permission checklist, redirect with a must-tick trust box and clean Notion styling; permissions not configurable and no workspace picker."
+}

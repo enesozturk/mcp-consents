@@ -1,0 +1,12 @@
+{
+  "score": 1.4,
+  "criteria": {
+    "account": "shown",
+    "permissions": "summary",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "weak",
+    "brand": "ok"
+  },
+  "reason": "Plain page showing the account email and a raw 'mcp.access' scope, with no redirect and an unstyled look."
+}

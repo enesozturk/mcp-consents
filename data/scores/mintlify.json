@@ -1,0 +1,12 @@
+{
+  "score": 3.5,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "shown",
+    "client_identity": "name_and_logo",
+    "ui": "polished",
+    "brand": "ok"
+  },
+  "reason": "Tidy card with identity permissions, the redirect and the signed-in email. Permissions are identity only and not configurable."
+}

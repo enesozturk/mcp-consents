@@ -1,0 +1,18 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "password",
+    "passkey",
+    "github",
+    "sso"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Split-screen with centered logo",
+    "Passkey link",
+    "GitHub and SSO buttons",
+    "Unbranded to client"
+  ],
+  "notes": "A left-aligned form with 'Sign in' and a sign-up link, an email field, a password field with a show toggle, and Forgot password and 'Sign in with a passkey' links. A dark Sign in button is followed by 'Or with' GitHub and Single sign-on buttons. The right side is empty apart from the PlanetScale logo centered between thin vertical rules. The page does not name the requesting app, and none of the very large set of database and organization scopes is shown."
+}

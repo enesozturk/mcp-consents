@@ -1,0 +1,12 @@
+{
+  "score": 2.8,
+  "criteria": {
+    "account": "shown",
+    "permissions": "none",
+    "redirect": "none",
+    "client_identity": "name_and_logo",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Minimal consent card with client and account email, but no permissions or redirect and a heavy profile form beforehand."
+}

@@ -1,0 +1,15 @@
+{
+  "first_screen": "login",
+  "sign_in_methods": [
+    "magic_link"
+  ],
+  "permissions": "none",
+  "names_client": false,
+  "highlights": [
+    "Full-bleed purple burst background",
+    "Small centered card",
+    "Remember me checkbox",
+    "Disabled Sign in button"
+  ],
+  "notes": "A saturated purple background with a radial light-streak pattern fills the page, with a small white card in the center. The card has the Pylon logo, an email field, a Remember me checkbox and a pale purple Sign in button with an arrow that looks disabled until an email is entered. White terms text below links the Terms of Service and Privacy Policy. The page does not name the requesting app or show permissions."
+}

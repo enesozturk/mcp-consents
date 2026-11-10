@@ -1,0 +1,12 @@
+{
+  "score": 4.0,
+  "criteria": {
+    "account": "shown",
+    "permissions": "configurable",
+    "redirect": "shown",
+    "client_identity": "name",
+    "ui": "polished",
+    "brand": "strong"
+  },
+  "reason": "Five resource scopes with read/write levels and expandable detail, redirect host and revoke note, signed-in account with sign out; client logo is missing."
+}

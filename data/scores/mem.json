@@ -1,0 +1,12 @@
+{
+  "score": 3.0,
+  "criteria": {
+    "account": "shown",
+    "permissions": "list",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Account name and email with two vague permissions in a neat card. No redirect and little detail."
+}

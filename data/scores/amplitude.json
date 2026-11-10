@@ -1,0 +1,12 @@
+{
+  "score": 2.2,
+  "criteria": {
+    "account": "shown",
+    "permissions": "none",
+    "redirect": "none",
+    "client_identity": "name",
+    "ui": "ok",
+    "brand": "ok"
+  },
+  "reason": "Minimal and clean but only names an auto-generated project; no permissions, no redirect, awkward '[MCP]' title."
+}

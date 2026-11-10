@@ -1,0 +1,12 @@
+{
+  "first_screen": "consent",
+  "sign_in_methods": [],
+  "permissions": "list",
+  "names_client": false,
+  "highlights": [
+    "Itemised scopes with emoji icons",
+    "Large Adobe logo tile",
+    "Cancel and Allow Access buttons"
+  ],
+  "notes": "A centered white card with a large red Adobe logo tile says 'Grant Access' and that 'Application' is requesting access to your Adobe account. It lists four permissions with emoji icons: basic profile, email address, Adobe organization data, and read and analyze Adobe Experience Platform data. Cancel and Allow Access buttons sit side by side with a short agreement line below. The requesting app is only called the generic 'Application', not MCP Consents, and there is no sign-in form on this screen."
+}

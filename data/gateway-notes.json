@@ -1,0 +1,5 @@
+{
+  "_doc": "Editor's notes shown on a gateway's page, for things that span recordings.",
+  "youdotcom-agent-skills--you": "You.com ships a separate MCP server per product (main, Finance, Research). All of them use this same gateway, so only the main one is listed.",
+  "mapbox--mapbox": "Mapbox also ships a DevKit MCP server that uses this same gateway; only the main one is listed."
+}
